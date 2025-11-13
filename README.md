@@ -1,5 +1,5 @@
 # Planda
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 
 🛠️ Built by ``Doren Vermaut`` & ``Luna Van Tittelboom`` & ``Bram Eeckhout''    
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
