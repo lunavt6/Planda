@@ -1,7 +1,7 @@
 # Planda
 Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 
-🛠️ Built by ``Doren Vermaut`` & ``Luna Van Tittelboom`` & ``Bram Eeckhout''    
+🛠️ Built by ``Doren Vermaut`` & ``Luna Van Tittelboom`` & ``Bram Eeckhout``    
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
@@ -40,7 +40,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 * Literatuuronderzoek (N=x)
   * [Protocol](url)
   * [Rapport](url)
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](url)
   * [Rapport](url)
     
