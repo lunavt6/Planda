@@ -8,12 +8,11 @@ Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit mijn interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Ook mijn benchmarkingonderzoek toonde aan dat er nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
+Mijn oplossing is een interactieve knuffelbeer met een schermpje op zijn buik dat kinderen stap voor stap door hun ochtendroutine begeleidt. Het beertje toont en zegt welke taken moeten gebeuren, en herhaalt dit indien nodig. Ouders kunnen via een app de taken en volgorde zelf instellen, zodat de routine afgestemd is op hun gezin. De beer heeft twee knoppen: één om aan te geven dat een taak klaar is, en één om hulp te vragen.
+
+Doordat het kind op een speelse en vertrouwde manier begeleid wordt, verloopt de ochtend vlotter en zelfstandiger. Ouders hoeven minder tussen te komen, wat zorgt voor minder stress en een rustiger begin van de dag.
 - Hero sketch/render/image, vb.
 <p align="center">
   <img src="img/hero_example.png" width="100%">
