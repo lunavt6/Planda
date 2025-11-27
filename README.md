@@ -17,9 +17,20 @@ Doordat het kind op een speelse en vertrouwde manier begeleid wordt, verloopt de
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Opvoeden kan een bron van vreugde zijn, maar ook van aanzienlijke stress. Veel ouders ervaren vooral in de ochtend- en avondroutine tijdsdruk, machtsstrijdjes over gedrag en frustraties bij het zelfstandig uitvoeren van dagelijkse taken door hun kinderen (Sofie, Ludovic & Kaat, 2025). Deze zogenaamde opvoedstress kan leiden tot gespannen interacties tussen ouder en kind, waarbij routines zoals aankleden, tandenpoetsen en eten escaleren tot stressvolle momenten voor beide partijen. Studies tonen aan dat stress bij ouders niet alleen hun welzijn beïnvloedt, maar ook het zelfvertrouwen en de zelfstandigheid van kinderen kan beperken (Thomas & Ritter, 2022) 1
+.
+
+Het Planda Beer-project richt zich op het verminderen van opvoedstress door kinderen te ondersteunen bij het plannen, uitvoeren en afronden van dagelijkse routines. Het project combineert fysieke en digitale elementen tot een “phygital” hulpmiddel: een interactieve knuffelbeer die kinderen begeleidt bij hun routines, positieve feedback geeft en tegelijkertijd ouders subtiel informeert over voortgang zonder druk uit te oefenen. Door een tastbaar, speels en visueel systeem te gebruiken, willen we autonomie en motivatie bij kinderen stimuleren, terwijl ouders worden ondersteund in het behouden van een rustige, gestructureerde dag (Sofie, Ludovic & Kaat, 2025; St. Jans Gasthuis Weert, z.j.).
+
+De doelstellingen van het project zijn drieledig:
+
+Autonomie stimuleren – kinderen leren zelf taken uitvoeren en hun voortgang monitoren.
+
+Stressreductie bij ouders – routines verlopen vloeiender zonder constante correcties of conflicten.
+
+Integratie van phygital technologie – digitale feedback en fysieke interactie versterken elkaar in een kindvriendelijk ontwerp.
+
+Boundary conditions voor Planda Beer zijn duidelijk: het product moet veilig, duurzaam en hygiënisch zijn, geschikt voor kinderen, intuïtief in gebruik, en de digitale component mag geen stress of controlegevoel creëren. Dit project onderzoekt hoe een mensgerichte technologie opvoedstress kan verminderen en routines bij jonge kinderen kan ondersteunen.
 
 ## Inhoudstafel
 
