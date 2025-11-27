@@ -8,9 +8,9 @@ Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit mijn interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Ook mijn benchmarkingonderzoek toonde aan dat er nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
+Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Daarnaast toonde benchmarkingonderzoek aan dat er momenteel nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
 
-Mijn oplossing is een interactieve knuffelbeer met een schermpje op zijn buik dat kinderen stap voor stap door hun ochtendroutine begeleidt. Het beertje toont en zegt welke taken moeten gebeuren, en herhaalt dit indien nodig. Ouders kunnen via een app de taken en volgorde zelf instellen, zodat de routine afgestemd is op hun gezin. De beer heeft twee knoppen: één om aan te geven dat een taak klaar is, en één om hulp te vragen.
+Dde oplossing bestaat uit een interactieve knuffelbeer met een schermpje op zijn buik dat kinderen stap voor stap door hun ochtendroutine begeleidt. Het beertje toont en zegt welke taken moeten gebeuren, en herhaalt dit indien nodig. Ouders kunnen via een app de taken en volgorde zelf instellen, zodat de routine afgestemd is op hun gezin. De beer heeft twee knoppen: één om aan te geven dat een taak klaar is, en één om hulp te vragen.
 
 Doordat het kind op een speelse en vertrouwde manier begeleid wordt, verloopt de ochtend vlotter en zelfstandiger. Ouders hoeven minder tussen te komen, wat zorgt voor minder stress en een rustiger begin van de dag.
 ![planpanda foto](<ChatGPT Image 6 nov 2025, 10_24_21.png>) 
