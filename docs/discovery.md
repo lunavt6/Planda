@@ -15,9 +15,9 @@ Het hoofddoel van de discovery-fase was inzicht verkrijgen in **opvoedstress bij
 **Deelvragen**:
 
 * Welke momenten veroorzaken de meeste opvoedstress bij ouders?
-* Hoe reageren kinderen op digitale en fysieke stimuli tijdens routines?
-* Welke strategieën gebruiken ouders en zorgprofessionals om moeilijke eters te ondersteunen?
-* Welke features of interacties zouden een phygital product effectief en aantrekkelijk maken?
+* Hoe reageren kinderen bij het uitvoeren van deze taak?
+* Welke taken kan het kind al zelfstandig uitvoeren?
+* Welke oplossingen bestaan er al en wat zijn de gebreken hierbij?
 
 ---
 
@@ -33,7 +33,7 @@ De discovery-fase bestond uit **drie complementaire onderzoeksmethoden**:
 
 **Protocol:**
 
-* Interviews volgden een **topic guide** met vragen over stressmomenten, routines, eetmomenten, autonomie van het kind en ervaringen met technologie.
+* Interviews volgden een **topic guide** met vragen over stressmomenten, reacties van het kind, autonomie van het kind en ervaringen met huidige producten.
 * Observaties richtten zich op **interactiepatronen, afleidingen, gebruik van routines en zintuiglijke stimuli**.
 * Data-analyse gebeurde via **thematische codering** en synthese in een **fishbone-diagram**, aangevuld met **affinity mapping** voor inzichten uit observaties en interviews.
 
