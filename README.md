@@ -57,7 +57,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
     
 ### Definition
 * User testing wave 1 (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/bram_eeckhout_ugent_be/Documents/Project%20GO%20-%20Team%204/Definition/Protocol%20Wave%201.docx?d=w2e2d2264225748f2b66d4e8868a0a32a&csf=1&web=1&e=O1puIK)
   * [Rapport](url)
 * User testing wave 2 (N=x)
   * [Protocol](url)
