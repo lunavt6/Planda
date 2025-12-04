@@ -5,11 +5,11 @@
 
 ### **Doelstellingen**
 
-Het hoofddoel van de discovery-fase was inzicht verkrijgen in **opvoedstress bij jonge ouders**, en hoe een **phygital product zoals Planda Beer** kan bijdragen aan **stressreductie, autonomie en positieve stimulatie bij kinderen**. Specifieke doelstellingen waren:
+Het hoofddoel van de discovery-fase was inzicht verkrijgen in **opvoedstress bij jonge ouders**, en hoe een **phygital product** kan bijdragen aan **stressvermindering, autonomie en positieve stimulatie bij kinderen**. Specifieke doelstellingen waren:
 
 1. **Begrijpen van dagelijkse routines van ouders en kinderen**: ochtend- en avondrituelen, tijdsdruk, gebruik van digitale hulpmiddelen.
 2. **Identificeren van pijnpunten en uitdagingen bij opvoeding**: stressfactoren, machtsspelletjes, zintuiglijke gevoeligheden van kinderen.
-3. **Onderzoeken van bestaande oplossingen en inspiratie voor phygital producten**: slimme knuffels, interactieve borden, apps voor opvoedondersteuning.
+3. **Onderzoeken van bestaande oplossingen**: slimme knuffels, interactieve borden, apps voor opvoedondersteuning.
 4. **Verzamelen van gedragsinzichten bij kinderen**: autonomie, motivatie, sensorische voorkeuren.
 
 **Deelvragen**:
