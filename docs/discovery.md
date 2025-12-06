@@ -33,6 +33,7 @@ Door beide methoden te gebruiken konden zowel de ervaringen van ouders als infor
 ### **Resultaten**
 
 **Interviews** 
+
 Uit de interviews blijkt dat opvoedstress bij jonge ouders vooral voorkomt tijdens dagelijkse routines waarbij tijdsdruk een grote rol speelt. Vooral de ochtend wordt als het meest stressvolle moment ervaren, omdat ouders in korte tijd veel taken moeten uitvoeren, zoals zichzelf klaarmaken, het kind aankleden, ontbijten, tanden poetsen en op tijd vertrekken naar school of werk. Stress ontstaat daarbij niet alleen door het gedrag van het kind, maar ook door externe factoren zoals werkdruk, deadlines of onverwachte taken, zoals iets meegeven voor school of opvang regelen bij ziekte.
 De belangrijkste momenten van stress zijn de ochtend- en avondroutine, en taken zoals eten en aankleden waarbij kinderen traag of afgeleid zijn. Het gedrag van kinderen, zoals tegenwerken, afleiding zoeken of afhankelijkheid van de ouder, heeft een directe invloed op hoe ouders zich voelen. Sommige kinderen reageren emotioneel op gehaaste of boze ouders, wat de stress verder verhoogt. Hoewel veel kinderen al een deel van de taken zelfstandig kunnen uitvoeren, blijft begeleiding vaak nodig, omdat afleiding en motivatie soms ontbreken.
 Ouders zien verschillende manieren om deze stress te verminderen. Structuur en voorspelbaarheid, bijvoorbeeld door duidelijke schema’s of visuele hulpmiddelen, helpen kinderen beter te begrijpen wat er van hen verwacht wordt. Beloningssystemen kunnen de motivatie van het kind vergroten, terwijl gebruiksvriendelijke en duurzame hulpmiddelen ervoor zorgen dat de routines soepel verlopen.
@@ -45,6 +46,7 @@ Een aantal belangrijke quotes:
 - *“Een ochtendroutineplanner heeft weinig motivatie, dan kijkt ze daarna. En dan denkt ze waarschijnlijk: Maar ik weet dat al hè.”* 
 
 **Benchmarking**
+
 Uit de analyse is gebleken dat er al veel mogelijke oplossingen bestaan voor het eten en in bad gaan. Ook voor tanden poetsen zijn de twee belangrijkste aspecten, namelijk de duur van het poetsen en het daadwerkelijke poetsen zelf, al omgezet naar oplossingen. 
 Voor aankleden, opruimen en de ochtendroutine liggen er echter nog kansen om originelere en soms effectievere producten te ontwerpen. Bij aankleden en de ochtendroutine wordt momenteel meestal gewerkt met pictogrammen of checklists. Voor sommige kinderen blijkt dit niet motiverend genoeg te zijn om consequent te gebruiken. Bij opruimen geld iets soortgelijks, maar dan met behulp van labels. 
 Wat slapen en opstaan betreft, bestaat er al een breed aanbod aan slaaptrainers, met verschillende opties en ontwerpen. Omdat dit product effectief en goed ontwikkeld is, vormt deze taak geen probleem meer.
