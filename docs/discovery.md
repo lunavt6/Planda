@@ -24,7 +24,7 @@ Het volledige interviewprotocol is hier te vinden: [interviewprotocol](https://d
 
 Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijpen welke bestaande oplossingen er al zijn en op welke taken nog weinig ondersteuning wordt geboden. Hierbij werd naar bestaande producten gekeken die de opvoedstress zouden kunnen verminderen. Informatie kwam uit openbare bronnen, zoals websites en blogs. Vervolgens werden de oplossingen vergeleken op basis van hun sterke en zwakke punten. 
 
-Het protocol van deze benchmarking is hier te vinden: [benchmarkprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
+Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
 
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
