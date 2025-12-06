@@ -20,11 +20,11 @@ Hierbij zijn de deelvragen:
 Dit onderzoek werd uitgevoerd met twee onderzoeksmethoden: interviews en een benchmarkingonderzoek.
 Voor de interviews werden personen gekozen die direct betrokken zijn bij opvoedstress. Dit waren ouders met een kind tussen 2 en 6 jaar. Met hen werden semigestructureerde interviews gehouden. Dat betekent dat er vooraf hoofdvragen waren opgesteld, maar dat er tijdens het gesprek ruimte was om door te vragen. De interviews duurden gemiddeld 40 minuten en vonden plaats online en face-to-face. Met toestemming zijn de gesprekken opgenomen en later uitgewerkt. De antwoorden werden daarna geanalyseerd en vergeleken met elkaar.
 
-Het volledige interviewprotocol is hier te vinden: [interviewprotocol](voeg link toe).
+Het volledige interviewprotocol is hier te vinden: [interviewprotocol](https://drive.google.com/file/d/1N_GjyhnOHkRdai5fe6EW2gFWemPGeeNa/view?usp=sharing).
 
 Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijpen welke bestaande oplossingen er al zijn en op welke taken nog weinig ondersteuning wordt geboden. Hierbij werd naar bestaande producten gekeken die de opvoedstress zouden kunnen verminderen. Informatie kwam uit openbare bronnen, zoals websites en blogs. Vervolgens werden de oplossingen vergeleken op basis van hun sterke en zwakke punten. 
 
-Het protocol van deze benchmarking is hier te vinden: [benchmarkprotocol](voeg link toe).
+Het protocol van deze benchmarking is hier te vinden: [benchmarkprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
 
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
