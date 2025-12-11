@@ -1,4 +1,5 @@
 ## Methodologie
+![alt text](image.png)
 Voor het Planda Beer-project hanteren we een triple diamond ontwerpmodel, aangepast aan SEM1, met focus op de discover- en define-fase. Het doel van SEM1 is het verzamelen van inzichten over opvoedstress, routines en stimulatie bij jonge kinderen, en het ontwikkelen van eerste conceptuele prototypes van Planda Beer.
 
 Discover (Maand 1–2)
