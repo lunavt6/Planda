@@ -44,7 +44,7 @@ Boundary conditions voor Planda Beer zijn duidelijk: het product moet veilig, du
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI in om enkele eigen schetsen netter te visualiseren, teksten vlotter te formuleren, en tabellen of schema’s overzichtelijk op te maken zodat ze makkelijk in Visual Studio Code konden worden geïmporteerd. Alle concepten, ontwerpen, analyses en beslissingen zijn volledig door het projectteam zelf ontwikkeld; AI werd uitsluitend ingezet voor vormgeving en taalondersteuning.
 
 ## Bijlagen
 ### Discovery
