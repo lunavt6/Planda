@@ -5,89 +5,66 @@
 
 ### **Doelstellingen**
 
-Het hoofddoel van de discovery-fase was inzicht verkrijgen in **opvoedstress bij jonge ouders**, en hoe een **phygital product zoals Planda Beer** kan bijdragen aan **stressreductie, autonomie en positieve stimulatie bij kinderen**. Specifieke doelstellingen waren:
-
-1. **Begrijpen van dagelijkse routines van ouders en kinderen**: ochtend- en avondrituelen, tijdsdruk, gebruik van digitale hulpmiddelen.
-2. **Identificeren van pijnpunten en uitdagingen bij opvoeding**: stressfactoren, machtsspelletjes, zintuiglijke gevoeligheden van kinderen.
-3. **Onderzoeken van bestaande oplossingen en inspiratie voor phygital producten**: slimme knuffels, interactieve borden, apps voor opvoedondersteuning.
-4. **Verzamelen van gedragsinzichten bij kinderen**: autonomie, motivatie, sensorische voorkeuren.
-
-**Deelvragen**:
-
-* Welke momenten veroorzaken de meeste opvoedstress bij ouders?
-* Hoe reageren kinderen bij het uitvoeren van deze taak?
-* Welke taken kan het kind al zelfstandig uitvoeren?
-* Welke oplossingen bestaan er al en wat zijn de gebreken hierbij?
+Het hoofddoel van de discovery-fase was om beter te begrijpen waar opvoedstress bij jonge ouders vandaan komt en hoe een slim product kan helpen om die stress te verminderen, het kind zelfstandiger te maken en positieve ontwikkeling te stimuleren. 
+Hierbij zijn de deelvragen:
+- Welke momenten veroorzaken de meeste opvoedstress bij ouders?
+- Hoe reageren kinderen bij het uitvoeren van deze taak?
+- Welke taken kan het kind al zelfstandig uitvoeren?
+- Welke oplossingen bestaan er al?
+- Voor welke (dagelijkse) taak zijn nog het minst oplossingen beschikbaar?
 
 ---
 
 ### **Materiaal & methoden**
 
-De discovery-fase bestond uit **drie complementaire onderzoeksmethoden**:
+Dit onderzoek werd uitgevoerd met twee onderzoeksmethoden: interviews en een benchmarkingonderzoek.
+Voor de interviews werden personen gekozen die direct betrokken zijn bij opvoedstress. Dit waren ouders met een kind tussen 2 en 6 jaar. Met hen werden semigestructureerde interviews gehouden. Dat betekent dat er vooraf hoofdvragen waren opgesteld, maar dat er tijdens het gesprek ruimte was om door te vragen. De interviews duurden gemiddeld 40 minuten en vonden plaats online en face-to-face. Met toestemming zijn de gesprekken opgenomen en later uitgewerkt. De antwoorden werden daarna geanalyseerd en vergeleken met elkaar.
 
-| Methode                    | Doel                                                                             | Uitvoering                                                                                                                                   | Sample/Setting                |
-| -------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Literatuuronderzoek        | Inzicht in theorieën en praktische adviezen over opvoedstress en moeilijke eters | Analyse van 12 wetenschappelijke artikelen en 4 praktijkfolders (bijv. St. Jans Gasthuis, AZ Turnhout)                                       | Online bronnen en bibliotheek |
-| User interviews            | Verzamelen van kwalitatieve inzichten bij opvoeders                              | Semi-gestructureerde interviews, 6 respondenten (ouders, grootouders, zorgprofessionals), 30–60 min per sessie, opgenomen en getranscribeerd | Thuis, kinderopvang, school   |
-| Ethnografische observaties | Observeren van routines en interacties in natuurlijke context                    | 2 observaties van ochtend- en avondrituelen, veldnotities en foto’s (zonder identificerende gegevens)                                        | Huishoudens en kinderopvang   |
+Het volledige interviewprotocol is hier te vinden: [interviewprotocol](https://drive.google.com/file/d/1N_GjyhnOHkRdai5fe6EW2gFWemPGeeNa/view?usp=sharing).
 
-**Protocol:**
+Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijpen welke bestaande oplossingen er al zijn en op welke taken nog weinig ondersteuning wordt geboden. Hierbij werd naar bestaande producten gekeken die de opvoedstress zouden kunnen verminderen. Informatie kwam uit openbare bronnen, zoals websites en blogs. Vervolgens werden de oplossingen vergeleken op basis van hun sterke en zwakke punten. 
 
-* Interviews volgden een **topic guide** met vragen over stressmomenten, reacties van het kind, autonomie van het kind en ervaringen met huidige producten.
-* Observaties richtten zich op **interactiepatronen, afleidingen, gebruik van routines en zintuiglijke stimuli**.
-* Data-analyse gebeurde via **thematische codering** en synthese in een **fishbone-diagram**, aangevuld met **affinity mapping** voor inzichten uit observaties en interviews.
+Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
+
+Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
 ---
 
 ### **Resultaten**
 
-**1. Structuur en routine**
+**Interviews** 
 
-* Observaties toonden dat kinderen rustiger eten wanneer routines duidelijk zijn en ouders niet gehaast zijn.
-* “In de opvang eten ze rustiger dan thuis, want de ochtendrush valt weg.” – Fien
-* **Impliceert**: het product moet bijdragen aan voorspelbaarheid en rustige focus (vb. zachte visuele cues).
+Uit de interviews blijkt dat opvoedstress bij jonge ouders vooral voorkomt tijdens dagelijkse routines waarbij tijdsdruk een grote rol speelt. Vooral de ochtend wordt als het meest stressvolle moment ervaren, omdat ouders in korte tijd veel taken moeten uitvoeren, zoals zichzelf klaarmaken, het kind aankleden, ontbijten, tanden poetsen en op tijd vertrekken naar school of werk. Stress ontstaat daarbij niet alleen door het gedrag van het kind, maar ook door externe factoren zoals werkdruk, deadlines of onverwachte taken, zoals iets meegeven voor school of opvang regelen bij ziekte.
+De belangrijkste momenten van stress zijn de ochtend- en avondroutine, en taken zoals eten en aankleden waarbij kinderen traag of afgeleid zijn. Het gedrag van kinderen, zoals tegenwerken, afleiding zoeken of afhankelijkheid van de ouder, heeft een directe invloed op hoe ouders zich voelen. Sommige kinderen reageren emotioneel op gehaaste of boze ouders, wat de stress verder verhoogt. Hoewel veel kinderen al een deel van de taken zelfstandig kunnen uitvoeren, blijft begeleiding vaak nodig, omdat afleiding en motivatie soms ontbreken.
+Ouders zien verschillende manieren om deze stress te verminderen. Structuur en voorspelbaarheid, bijvoorbeeld door duidelijke schema’s of visuele hulpmiddelen, helpen kinderen beter te begrijpen wat er van hen verwacht wordt. Beloningssystemen kunnen de motivatie van het kind vergroten, terwijl gebruiksvriendelijke en duurzame hulpmiddelen ervoor zorgen dat de routines soepel verlopen.
+Het gewenste eindresultaat van de ouders is dat de dagelijkse routines rustig en gestructureerd verlopen, zonder geschreeuw of haast. Het kind voert taken zelfstandig uit, zonder voortdurende herhaling of aansporing, en er ontstaat meer tijdsbesef en minder spanning voor zowel ouder als kind. Op deze manier kan een slim hulpmiddel bijdragen aan stressvermindering bij ouders, meer zelfstandigheid bij kinderen en een positieve, plezierige sfeer in het gezin.
 
-**2. Autonomie & machtsspel**
+Een aantal belangrijke quotes:
+- *“Als ze iets in haar hoofd heeft, wilt ze dat direct doen.”*
+- *“Als de mama boos wordt, zal Claire verdrietig worden.”*
+- *“Maar ik moet het zo blijven herhalen wel, want als ik haar gewoon laat doen, dan loopt ze hier weer als een kip zonder kop door het huis.”*
+- *“Een ochtendroutineplanner heeft weinig motivatie, dan kijkt ze daarna. En dan denkt ze waarschijnlijk: Maar ik weet dat al hè.”* 
 
-* Interviews: kinderen gebruiken eten soms om controle uit te oefenen (“machtsstrijd”).
-* Belangrijk om **druk te vermijden en positieve stimulatie** te bieden.
-* Designimplicatie: Planda Beer mag geen controlerende feedback geven, wel subtiele motiverende cues.
+**Benchmarking**
 
-**3. Positieve zintuiglijke stimulatie**
-
-* Vorm, kleur en textuur beïnvloeden eetgedrag.
-* Observaties: kinderen reageren beter op kleurrijke, herkenbare vormen en kunnen geprikkeld zijn door overmatig sensorisch materiaal.
-* Implicatie: LED-verlichting, zachte geluidjes, speels maar niet overweldigend.
-
-**4. Sociale context**
-
-* “Zien eten doet eten” – samen eten werkt motiverend.
-* Ouders en kinderen profiteren van **gezamenlijke routines**.
-* Designimplicatie: Planda Beer kan gezinsinteractie ondersteunen (bv. visuele signalen voor gezamenlijke activiteiten).
-
-**Tabel: Samenvatting inzichten – Discovery fase**
-
-| Thema                   | Observatie                      | Designimplicatie                       |
-| ----------------------- | ------------------------------- | -------------------------------------- |
-| Routine                 | Rustige, voorspelbare momenten  | Product ondersteunt structuur          |
-| Autonomie               | Machtsspel bij kinderen         | Feedback motiverend, niet controlerend |
-| Zintuiglijke stimulatie | Kleur, vorm, textuur belangrijk | LED/geluid subtiel inzetten            |
-| Sociale context         | Samen eten stimuleert           | Gezinsgerichte functies, interactie    |
-
-**Visualisatie voorstel:**
-
-* Fishbone-diagram met **root causes** van opvoedstress
-* Affinity map met quotes van ouders en zorgverleners
+Uit de analyse is gebleken dat er al veel mogelijke oplossingen bestaan voor het eten en in bad gaan. Ook voor tanden poetsen zijn de twee belangrijkste aspecten, namelijk de duur van het poetsen en het daadwerkelijke poetsen zelf, al omgezet naar oplossingen. 
+Voor aankleden, opruimen en de ochtendroutine liggen er echter nog kansen om originelere en soms effectievere producten te ontwerpen. Bij aankleden en de ochtendroutine wordt momenteel meestal gewerkt met pictogrammen of checklists. Voor sommige kinderen blijkt dit niet motiverend genoeg te zijn om consequent te gebruiken. Bij opruimen geld iets soortgelijks, maar dan met behulp van labels. 
+Wat slapen en opstaan betreft, bestaat er al een breed aanbod aan slaaptrainers, met verschillende opties en ontwerpen. Omdat dit product effectief en goed ontwikkeld is, vormt deze taak geen probleem meer.
 
 ---
 
 ### **Conclusies & implicaties**
 
-1. **Subtiele stimulatie werkt beter dan druk**: licht, geluid, vorm, geur kunnen motiverend zijn.
-2. **Autonomie van het kind is cruciaal**: keuzes binnen veilige grenzen, eigen tempo respecteren.
-3. **Routine en voorspelbaarheid verminderen stress**: product kan deze ondersteunen via signalen en interacties.
-4. **Gezinscontext versterken**: Planda Beer kan sociale cues geven, maar geen competitie creëren.
-5. **Prototype-evolutie**: de verzamelde inzichten vormen basis voor **low-fidelity schetsprototypes** van Planda Beer, die iteratief getest worden in SEM2.
+Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. bij het verdere proces zal er rekening gehouden worden met volgende designbeslissingen:
+| Designbeslissing | Reden |
+|-----------------|-------|
+| Het hulpmiddel moet op een duidelijke en motiverende manier taken visueel weergeven. | Ouders geven aan dat chaos en tijdsdruk de grootste stress veroorzaken, vooral in de ochtendroutine. |
+| Het hulpmiddel moet speels zijn of beloningssystemen of gamification-elementen bevatten om de zelfstandigheid te stimuleren en motivatie te verhogen. | Kinderen zijn vaak afgeleid of weinig gemotiveerd om taken zelfstandig uit te voeren. |
+| Het ontwerp moet intuïtief en eenvoudig te begrijpen zijn zodat het kind en ouder het makkelijk kunnen gebruiken. | Ouders willen geen extra stress door ingewikkelde of onduidelijke hulpmiddelen. |
+| Het hulpmiddel moet aanpasbaar zijn, zodat ouders zelf de volgorde van taken, tijden of beloningen kunnen instellen. | Elke ouder en elk kind heeft unieke routines en voorkeuren. |
+| Het hulpmiddel moet kinderen ondersteunen zonder volledig over te nemen, zoals stap-voor-stap instructies en visuele hints geven. | Ouders willen dat hun kinderen steeds meer zelfstandig uitvoeren, maar hebben nog begeleiding nodig. |
+
+
 
 
 
