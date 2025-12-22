@@ -55,8 +55,8 @@ Wat slapen en opstaan betreft, bestaat er al een breed aanbod aan slaaptrainers,
 
 ### **Conclusies & implicaties**
 
-Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. bij het verdere proces zal er rekening gehouden worden met volgende designbeslissingen:
-| Designbeslissing | Reden |
+Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. Bij het verdere proces zal er rekening gehouden worden met designrequirements die gebasseerd zijn op onderstaande conclusies:
+| Conclusie | Reden |
 |-----------------|-------|
 | Het hulpmiddel moet op een duidelijke en motiverende manier taken visueel weergeven. | Ouders geven aan dat chaos en tijdsdruk de grootste stress veroorzaken, vooral in de ochtendroutine. |
 | Het hulpmiddel moet speels zijn of beloningssystemen of gamification-elementen bevatten om de zelfstandigheid te stimuleren en motivatie te verhogen. | Kinderen zijn vaak afgeleid of weinig gemotiveerd om taken zelfstandig uit te voeren. |
@@ -64,6 +64,13 @@ Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij d
 | Het hulpmiddel moet aanpasbaar zijn, zodat ouders zelf de volgorde van taken, tijden of beloningen kunnen instellen. | Elke ouder en elk kind heeft unieke routines en voorkeuren. |
 | Het hulpmiddel moet kinderen ondersteunen zonder volledig over te nemen, zoals stap-voor-stap instructies en visuele hints geven. | Ouders willen dat hun kinderen steeds meer zelfstandig uitvoeren, maar hebben nog begeleiding nodig. |
 
+> [!IMPORTANT]
+> **Design Requirements**
+> - D1.1 Het product moet taken duidelijk en motiverend weergeven.
+> - D1.2 Het product moet speels zijn.
+> - D1.3 Het product moet intuïtief en eenvoudig te gebruiken zijn.
+> - D1.4 Het product moet aanpasbaar zijn.
+> - D1.5 Het product moet de doelgroep ondersteunen.
 
 
 
