@@ -13,20 +13,20 @@
 
 klad
 - Algemeen
-    - Het product moet speels zijn.
-    - Het product moet een grootte hebben die kinderen gemakkelijk kunnen vasthouden.
-    - Het product moet het knuffelaspect behouden.
-    - Het product moet (deels) wasbaar zijn.
-    - Het moet aanpasbaar zijn aan ieder gezin.
-    - Het moet duidelijk zijn, dus geen extra uitleg nodig.
+    - Het product moet speels zijn. discovery 
+    - Het product moet makkelijk door kinderen vast te houden zijn. definition
+    - Het product moet het knuffelaspect behouden. definition
+    - Het product moet (deels) wasbaar zijn. definition: wave 1
+    - Het moet aanpasbaar zijn aan ieder gezin. discovery
+    - Het moet duidelijk zijn, dus geen extra uitleg nodig. definition: wave 2
 - Visueel
-    - Het moet de aandacht trekken.
-    - Het moet speels zijn.
+    - Het moet de aandacht trekken. definition: wave 2
+    - Het moet speels zijn. 
 - Lichtknoppen 
     - De knoppen moeten een goede grootte hebben. 
     - De knoppen moeten gemakkelijk in te drukken zijn.
-    - De knoppen moeten op een toegankelijke plaats gepositioneerd worden.
-    - het licht moet opvallen zodanig dat dit de aandacht trekt
-    - de knoppen moeten makkelijk te bereiken zijn voor het kind (op de oren)
+    - De knoppen moeten op een toegankelijke plaats gepositioneerd worden. definition: wave 1
+    - het licht moet opvallen zodanig dat dit de aandacht trekt. definition: wave 2
+    - de kleuren moeten duidelijkheid geven. definition: wave 2
 - Auditief
     - 
