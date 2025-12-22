@@ -21,18 +21,3 @@
 |3.4|De kleuren van het licht moeten duidelijkheid geven.|[Definition: Wave 2](url)||
 |**Auditief**|
 |4.1|De aandacht van het kind moet getrokken worden a.d.h.v. geluid.|[Definition: Wave 2](url)||
-
-
-
-
-klad
-
-
-- Lichtknoppen 
-    - De knoppen moeten een goede grootte hebben. 
-    - De knoppen moeten gemakkelijk in te drukken zijn.
-    - De knoppen moeten op een toegankelijke plaats gepositioneerd worden. definition: wave 1
-    - het licht moet opvallen zodanig dat dit de aandacht trekt. definition: wave 2
-    - de kleuren moeten duidelijkheid geven. definition: wave 2
-- Auditief
-    - 
