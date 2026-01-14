@@ -14,14 +14,14 @@ Voordat het onderzoek uitgevoerd werd, werd een storyboard gemaakt. Aan de hand 
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
 Het hoofddoel van het ontwerp is dat kinderen de routine kunnen doorlopen met minimale of geen assistentie van de ouders. Om deze hoge graad van intuïtiviteit te bereiken, hebben we ons ontwikkelproces gebaseerd op de 7 Stages of Action van Donald Norman.
-Bij elk prototype hebben we geanalyseerd hoe het kind de brug slaat tussen hun doel (bijv. "ik moet mijn tanden poetsen") en de fysieke handeling
+Bij elk prototype hebben we geanalyseerd hoe het kind de brug slaat tussen hun doel (bijv. "ik moet mijn tanden poetsen") en de fysieke handeling.
 Om de interactie tussen kind en de Planda-beer te optimaliseren, gebruikten we de Wizard of Oz-methode waarbij we o.a. handmatig licht en geluid aanstuurden. Hierdoor leek de beer autonoom te reageren, wat essentieel was om de intuïtiviteit te testen volgens de 7 Stages of Action van Norman.
 
 ### Resultaten
 **Wave 1: User feedback sessions (N=5)
-**De meeste kinderen ervaren de ochtendroutine als een moment van afleiding, waarbij de focus op taken zoals tanden poetsen of aankleden snel verloren gaat. Ouders beschouwen hun constante sturing als een noodzaak om de tijdslimiet te halen, wat leidt tot een sfeer van stress.
+De meeste kinderen ervaren de ochtendroutine als een moment van afleiding, waarbij de focus op taken zoals tanden poetsen of aankleden snel verloren gaat. Ouders beschouwen hun constante sturing als een noodzaak om de tijdslimiet te halen, wat leidt tot een sfeer van stress.
 
-"Ik merk dat ik 's ochtends alleen maar commando's aan het uitdelen ben. Dat is geen fijne manier om de dag te starten, noch voor mij, noch voor de kinderen." - 
+"Ik merk dat ik 's ochtends alleen maar commando's aan het uitdelen ben. Dat is geen fijne manier om de dag te starten, noch voor mij, noch voor de kinderen." - Jolien, mama van Emiel en Lowie
 
 In de eerste testen werd er getest hoe we informatie kunnen overbrengen naar de kinderen. Er werd onderzocht welke manieren het beste te begrijpen zijn voor hen, door zowel fysieke objecten als een scherm te gebruiken. Uit de resultaten bleek dat het scherm het meest effectief was om de taakjes over te brengen. Daarnaast merkten we dat kinderen na de ochtendroutine de knuffel ook vrij willen gebruiken om mee te spelen. Dit betekent dat het scherm op de beer gemonteerd moet kunnen worden om de taakjes uit te voeren, maar dat het daarna eenvoudig verwijderd kan worden zodat de kinderen vrij kunnen spelen.
 Naast het overdragen van informatie werden ook de interactieve elementen van de beer getest. Hierbij werd gekeken naar welke onderdelen kinderen het liefst aanraken, hoe de interactie verloopt en waar de elementen het beste geplaatst kunnen worden. De tests richtten zich op de oren, armen en voeten van de beer. Hieruit bleek dat kinderen spontaan op de oren drukken, terwijl de handen en voeten problematisch zijn omdat kinderen de beer daar vaak vasthouden. Dit voorkomt onbedoelde input.
