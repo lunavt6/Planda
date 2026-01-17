@@ -13,7 +13,6 @@ Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de 
 Voordat het onderzoek uitgevoerd werd, werd een storyboard gemaakt. Aan de hand van het storyboard is de context waarin het uiteindelijke product gebruikt wordt duidelijk. Bij het maken van de prototypes wordt er aandacht besteed dat de prototypes die context reflecteren.
 
 ![alt text](Storyboard.jpg)
-(hier storyboard zetten)
 
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
