@@ -24,6 +24,7 @@ Om de interactie tussen kind en de Planda-beer te optimaliseren, gebruikten we d
 
 ### Resultaten
 **Wave 1: User feedback sessions (N=5)**
+
 De meeste kinderen ervaren de ochtendroutine als een moment van afleiding, waarbij de focus op taken zoals tanden poetsen of aankleden snel verloren gaat. Ouders beschouwen hun constante sturing als een noodzaak om de tijdslimiet te halen, wat leidt tot een sfeer van stress.
 
 "Ik merk dat ik 's ochtends alleen maar commando's aan het uitdelen ben. Dat is geen fijne manier om de dag te starten, noch voor mij, noch voor de kinderen." - Jolien, mama van Emiel en Lowie
@@ -37,6 +38,7 @@ Naast het overdragen van informatie werden ook de interactieve elementen van de 
 Tot slot werd onderzocht hoe kinderen interacteren met hun eigen knuffels, om hieruit inzichten te halen voor het ontwerp van de interactieve beer.
 
 **Wave 2: User feedback sessions (N=5)**
+
 In de tweede fase lag de focus op de verfijning van de signalen en de kleurassociaties. De cognitieve verwerking van prikkels verschilt per kind; waar de één direct reageert op licht, heeft de ander een auditieve trigger nodig om in actie te komen. 
 
 De resultaten tonen aan dat een enkelvoudige prikkel (alleen licht) vaak wordt gemist. De combinatie van geluid en licht bleek de meest krachtige oplossing. Het geluid fungeert als aandachtstrekker, terwijl het lampje in het oor de exacte actieplaats aanwijzen.
