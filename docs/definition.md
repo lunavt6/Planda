@@ -48,4 +48,18 @@ Er werd een test uitgevoerd om te onderzoeken hoe kinderen van verschillende lee
 De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer fungeert als een onafhankelijke gids, waardoor de ouderlijke rol verschuift van sturende "politieagent" naar toeschouwer, wat de opvoedstress aanzienlijk verlaagt.
 
 ### Conclusies & implicaties
+Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete design requirements opgesteld. Deze vormen het fundament voor de verdere ontwikkeling van het product en vertalen de inzichten uit het ontwerpproces naar duidelijke functionele en ergonomische ontwerprichtlijnen.
+
+> [!IMPORTANT]
+> **Design Requirements**
+> - 1.6 Het product moet makkelijk door de doelgroep vast te houden zijn.	
+> - 1.7 Het product moet het knuffelaspect behouden.
+> - 1.8 Het product moet (deels) wasbaar zijn.
+> - 2.1 Het scherm moet losneembaar zijn.
+> - 3.1	Het product moet knoppen hebben.
+> - 3.2	De knoppen moeten op een toegankelijke plaats gepositioneerd worden.
+> - 1.9 Het product moet feedback geven aan de gebruiker.	
+> - 3.3	Het licht moet aantonen welke knop er ingeduwd moet worden.
+> - 3.4	De kleuren van het licht moeten duidelijkheid geven.	
+> - 4.1	De aandacht van het kind moet getrokken worden a.d.h.v. geluid.
 
