@@ -66,11 +66,11 @@ Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij d
 
 > [!IMPORTANT]
 > **Design Requirements**
-> - D1.1 Het product moet taken duidelijk en motiverend weergeven.
-> - D1.2 Het product moet speels zijn.
-> - D1.3 Het product moet intuïtief en eenvoudig te gebruiken zijn.
-> - D1.4 Het product moet aanpasbaar zijn.
-> - D1.5 Het product moet de doelgroep ondersteunen.
+> - 1.1 Het product moet taken duidelijk en motiverend weergeven.
+> - 1.2 Het product moet speels zijn.
+> - 1.3 Het product moet intuïtief en eenvoudig te gebruiken zijn.
+> - 1.4 Het product moet aanpasbaar zijn.
+> - 1.5 Het product moet de doelgroep ondersteunen.
 
 
 
