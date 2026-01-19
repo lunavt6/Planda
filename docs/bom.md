@@ -6,7 +6,13 @@
 
 | Component          | Aankooppagina | Pricing |
 |--------------------|--------------|---------|
-| LED-buttons (kleuren uit Wave2) | n.v.t. / afhankelijk van leverancier | n.t.b. |
-| OLED-display (5×5 cm – 10×10 cm, full-color) | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Microcontroller (Arduino Uno) | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Display (TFT Touch) | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Connector (Pogo Pin Header) | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Voeding | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| LEDs | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Drukknoppen | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Weerstanden | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Bedrading | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Speakertje | n.v.t. / afhankelijk van leverancier | n.t.b. |
-| Pandabeer-knuffel | [bol.com](https://www.bol.com/be/nl/p/pluche-speelgoed-knuffeldier-panda-beer-van-25-cm-dieren-knuffels-cadeau-voor-kinderen/9300000143200782/) | €17,75 |
+| Pandabeer-knuffel | [bol.com](https://www.bol.com/be/nl/p/nicotoy-zittende-panda-33cm/9300000052332543/?Referrer=ENTcli_order_confirmation_fdea30ff-053b-4ff6-935b-96e6da7e8173) | €14,49 |
