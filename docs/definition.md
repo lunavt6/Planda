@@ -49,6 +49,8 @@ De resultaten tonen aan dat een enkelvoudige prikkel (alleen licht) vaak wordt g
 
 Er werd een test uitgevoerd om te onderzoeken hoe kinderen van verschillende leeftijden kleuren associëren met emoties. Kinderen moesten emoties koppelen aan kleuren.
 
+Kinderen zien links vaak als “terug” en rechts als “doorgaan”. Daarom is het logisch om rechts te gebruiken voor het starten en links voor beëindigen, zo wordt het makkelijker en duidelijker voor hen.
+
 De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer fungeert als een onafhankelijke gids, waardoor de ouderlijke rol verschuift van sturende "politieagent" naar toeschouwer, wat de opvoedstress aanzienlijk verlaagt.
 
 ### Conclusies & implicaties
