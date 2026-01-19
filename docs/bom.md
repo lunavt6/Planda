@@ -10,8 +10,8 @@
 | Display (TFT Touch) | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Connector (Pogo Pin Header) | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Voeding | n.v.t. / afhankelijk van leverancier | n.t.b. |
-| LEDs | n.v.t. / afhankelijk van leverancier | n.t.b. |
-| Drukknoppen | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| LEDs (3x) | n.v.t. / afhankelijk van leverancier | n.t.b. |
+| Drukknoppen (2x) | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Weerstanden | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Bedrading | n.v.t. / afhankelijk van leverancier | n.t.b. |
 | Speakertje | n.v.t. / afhankelijk van leverancier | n.t.b. |
