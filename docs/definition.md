@@ -66,4 +66,5 @@ Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete d
 > - 3.3	Het licht moet aantonen welke knop er ingeduwd moet worden.
 > - 3.4	De kleuren van het licht moeten duidelijkheid geven.	
 > - 4.1	De aandacht van het kind moet getrokken worden a.d.h.v. geluid.
+> - 3.5 De knoppen moeten op een logische manier t.p.v. elkaar liggen.
 
