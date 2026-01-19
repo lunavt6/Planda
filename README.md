@@ -20,7 +20,7 @@ Doordat het kind op een speelse en vertrouwde manier begeleid wordt, verloopt de
 Opvoeden kan een bron van vreugde zijn, maar ook van aanzienlijke stress. Veel ouders ervaren vooral in de ochtend- en avondroutine tijdsdruk, machtsstrijdjes over gedrag en frustraties bij het zelfstandig uitvoeren van dagelijkse taken door hun kinderen (Sofie, Ludovic & Kaat, 2025). Deze zogenaamde opvoedstress kan leiden tot gespannen interacties tussen ouder en kind, waarbij routines zoals aankleden, tandenpoetsen en eten escaleren tot stressvolle momenten voor beide partijen. Studies tonen aan dat stress bij ouders niet alleen hun welzijn beïnvloedt, maar ook het zelfvertrouwen en de zelfstandigheid van kinderen kan beperken. 
 .
 
-Het Planda Beer-project richt zich op het verminderen van opvoedstress door kinderen te ondersteunen bij het plannen, uitvoeren en afronden van dagelijkse routines. Het project combineert fysieke en digitale elementen tot een “phygital” hulpmiddel: een interactieve knuffelbeer die kinderen begeleidt bij hun routines, positieve feedback geeft en tegelijkertijd ouders subtiel informeert over voortgang zonder druk uit te oefenen. Door een tastbaar, speels en visueel systeem te gebruiken, willen we autonomie en motivatie bij kinderen stimuleren, terwijl ouders worden ondersteund in het behouden van een rustige, gestructureerde dag (Sofie, Ludovic & Kaat, 2025; St. Jans Gasthuis Weert, z.j.).
+Het Planda Beer-project richt zich op het verminderen van opvoedstress door kinderen te ondersteunen bij het plannen, uitvoeren en afronden van dagelijkse routines. Het project combineert fysieke en digitale elementen tot een “phygital” hulpmiddel: een interactieve knuffelbeer die kinderen begeleidt bij hun routines, positieve feedback geeft en tegelijkertijd ouders subtiel informeert over voortgang zonder druk uit te oefenen. Door een tastbaar, speels en visueel systeem te gebruiken, willen we autonomie en motivatie bij kinderen stimuleren, terwijl ouders worden ondersteund in het behouden van een rustige, gestructureerde dag (Sofie, Ludovic & Kaat, 2025).
 
 De doelstellingen van het project zijn drieledig:
 
@@ -66,12 +66,12 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
   * [Rapport](https://drive.google.com/file/d/19u9PNdlWeaDVB6IC4Rpc8PkJ9rHKdnLq/view?usp=sharing)
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/bram_eeckhout_ugent_be/Documents/Project%20GO%20-%20Team%204/Definition/Protocol%20Wave%201.docx?d=w2e2d2264225748f2b66d4e8868a0a32a&csf=1&web=1&e=O1puIK)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/r/personal/bram_eeckhout_ugent_be/Documents/Project%20GO%20-%20Team%204/Definition/Verslag%20Wave%201.docx?d=w29e0fd20c4c44122be9c04492982204a&csf=1&web=1&e=xffvS1)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=4)
+  * [Protocol](https://drive.google.com/file/d/1tDht5WUX5s2kWT2_GBW46OIctpL1c5EN/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing)
+* User testing wave 2 (N=6)
+  * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/1IPqVUZfXOLCZnDsoIyMeZ7-M63zYob_7/view?usp=sharing)
 
 ## Licentie  
 
@@ -83,4 +83,4 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+
