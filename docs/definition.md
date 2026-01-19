@@ -7,6 +7,7 @@ Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de 
 >Inzicht krijgen in de huidige routines van gezinnen en eerste feedback verzamelen op low-fidelity prototypes en storyboards. De focus lag hierbij op hoe kinderen hun knuffel gebruiken en hoe ontwerpkeuzes de interactie beïnvloeden.
 
 > **Wave 2**
+>
 > Het optimaliseren van de fysieke materialen en de interactievormen. Specifiek werd onderzocht hoe impulsen (licht/geluid) en beloningen de motivatie van het kind beïnvloeden en welke kleuren/materialen het gebruiksgemak verhogen.
 
 ### Materiaal & methoden
