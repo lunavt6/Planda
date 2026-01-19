@@ -10,7 +10,11 @@ Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de 
 > Het optimaliseren van de fysieke materialen en de interactievormen. Specifiek werd onderzocht hoe impulsen (licht/geluid) en beloningen de motivatie van het kind beïnvloeden en welke kleuren/materialen het gebruiksgemak verhogen.
 
 ### Materiaal & methoden
-Voordat het onderzoek uitgevoerd werd, werd een storyboard gemaakt. Aan de hand van het storyboard is de context waarin het uiteindelijke product gebruikt wordt duidelijk. Bij het maken van de prototypes wordt er aandacht besteed dat de prototypes die context reflecteren.
+Het storyboard werd in een vroege fase opgesteld om de context en het gebruik van Planda tijdens de ochtendroutine te verduidelijken. Door de interactie tussen kind, ouder en knuffelbeer stap voor stap te visualiseren, werd duidelijk wanneer en hoe het product gebruikt wordt en welke acties, feedback en begeleiding daarbij nodig zijn.
+
+Uit het storyboard kwamen verschillende aandachtspunten naar voren, zoals de rol van de ouder, het belang van duidelijke start- en eindmomenten van taakjes en de nood aan extra impulsen wanneer de aandacht van het kind verslapt. Deze inzichten vormden de basis voor het opzetten van de onderzoeks-waves.
+
+Op basis van het storyboard werd beslist om het onderzoek gefaseerd aan te pakken: eerst door te focussen op fysieke interactie en intuïtief gebruik, en daarna op verfijning van feedback, materialen en bediening. De prototypes werden telkens opgebouwd rond specifieke momenten uit het storyboard en getest in een realistische context via observaties bij kinderen en interviews met ouders. Op die manier fungeerde het storyboard als leidraad voor zowel het onderzoek als de analyse in de verschillende waves.
 
 ![alt text](Storyboard.jpg)
 
