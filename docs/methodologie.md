@@ -12,10 +12,30 @@ Parallel werd gewerkt aan het scherpstellen van de doelgroep, het uitwerken van 
 
 Definitiefase
 
-In de definitiefase werd de probleemdefinitie verder verfijnd en vertaald naar concrete interacties en productrichtingen. De gebruikerservaring werd gevisualiseerd aan de hand van een storyboard, waarin duidelijk werd hoe Planda Beer kinderen tijdens hun dagelijkse activiteiten kan begeleiden.
+In de definitiefase van het Planda-project werd de probleemdefinitie verder aangescherpt en vertaald naar concrete productconcepten en interacties. De gebruikerservaring werd gevisualiseerd via een storyboard, dat de rol van Planda Beer in de dagelijkse routines van kinderen duidelijk maakte.
 
-Op basis hiervan werden eerste fysieke en visuele prototypes ontwikkeld, variërend van schetsmodellen tot conceptuele mock-ups. Deze prototypes werden getest in verschillende rondes user feedback (N=3), waarin zowel ouders als kinderen reageerden op de vorm, duidelijkheid van de functies en de speelsheid van het concept.
+Op basis van deze inzichten werden eerste fysieke en visuele prototypes ontwikkeld, variërend van schetsmodellen tot conceptuele mock-ups. Deze prototypes werden getest in meerdere rondes met gebruikersfeedback (N=3), waarbij zowel ouders als kinderen reageerden op de vorm, functionaliteit en speelsheid van het concept.
 
-Daarna volgden de eerste testrondes binnen het kader van Wave 1, waarin conceptual prototypes (N=3) werden onderzocht. Hieruit bleek onder meer dat jonge kinderen intuïtief reageren op lichtsignalen. Naast het gebruikmaken van een ingebouwd scherm werd er ook hier los van een prototype gemaakt zonder scherm. Deze inzichten leidden ook tot een nieuw ontwerpprincipe voor het vervolg: werken met losse, verwisselbare T-shirts waarop taakjes geprint staan, gecombineerd met interne LED-signalen in de beer zelf. Zo blijft het product knuffelbaar, veilig en aanpasbaar naargelang leeftijd, weekendroutines of zelfstandigheidsniveaus.
+Vervolgens werden in Wave 1 drie conceptuele prototypes onderzocht om het effect van verschillende interacties te evalueren. Hierbij bleek onder meer dat jonge kinderen intuïtief reageren op lichtsignalen. Daarnaast werd getest hoe een geïntegreerd scherm versus een schermloos ontwerp de gebruikservaring beïnvloedde. De resultaten leidden tot een nieuw ontwerpprincipe: losse, verwisselbare T-shirts met geprinte taakjes, gecombineerd met interne LED-signalen in de beer. Zo blijft het product knuffelbaar, veilig en aanpasbaar aan leeftijd, routine of zelfstandigheidsniveau van het kind.
 
-Tegelijkertijd startte we met het ontwerpen van de interface voor de app, die ouders toelaat om routines samen te stellen, feedback te ontvangen en de beer te personaliseren in functie van de noden van hun kind.
+Tegelijkertijd startte de ontwikkeling van de app-interface, waarmee ouders routines kunnen samenstellen, feedback ontvangen en de beer personaliseren.
+
+Inzichten uit Wave 1
+
+Knuffelgebruik: Kinderen gebruiken hun knuffel op verschillende manieren, afhankelijk van leeftijd en gehechtheid. Jonge kinderen dragen de knuffel overal mee, terwijl oudere kinderen deze vaker op een vaste plek laten. Interactieve elementen mogen de natuurlijke knuffelervaring niet verstoren.
+
+Fysieke componenten: De oren van de beer bleken de meest intuïtieve locatie voor knoppen. Het display op de beer werd minder goed ontvangen; een afneembaar scherm is praktischer. Materialen moeten zacht, veilig en wasbaar zijn.
+
+Aandacht trekken en beloning: Een combinatie van lichtsignalen en korte geluidjes bleek effectief om kinderen zelfstandig naar de beer te leiden en acties uit te voeren. Visuele en auditieve feedback werkt beter dan enkel digitale of fysieke beloningen.
+
+Kleurgebruik: Geel werd gekozen voor de startknop (positieve associatie met blijheid), lichtgroen voor voltooiingsknoppen (rustige, positieve associatie).
+
+Verdere verdieping in Wave 2
+
+Observatie knuffelgedrag: Knuffelinteracties mogen niet op plekken komen die intensief vastgehouden of geknepen worden (nek, armen, romp, pootjes). De oren blijven geschikt voor bewuste interactie.
+
+Links-rechts interpretatie: Kinderen associëren spontaan rechts met doorgaan/bevestigen en links met terug/stop, wat vertaald werd naar een intuïtieve interface.
+
+Materialen en tactiliteit: Knoppen moeten zacht en licht vervormbaar zijn, met voldoende weerstand om accidentele activatie te voorkomen.
+
+Deze inzichten vormden de basis voor de volgende iteraties, waarbij prototypes verder worden getest en geoptimaliseerd op gebruiksvriendelijkheid, veiligheid en speelsheid.
