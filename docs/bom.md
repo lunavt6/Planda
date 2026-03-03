@@ -74,7 +74,7 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
       <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td rowspan="5" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Gedeelde <br> componenten</td>
+      <td rowspan="5" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Gedeelde componenten</td>
       <td style="padding: 8px; text-align: center;">POGO-PIN connector</td>
       <td style="padding: 8px; text-align: center;">-</td>
       <td style="padding: 8px; text-align: center;">-</td>
