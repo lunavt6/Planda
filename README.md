@@ -37,8 +37,9 @@ Boundary conditions voor Planda Beer zijn duidelijk: het product moet veilig, du
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Definition](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
+4. [Development 1](./docs/develop_1.md)
+5. [Design Requirements](./docs/design_requirements.md)
+6. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 Het onderzoek naar Planda Beer heeft tot nu toe waardevolle inzichten opgeleverd over zowel het gebruik van knuffels door jonge kinderen als de optimale ontwerpkeuzes voor een interactieve knuffel. De iteratieve aanpak, opgesplitst in Wave 1 en Wave 2, heeft duidelijk gemaakt dat het ontwikkelen van een slim product voor de ochtendroutine sterk afhankelijk is van het nauwkeurig afstemmen van fysieke en digitale interacties op het natuurlijke gedrag van kinderen. Door gebruik te maken van storyboards, low-fidelity prototypes en de Wizard of Oz-methode, konden wij stapsgewijs inzicht krijgen in hoe kinderen zelfstandig taken uitvoeren en welke prikkels hun aandacht trekken. Deze methoden waren effectief om intuïtief gedrag en spontane interacties te observeren zonder dat kinderen expliciet instructies kregen, wat cruciaal is voor het testen van een autonoom ogende knuffelbeer.
