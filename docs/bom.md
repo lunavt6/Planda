@@ -1,93 +1,83 @@
 ## Bill of materials
 Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zijn gebruikt. Enkele componenten werden in grotere hoeveelheden aangekocht of maakten deel uit van een samengesteld pakket.
 
-<table>
+<table style="border: 2px solid black; border-collapse: collapse; width: 100%;">
   <thead>
-    <tr>
-      <th>Categorie</th>
-      <th>Component</th>
-      <th>Aankooppagina</th>
-      <th>Pricing (€)</th>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid black; padding: 8px; text-align: center;">Categorie</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center;">Component</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center;">Aankooppagina</th>
+      <th style="border: 1px solid black; padding: 8px; text-align: center;">Pricing (€)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7"><b>Scherm</b></td>
-      <td>Arduino Mega 2560 R3 (clone)</td>
-      <td>OTRONIC® via <a href="https://www.bol.com/nl/nl/p/otronic-mega-2560-r3/9300000024846565/?bltgh=qweQjPAn-o60DQKhLrJPTA.4_12.13.ProductTitle" target="_blank">bol.com</a></td>
-      <td>25,25</td>
+      <td rowspan="7" style="border: 1px solid black; writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Scherm</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Arduino Mega 2560 R3 (clone)</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">25,25</td>
     </tr>
     <tr>
-      <td>3.5 inch Touch screen TFT Shield Arduino Mega</td>
-      <td>OTRONIC® via <a href="https://www.bol.com/nl/nl/p/otronic-3-5-inch-touch-screen-tft-shield-voor-arduino-uno-en-mega/9300000035115275/?bltgh=rP9pzcEObmmSw7S5yvVG5Q.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>21,95</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">3.5 inch Touch screen TFT Shield Arduino Mega</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">21,95</td>
     </tr>
     <tr>
-      <td>USB-A naar USB-B kabel</td>
-      <td>OTRONIC® via <a href="https://www.bol.com/nl/nl/p/otronic-usb-a-naar-usb-b-kabel-1-8-meter/9300000047758596/?bltgh=hEYGPi6X2wyyuFm74hVF-w.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>7</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">USB-A naar USB-B kabel</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">7</td>
     </tr>
     <tr>
-      <td>Speaker 3W | 40mm | 4 Ohm</td>
-      <td>OTRONIC® via <a href="https://www.bol.com/nl/nl/p/otronic-speakertje-3w-40mm-4-ohm-arduino-esp32-inbouw-raspberry-pi/9300000007239974/?bltgh=jYj9V-TnZp87WTgFkMpOBA.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>9,90</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Speaker 3W | 40mm | 4 Ohm</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">9,90</td>
     </tr>
     <tr>
-      <td>DFPlayer Mini mp3 module</td>
-      <td>AZ Delivery via <a href="https://www.bol.com/nl/nl/p/azdelivery-3-x-mini-mp3-speler-dfpplayer-module-master-compatibel-met-arduino-inclusief-e-book/9300000119847977/?bltgh=sWDlX4ydW6NZCrNz0-dGTg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>6,99</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">DFPlayer Mini mp3 module</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">AZ Delivery via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">6,99</td>
     </tr>
     <tr>
-      <td>Weerstand 1000 Ohm</td>
-      <td>TIN-IN via <a href="https://www.bol.com/nl/nl/p/tin-in-elektronica-starter-kit-xl-uitgebreide-componenten-set-met-830-punts-breadboard-geschikt-voor-arduino-raspberry-pi/9300000072599119/?bltgh=lM1qKqYQnFk-zcUoD8ZOzg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>29,95</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">Weerstand 1000 Ohm</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td>Kabels</td>
-      <td>TIN-IN via <a href="https://www.bol.com/nl/nl/p/tin-in-elektronica-starter-kit-xl-uitgebreide-componenten-set-met-830-punts-breadboard-geschikt-voor-arduino-raspberry-pi/9300000072599119/?bltgh=lM1qKqYQnFk-zcUoD8ZOzg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>29,95</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">Kabels</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td rowspan="5"><b>Panda beer</b></td>
-      <td>Zittende Panda 33cm</td>
-      <td>Nicotoy via <a href="https://www.bol.com/nl/nl/p/nicotoy-zittende-panda-33cm/9300000052332543/?bltgh=h7LgZwLfjPZJ9HOhxc5E1w.4_7.8.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>14,49</td>
+      <td rowspan="5" style="border: 1px solid black; writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Panda beer</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Zittende Panda 33cm</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Nicotoy via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">14,49</td>
     </tr>
     <tr>
-      <td>Blauwe LED (x1)<br>Groene LED (x1)<br>Orange LED (x1)</td>
-      <td>TIN-IN via <a href="https://www.bol.com/nl/nl/p/tin-in-elektronica-starter-kit-xl-uitgebreide-componenten-set-met-830-punts-breadboard-geschikt-voor-arduino-raspberry-pi/9300000072599119/?bltgh=lM1qKqYQnFk-zcUoD8ZOzg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>29,95</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">Blauwe LED (x1)<br>Groene LED (x1)<br>Orange LED (x1)</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td>Drukknoppen (x2)</td>
-      <td>Nog te bepalen </td>
-      <td>-</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Drukknoppen (x2)</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">Nog te bepalen</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">-</td>
     </tr>
     <tr>
-      <td>Weerstand 330 Ohm (x1)<br>Weerstand 220 Ohm (x2)</td>
-      <td>TIN-IN via <a href="https://www.bol.com/nl/nl/p/tin-in-elektronica-starter-kit-xl-uitgebreide-componenten-set-met-830-punts-breadboard-geschikt-voor-arduino-raspberry-pi/9300000072599119/?bltgh=lM1qKqYQnFk-zcUoD8ZOzg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>29,95</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">Weerstand 330 Ohm (x1)<br>Weerstand 220 Ohm (x2)</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td>Kabels</td>
-      <td>TIN-IN via <a href="https://www.bol.com/nl/nl/p/tin-in-elektronica-starter-kit-xl-uitgebreide-componenten-set-met-830-punts-breadboard-geschikt-voor-arduino-raspberry-pi/9300000072599119/?bltgh=lM1qKqYQnFk-zcUoD8ZOzg.4_12.13.ProductTitle" target="_blank">bol.com</a></
-      </td>
-      <td>29,95</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">Kabels</td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="border: 1px solid black; background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td><b>Gedeelde componenten</b></td>
-      <td>POGO-PIN connector</td>
-      <td></td>
-      <td>-</td>
+      <td rowspan="5" style="border: 1px solid black; writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Gedeelde <br> componenten</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">POGO-PIN connector</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">-</td>
+      <td style="border: 1px solid black; padding: 8px; text-align: center;">-</td>
     </tr>
   </tbody>
 </table>
