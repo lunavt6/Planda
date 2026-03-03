@@ -1,8 +1,7 @@
 ## Bill of materials
 Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zijn gebruikt. Enkele componenten werden in grotere hoeveelheden aangekocht of maakten deel uit van een samengesteld pakket.
 
-
-<table style="border: 2px solid black; border-collapse: collapse; width: 100%;">
+<table>
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th style="border: 1px solid black; padding: 8px; text-align: center;">Categorie</th>
