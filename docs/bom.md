@@ -1,82 +1,83 @@
 ## Bill of materials
 Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zijn gebruikt. Enkele componenten werden in grotere hoeveelheden aangekocht of maakten deel uit van een samengesteld pakket.
-<table style="width: 100%;">
+
+<table>
   <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="padding: 8px; text-align: center;">Categorie</th>
-      <th style="padding: 8px; text-align: center;">Component</th>
-      <th style="padding: 8px; text-align: center;">Aankooppagina</th>
-      <th style="padding: 8px; text-align: center;">Pricing (€)</th>
+    <tr>
+      <th>Categorie</th>
+      <th>Component</th>
+      <th>Aankooppagina</th>
+      <th>Pricing (€)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Scherm</td>
-      <td style="padding: 8px; text-align: center;">Arduino Mega 2560 R3 (clone)</td>
-      <td style="padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">25,25</td>
+      <td rowspan="7" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold;">Scherm</td>
+      <td>Arduino Mega 2560 R3 (clone)</td>
+      <td>OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td>25,25</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center;">3.5 inch Touch screen TFT Shield Arduino Mega</td>
-      <td style="padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">21,95</td>
+      <td>3.5 inch Touch screen TFT Shield Arduino Mega</td>
+      <td>OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td>21,95</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center;">USB-A naar USB-B kabel</td>
-      <td style="padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">7</td>
+      <td>USB-A naar USB-B kabel</td>
+      <td>OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td>7</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center;">Speaker 3W | 40mm | 4 Ohm</td>
-      <td style="padding: 8px; text-align: center;">OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">9,90</td>
+      <td>Speaker 3W | 40mm | 4 Ohm</td>
+      <td>OTRONIC® via <a href="https://www.bol.com">bol.com</a></td>
+      <td>9,90</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center;">DFPlayer Mini mp3 module</td>
-      <td style="padding: 8px; text-align: center;">AZ Delivery via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">6,99</td>
+      <td>DFPlayer Mini mp3 module</td>
+      <td>AZ Delivery via <a href="https://www.bol.com">bol.com</a></td>
+      <td>6,99</td>
     </tr>
     <tr>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">Weerstand 1000 Ohm</td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
+      <td style="background-color: #FFDBE9;">Weerstand 1000 Ohm</td>
+      <td style="background-color: #FFDBE9;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="background-color: #FFDBE9;">29,95</td>
     </tr>
     <tr>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">Kabels</td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
+      <td style="background-color: #FFDBE9;">Kabels</td>
+      <td style="background-color: #FFDBE9;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="background-color: #FFDBE9;">29,95</td>
     </tr>
     <tr>
-      <td rowspan="5" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Panda beer</td>
-      <td style="padding: 8px; text-align: center;">Zittende Panda 33cm</td>
-      <td style="padding: 8px; text-align: center;">Nicotoy via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="padding: 8px; text-align: center;">14,49</td>
+      <td rowspan="5" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold;">Panda beer</td>
+      <td>Zittende Panda 33cm</td>
+      <td>Nicotoy via <a href="https://www.bol.com">bol.com</a></td>
+      <td>14,49</td>
     </tr>
     <tr>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">Blauwe LED (x1)<br>Groene LED (x1)<br>Orange LED (x1)</td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
+      <td style="background-color: #FFDBE9;">Blauwe LED (x1)<br>Groene LED (x1)<br>Orange LED (x1)</td>
+      <td style="background-color: #FFDBE9;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="background-color: #FFDBE9;">29,95</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center;">Drukknoppen (x2)</td>
-      <td style="padding: 8px; text-align: center;">Nog te bepalen</td>
-      <td style="padding: 8px; text-align: center;">-</td>
+      <td>Drukknoppen (x2)</td>
+      <td>Nog te bepalen</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">Weerstand 330 Ohm (x1)<br>Weerstand 220 Ohm (x2)</td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
+      <td style="background-color: #FFDBE9;">Weerstand 330 Ohm (x1)<br>Weerstand 220 Ohm (x2)</td>
+      <td style="background-color: #FFDBE9;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="background-color: #FFDBE9;">29,95</td>
     </tr>
     <tr>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">Kabels</td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
-      <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
+      <td style="background-color: #FFDBE9;">Kabels</td>
+      <td style="background-color: #FFDBE9;">TIN-IN via <a href="https://www.bol.com">bol.com</a></td>
+      <td style="background-color: #FFDBE9;">29,95</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: center; font-weight: bold;">Gedeelde componenten</td>
-      <td style="padding: 8px; text-align: center;">POGO-PIN connector</td>
-      <td style="padding: 8px; text-align: center;">-</td>
-      <td style="padding: 8px; text-align: center;">-</td>
+      <td style="font-weight: bold;">Gedeelde componenten</td>
+      <td>POGO-PIN connector</td>
+      <td></td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
