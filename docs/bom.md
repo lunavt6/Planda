@@ -1,6 +1,5 @@
 ## Bill of materials
 Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zijn gebruikt. Enkele componenten werden in grotere hoeveelheden aangekocht of maakten deel uit van een samengesteld pakket.
-
 <table style="width: 100%;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -74,7 +73,7 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
       <td style="background-color: #aeedc0; padding: 8px; text-align: center;">29,95</td>
     </tr>
     <tr>
-      <td rowspan="5" style="writing-mode: vertical-rl; transform: rotate(180deg); text-align: center; font-weight: bold; padding: 10px;">Gedeelde componenten</td>
+      <td style="padding: 8px; text-align: center; font-weight: bold;">Gedeelde componenten</td>
       <td style="padding: 8px; text-align: center;">POGO-PIN connector</td>
       <td style="padding: 8px; text-align: center;">-</td>
       <td style="padding: 8px; text-align: center;">-</td>
