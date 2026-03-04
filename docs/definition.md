@@ -59,15 +59,14 @@ Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete d
 
 > [!IMPORTANT]
 > **Design Requirements**
-> - 1.6 Het product moet makkelijk door de doelgroep vast te houden zijn.	
-> - 1.7 Het product moet het knuffelaspect behouden.
-> - 1.8 Het product moet (deels) wasbaar zijn.
-> - 2.1 Het scherm moet losneembaar zijn.
-> - 3.1	Het product moet knoppen hebben.
-> - 3.2	De knoppen moeten op een toegankelijke plaats gepositioneerd worden.
-> - 1.9 Het product moet feedback geven aan de gebruiker.	
-> - 3.3	Het licht moet aantonen welke knop er ingeduwd moet worden.
-> - 3.4	De kleuren van het licht moeten duidelijkheid geven.	
-> - 4.1	De aandacht van het kind moet getrokken worden a.d.h.v. geluid.
-> - 3.5 De knoppen moeten op een logische manier t.p.v. elkaar liggen.
-
+> - 1.4 Het product geeft feedback aan de gebruiker.
+> - 1.5 Het scherm is losneembaar van het hoofdproduct.	
+> - 2.2	Het product beschikt over fysieke knoppen.
+> - 2.3	De knoppen zijn ergonomische en toegankelijke gepositioneerd voor de doelgroep.
+> - 2.4 De knoppen zijn op een logische manier t.o.v. elkaar gepositioneerd.
+> - 2.5	Lichtsignalen geven aan welke knop er moet ingeduwd worden.
+> - 2.6	De kleuren van de lichtsignalen zorgen voor een duidelijke interpretatie.	
+> - 2.7	Het product gebruikt geluid om de aandacht van het kind te trekken.
+> - 3.2 Het product behoudt het knuffelaspect.
+> - 3.3 Het product heeft een ergonomische vorm die makkelijk vast te houden is door de doelgroep.	
+> - 3.4 Het product bevat onderdelen die gereinigd kunnen worden.

@@ -59,21 +59,16 @@ Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij d
 | Conclusie | Reden |
 |-----------------|-------|
 | Het hulpmiddel moet op een duidelijke en motiverende manier taken visueel weergeven. | Ouders geven aan dat chaos en tijdsdruk de grootste stress veroorzaken, vooral in de ochtendroutine. |
-| Het hulpmiddel moet speels zijn of beloningssystemen of gamification-elementen bevatten om de zelfstandigheid te stimuleren en motivatie te verhogen. | Kinderen zijn vaak afgeleid of weinig gemotiveerd om taken zelfstandig uit te voeren. |
-| Het ontwerp moet intuïtief en eenvoudig te begrijpen zijn zodat het kind en ouder het makkelijk kunnen gebruiken. | Ouders willen geen extra stress door ingewikkelde of onduidelijke hulpmiddelen. |
-| Het hulpmiddel moet aanpasbaar zijn, zodat ouders zelf de volgorde van taken, tijden of beloningen kunnen instellen. | Elke ouder en elk kind heeft unieke routines en voorkeuren. |
 | Het hulpmiddel moet kinderen ondersteunen zonder volledig over te nemen, zoals stap-voor-stap instructies en visuele hints geven. | Ouders willen dat hun kinderen steeds meer zelfstandig uitvoeren, maar hebben nog begeleiding nodig. |
+| Het hulpmiddel moet aanpasbaar zijn, zodat ouders zelf de volgorde van taken, tijden of beloningen kunnen instellen. | Elke ouder en elk kind heeft unieke routines en voorkeuren. |
+| Het ontwerp moet intuïtief en eenvoudig te begrijpen zijn zodat het kind en ouder het makkelijk kunnen gebruiken. | Ouders willen geen extra stress door ingewikkelde of onduidelijke hulpmiddelen. |
+| Het hulpmiddel moet speels zijn of beloningssystemen of gamification-elementen bevatten om de zelfstandigheid te stimuleren en motivatie te verhogen. | Kinderen zijn vaak afgeleid of weinig gemotiveerd om taken zelfstandig uit te voeren. |
+
 
 > [!IMPORTANT]
 > **Design Requirements**
-> - 1.1 Het product moet taken duidelijk en motiverend weergeven.
-> - 1.2 Het product moet speels zijn.
-> - 1.3 Het product moet intuïtief en eenvoudig te gebruiken zijn.
-> - 1.4 Het product moet aanpasbaar zijn.
-> - 1.5 Het product moet de doelgroep ondersteunen.
-
-
-
-
-
-
+> - 1.1 Het product geeft taken duidelijk en motiverend weer.
+> - 1.2 Het product ondersteunt de gebruiker.
+> - 1.3 Het product is aanpasbaar.
+> - 2.1 Het product is intuïtief en eenvoudig te gebruiken.
+> - 3.1 Het product heeft een speels karakter.

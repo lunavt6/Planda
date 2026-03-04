@@ -2,23 +2,22 @@
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
-|**Algemeen**|
-|1.1|Het product moet taken duidelijk en motiverend weergeven.|[Discovery](discovery.md)||
-|1.2|Het product moet speels zijn.|[Discovery](discovery.md)||
-|1.3|Het product moet intuïtief en eenvoudig te gebruiken zijn.|[Discovery](discovery.md)||
-|1.4|Het product moet aanpasbaar zijn.|[Discovery](discovery.md)||
-|1.5|Het product moet de gebruiker ondersteunen.|[Discovery](discovery.md)||
-|1.6|Het product moet makkelijk door de doelgroep vast te houden zijn.|[Definition: Wave 1](definition.md)||
-|1.7|Het product moet het knuffelaspect behouden.|[Definition: Wave 1](definition.md)||
-|1.8|Het product moet (deels) wasbaar zijn.|[Definition: Wave 1](definition.md)||
-|1.9|Het product moet feedback geven aan de gebruiker.|[Definition: Wave 2](definition.md)||
-|**Scherm**|
-|2.1|Het scherm moet losneembaar zijn.|[Definition: Wave 1](definition.md)||
-|**Lichtknoppen**|
-|3.1|Het product moet knoppen hebben.|[Definition: Wave 1](definition.md)||
-|3.2|De knoppen moeten op een toegankelijke plaats gepositioneerd worden.|[Definition: Wave 1](definition.md)||
-|3.3|Het licht moet aantonen welke knop er ingeduwd moet worden.|[Definition: Wave 2](definition.md)||
-|3.4|De kleuren van het licht moeten duidelijkheid geven.|[Definition: Wave 2](definition.md)||
-|3.5|De knoppen moeten op een logische manier t.p.v. elkaar liggen. |[Definition: Wave 2](definition.md)||
-|**Auditief**|
-|4.1|De aandacht van het kind moet getrokken worden a.d.h.v. geluid.|[Definition: Wave 2](definition.md)||
+|**Functionaliteit & Ondersteuning**|
+|1.1|Het product geeft taken duidelijk en motiverend weer.|[Discovery](discovery.md)||
+|1.2|Het product ondersteunt de gebruiker.|[Discovery](discovery.md)||
+|1.3|Het product is aanpasbaar.|[Discovery](discovery.md)||
+|1.4|Het product geeft feedback aan de gebruiker.|[Definition: Wave 2](definition.md)||
+|1.5|Het scherm is losneembaar van het hoofdproduct.|[Definition: Wave 1](definition.md)||
+|**Interactie & Bediening**|
+|2.1|Het product is intuïtief en eenvoudig te gebruiken.|[Discovery](discovery.md)||
+|2.2|Het product beschikt over fysieke knoppen.|[Definition: Wave 1](definition.md)||
+|2.3|De knoppen zijn ergonomische en toegankelijke gepositioneerd voor de doelgroep.|[Definition: Wave 1](definition.md)||
+|2.4|De knoppen zijn op een logische manier t.o.v. elkaar gepositioneerd. |[Definition: Wave 2](definition.md)||
+|2.5|Lichtsignalen geven aan welke knop er moet ingeduwd worden.|[Definition: Wave 2](definition.md)||
+|2.6|De kleuren van de lichtsignalen zorgen voor een duidelijke interpretatie.|[Definition: Wave 2](definition.md)||
+|2.7|Het product gebruikt geluid om de aandacht van het kind te trekken.|[Definition: Wave 2](definition.md)||
+|**Vormgeving & Beleving**|
+|3.1|Het product heeft een speels karakter.|[Discovery](discovery.md)||
+|3.2|Het product behoudt het knuffelaspect.|[Definition: Wave 1](definition.md)||
+|3.3|Het product heeft een ergonomische vorm die makkelijk vast te houden is door de doelgroep.|[Definition: Wave 1](definition.md)||
+|3.4|Het product bevat onderdelen die gereinigd kunnen worden.|[Definition: Wave 1](definition.md)||
