@@ -74,6 +74,14 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
   * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
   * [Rapport](https://drive.google.com/file/d/1IPqVUZfXOLCZnDsoIyMeZ7-M63zYob_7/view?usp=sharing)
 
+### Development 1
+* Literatuuronderzoek
+  * [Protocol](...)
+  * [Rapport](...)
+* User testing
+  * [Protocol](...)
+  * [Rapport](...)
+
 ## Licentie  
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
