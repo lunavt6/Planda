@@ -72,7 +72,7 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
   * [Rapport](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing)
 * User testing wave 2 (N=6)
   * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
-  * [Rapport](https://drive.google.com/file/d/1IPqVUZfXOLCZnDsoIyMeZ7-M63zYob_7/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/1fjuVNgBqOzUFsyVm4JlBje40BZtUA6KR/view?usp=sharing)
 
 ### Development 1
 * Literatuuronderzoek
