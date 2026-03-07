@@ -5,7 +5,7 @@ Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*19/01/2026 van de laatste update*   
+*8/03/2026 van de laatste update*   
 
 ## Samenvatting
 Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Daarnaast toonde benchmarkingonderzoek aan dat er momenteel nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
@@ -72,12 +72,12 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
   * [Rapport](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing)
 * User testing wave 2 (N=6)
   * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
-  * [Rapport](https://drive.google.com/file/d/1fjuVNgBqOzUFsyVm4JlBje40BZtUA6KR/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/1M4MNhGCV2yEY8R1wfnuPgGviKFT1PNGz/view?usp=sharing)
 
 ### Development 1
-* Literatuuronderzoek
-  * [Protocol](...)
-  * [Rapport](...)
+* Literatuuronderzoek (N=11)
+  * [Protocol](https://drive.google.com/file/d/1JkM7xMZF1cOWVq1P75I5-xc_WWrdSNv_/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/1lqU_Gb7P2KewI6b2YRbHUHMy500uVC_5/view?usp=sharing)
 * User testing
   * [Protocol](...)
   * [Rapport](...)
