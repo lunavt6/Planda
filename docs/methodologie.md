@@ -1,8 +1,8 @@
 ## Methodologie
-![alt text](image.png)
+![Triple Diamond](../img/image.png)
 Het ontwikkelingsproces van Planda Beer volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Triple Diamond-model. In SEM1 lag de nadruk op de discover- en definitiefase, met als doel inzicht te verwerven in routines, opvoedstress en motivatie bij jonge kinderen, en deze inzichten te vertalen naar eerste functionele concepten van Planda Beer.
 
-Discover-fase
+### Discovery-fase
 
 In de discover-fase werd de probleemruimte rond ochtend- en avondroutines bij jonge kinderen breed verkend. Het onderzoek richtte zich op het begrijpen van opvoedstress, autonomieontwikkeling en het potentieel van phygital producten om kinderen speels te begeleiden.
 
@@ -10,7 +10,7 @@ De fase startte met user interviews (N=3) met ouders en zorgverleners, waarin kn
 
 Parallel werd gewerkt aan het scherpstellen van de doelgroep, het uitwerken van eerste conceptideeën en het maken van vroege schetsen. De inzichten werden vertaald naar een persona, die als leidraad diende voor empathie en gebruiksgericht ontwerp. De discover-fase resulteerde in een duidelijk inzichtendocument met noden, frustraties en kansen voor een speelse, niet-digitale of schermvrije ondersteuning van kinderroutines.
 
-Definitiefase
+### Definitiefase
 
 In de definitiefase van het Planda-project werd de probleemdefinitie verder aangescherpt en vertaald naar concrete productconcepten en interacties. De gebruikerservaring werd gevisualiseerd via een storyboard, dat de rol van Planda Beer in de dagelijkse routines van kinderen duidelijk maakte.
 
@@ -20,7 +20,7 @@ Vervolgens werden in Wave 1 drie conceptuele prototypes onderzocht om het effect
 
 Tegelijkertijd startte de ontwikkeling van de app-interface, waarmee ouders routines kunnen samenstellen, feedback ontvangen en de beer personaliseren.
 
-Inzichten uit Wave 1
+**Inzichten uit Wave 1**
 
 Knuffelgebruik: Kinderen gebruiken hun knuffel op verschillende manieren, afhankelijk van leeftijd en gehechtheid. Jonge kinderen dragen de knuffel overal mee, terwijl oudere kinderen deze vaker op een vaste plek laten. Interactieve elementen mogen de natuurlijke knuffelervaring niet verstoren.
 
@@ -30,7 +30,7 @@ Aandacht trekken en beloning: Een combinatie van lichtsignalen en korte geluidje
 
 Kleurgebruik: Geel werd gekozen voor de startknop (positieve associatie met blijheid), lichtgroen voor voltooiingsknoppen (rustige, positieve associatie).
 
-Verdere verdieping in Wave 2
+**Verdere verdieping in Wave 2**
 
 Observatie knuffelgedrag: Knuffelinteracties mogen niet op plekken komen die intensief vastgehouden of geknepen worden (nek, armen, romp, pootjes). De oren blijven geschikt voor bewuste interactie.
 

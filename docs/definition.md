@@ -17,7 +17,7 @@ Uit het storyboard kwamen verschillende aandachtspunten naar voren, zoals de rol
 
 Op basis van het storyboard werd beslist om het onderzoek gefaseerd aan te pakken: eerst door te focussen op fysieke interactie en intuïtief gebruik, en daarna op verfijning van feedback, materialen en bediening. De prototypes werden telkens opgebouwd rond specifieke momenten uit het storyboard en getest in een realistische context via observaties bij kinderen en interviews met ouders. Op die manier fungeerde het storyboard als leidraad voor zowel het onderzoek als de analyse in de verschillende waves.
 
-![alt text](Storyboard.jpg)
+![Storyboard](../img/Storyboard.jpg)
 
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
