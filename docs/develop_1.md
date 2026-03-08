@@ -34,7 +34,7 @@ Voor gezinnen met meerdere kinderen is het belangrijk dat meerdere accounts moge
 
 Verder kan het motiverend zijn wanneer kinderen zelf betrokken worden, bijvoorbeeld door de volgorde van taken te kiezen of hun voortgang op de beer te zien. Ook meldingen en tips worden als nuttig beschouwd, omdat ze ouders helpen om oefenmomenten niet te vergeten en ondersteuning bieden bij het oefenen. Tot slot moet de app duidelijk tonen of de knuffelbeer correct verbonden is en of de ingestelde routine goed is doorgestuurd, zodat ouders zeker zijn dat het systeem correct werkt. 
 
-### Hardware en opstelling
+#### Hardware en opstelling
 Onderstaand schema toont de opstelling die later gebruikt zal worden om het project te realiseren. Op basis daarvan werden de benodigde componenten aangekocht. In de volgende fase (Develop 2) wordt de opstelling opgebouwd en wordt de code geschreven om het systeem te testen.
 
 ![Opstelling Planda](<../img/Opstelling Planda.jpg>)
@@ -78,3 +78,20 @@ Tussen het scherm en de teddybeer wordt een magnetische POGO-pin connector gebru
 Uit de testen blijkt dat het concept goed werkt, maar dat enkele onderdelen nog verder verbeterd moeten worden. Zo is adaptieve begeleiding nodig afhankelijk van het niveau van het kind, zijn waterbestendige knoppen belangrijk in natte situaties en speelt audio een grote rol omdat jonge kinderen vaak nog niet kunnen lezen. Speelse geluidjes en positieve feedback helpen bovendien om kinderen gemotiveerd te houden.
 
 Daarnaast blijkt dat ouders een eenvoudige en overzichtelijke app willen. Ze willen routines makkelijk kunnen instellen en aanpassen en de voortgang van hun kind kunnen volgen via visuele feedback. 
+
+> [!IMPORTANT]
+> **Design Requirements**
+> - 1.6 De beer biedt aangepaste begeleiding met minstens twee niveaus: een beginnersmodus met gedetailleerde stappen en een gevorderde modus met kortere instructies.
+> - 1.7 Elke stap communiceert één duidelijke actie en is visueel eenvoudig en herkenbaar voor jonge kinderen.
+> - 1.8 De beer leest elke stap automatisch voor via een ingebouwde speaker.
+> - 4.1 De app is eenvoudig en overzichtelijk, zodat ouders snel taken kunnen instellen of aanpassen.
+> - 4.2 Ouders kunnen routines volledig aanpassen door taken toe te voegen, te verwijderen of de volgorde te wijzigen.
+> - 4.3 De app bevat standaardtaken.
+> - 4.4 Ouders kunnen eerder ingestelde routines opslaan en opnieuw gebruiken.
+> - 4.5 De app ondersteunt meerdere kinderaccounts, zodat elk kind een eigen profiel en voortgang heeft.
+> - 4.6 Beide ouders kunnen via hun eigen smartphone toegang krijgen tot de beer en voortgang bekijken.
+> - 4.7 Voortgang van kinderen wordt visueel weergegeven.
+> - 4.8 De app toont voortgang over langere tijd.
+> - 4.9 Ouders ontvangen herinneringen om oefenmomenten niet te vergeten.
+> - 4.10 De app geeft praktische tips voor het oefenen van vaardigheden met het kind.
+> - 4.11 De verbinding tussen de app en de beer is duidelijk zichtbaar, inclusief correcte overdracht van routines.
