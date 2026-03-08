@@ -20,35 +20,22 @@ Uit het literatuuronderzoek zijn volgende tijdlijnen ontstaan waarbij telkens é
 #### Testinterviews
 **Analyse van gebruikerstesten met de interactieve beer**
 
-Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebruikt, waarbij een fysieke beer fungeerde als tastbare interface en een smartphone op de buik het Figma-prototype toonde. Via een Bluetooth-muis werden de schermen op afstand bestuurd, waardoor de volledige interactiestroom getest kon worden zonder dat de echte hardware en software al ontwikkeld waren. De focus lag op gedrag, begrip en motivatie van kinderen tijdens dagelijkse taken zoals handen wassen.
+Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebruikt. Hierbij fungeerde een fysieke knuffelbeer als tastbare interface, terwijl een smartphone op de buik het Figma-prototype toonde. Via een Bluetooth-muis werden de schermen op afstand bestuurd, zodat de volledige interactiestroom getest kon worden zonder dat de echte hardware en software al ontwikkeld waren. De focus van de test lag vooral op het gedrag, begrip en de motivatie van kinderen tijdens dagelijkse zelfzorgtaken zoals handen wassen.
 
-Belangrijkste inzichten
+Uit de testen kwamen verschillende belangrijke inzichten naar voren. Zo bleek dat kinderen verschillende niveaus van begeleiding nodig hebben. Beginners hebben nood aan een gedetailleerd stappenplan met kleine, duidelijke stappen, terwijl kinderen met meer ervaring sneller willen werken. Het systeem moet daarom adaptief zijn en begeleiding kunnen aanpassen aan het niveau van het kind. Daarnaast werd duidelijk dat de interactie soms plaatsvindt in een natte omgeving, waardoor het moeilijk kan zijn om knoppen te bedienen. Daarom is het belangrijk dat de interface waterbestendig en makkelijk schoon te maken is.
 
-- Een aanpasbaar stappenplan: Kinderen hebben verschillende niveaus van ervaring. Beginners hebben nood aan een gedetailleerd stappenplan, terwijl gevorderden sneller willen werken. Het systeem moet aanpasbaar zijn met ten minste twee niveaus van begeleiding.
-
-- Interacties in natte context: Tijdens handen wassen bleek het lastig voor kinderen om met natte handen knoppen te bedienen. De interface moet waterbestendig en makkelijk schoon te maken zijn, bijvoorbeeld van siliconen.
-
-- Duidelijkheid van instructies: Kinderen hebben behoefte aan concrete, ondubbelzinnige stappen. Complexe pictogrammen of te veel visuele elementen kunnen verwarrend zijn.
-
-- Belang van audiofeedback: Voorlezen van instructies zorgde voor snellere en zekerdere reacties. Audio is essentieel voor jonge kinderen die nog niet kunnen lezen en kan de motivatie verhogen via positieve bevestigingen en speelse geluidseffecten.
+Verder bleek dat duidelijke en concrete instructies belangrijk zijn. Te complexe pictogrammen of te veel visuele elementen kunnen verwarrend zijn voor jonge kinderen. Tot slot toonde de test aan dat audiofeedback een grote meerwaarde heeft. Wanneer instructies werden voorgelezen, reageerden kinderen sneller en met meer zekerheid. Audio is daarom essentieel, zeker omdat kinderen in deze leeftijdsgroep vaak nog niet kunnen lezen. Positieve geluidjes en bevestigingen kunnen daarnaast helpen om kinderen gemotiveerd en betrokken te houden. 
 
 **Analyse van de app-interface**
 
-Uit de evaluatie blijkt dat ouders vooral belang hechten aan een eenvoudige, duidelijke en overzichtelijke app. Belangrijke inzichten zijn:
+Uit de evaluatie blijkt dat ouders vooral belang hechten aan een eenvoudige, duidelijke en overzichtelijke app. De app moet snel en intuïtief werken, zodat ouders gemakkelijk taken kunnen instellen of aanpassen zonder door complexe menu’s te moeten navigeren. Daarnaast vinden ouders het belangrijk dat routines flexibel aangepast kunnen worden. Vooraf ingestelde taken zoals kleren aandoen, handen wassen of naar het toilet gaan zijn handig, maar ouders willen ook zelf taken kunnen toevoegen en de volgorde ervan aanpassen. Het is bovendien nuttig dat routines opgeslagen kunnen worden, zodat ze later snel opnieuw gebruikt kunnen worden.
 
-- Gebruiksvriendelijkheid: De app moet snel en intuïtief werken, met eenvoudige manieren om taken in te stellen of aan te passen, zonder ingewikkelde menu’s.
+Voor gezinnen met meerdere kinderen is het belangrijk dat meerdere accounts mogelijk zijn, zodat de gegevens en voortgang per kind overzichtelijk blijven. Ook moet de app toegankelijk zijn op meerdere smartphones, zodat beide ouders de verbinding met de knuffelbeer kunnen maken en de vooruitgang kunnen opvolgen. Ouders willen daarnaast de voortgang van hun kind kunnen volgen, bijvoorbeeld via visuele feedback zoals sterretjes, badges of een voortgangsbalk, en via een overzicht op langere termijn.
 
-- Aanpasbare routines: Ouders willen routines volledig kunnen personaliseren, inclusief de volgorde van taken en de mogelijkheid om extra taken toe te voegen. Vooraf ingestelde taken zoals kleren aandoen, handen wassen of naar het toilet gaan zijn handig, maar flexibiliteit is cruciaal. Routines moeten bovendien opgeslagen kunnen worden voor hergebruik.
-
-- Meerdere accounts en apparaten: Voor gezinnen met meerdere kinderen moeten aparte accounts mogelijk zijn, met gegevens per kind overzichtelijk, en de app toegankelijk zijn op meerdere smartphones zodat beide ouders de voortgang kunnen volgen.
-
-- Voortgang bijhouden: Ouders willen zien hoe vaak taken geoefend worden en hoe het kind vordert. Visuele hulpmiddelen zoals sterretjes, badges of voortgangsbalken, en weekoverzichten helpen inzicht te geven in sterke en te oefenen punten.
-
-- Betrokkenheid van kinderen: Kinderen kunnen betrokken worden door zelf de taakvolgorde te kiezen of hun voortgang op de beer te zien, wat motivatie en zelfstandigheid stimuleert.
-
-- Meldingen en tips: Herinneringen helpen om oefenmomenten niet te vergeten, en tips ondersteunen ouders bij effectief oefenen.
-
-- Verbinding en zekerheid: De app moet duidelijk tonen dat de knuffelbeer correct verbonden is en dat routines goed zijn doorgestuurd, zodat ouders vertrouwen hebben dat het systeem werkt.
+Verder kan het motiverend zijn wanneer kinderen zelf betrokken worden, bijvoorbeeld door de volgorde van taken te kiezen of hun voortgang op de beer te zien. Ook meldingen en tips worden als nuttig beschouwd, omdat ze ouders helpen om oefenmomenten niet te vergeten en ondersteuning bieden bij het oefenen. Tot slot moet de app duidelijk tonen of de knuffelbeer correct verbonden is en of de ingestelde routine goed is doorgestuurd, zodat ouders zeker zijn dat het systeem correct werkt. 
 
 
 ### Conclusies & implicaties
+Uit de testen blijkt dat het concept goed werkt, maar dat enkele onderdelen nog verder verbeterd moeten worden. Zo is adaptieve begeleiding nodig afhankelijk van het niveau van het kind, zijn waterbestendige knoppen belangrijk in natte situaties en speelt audio een grote rol omdat jonge kinderen vaak nog niet kunnen lezen. Speelse geluidjes en positieve feedback helpen bovendien om kinderen gemotiveerd te houden.
+
+Daarnaast blijkt dat ouders een eenvoudige en overzichtelijke app willen. Ze willen routines makkelijk kunnen instellen en aanpassen en de voortgang van hun kind kunnen volgen via visuele feedback. 
