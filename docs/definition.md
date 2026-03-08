@@ -32,8 +32,6 @@ Om de interactie tussen kind en de Planda-beer te optimaliseren, gebruikten we d
 
 De meeste kinderen ervaren de ochtendroutine als een moment van afleiding, waarbij de focus op taken zoals tanden poetsen of aankleden snel verloren gaat. Ouders beschouwen hun constante sturing als een noodzaak om de tijdslimiet te halen, wat leidt tot een sfeer van stress.
 
-"Ik merk dat ik 's ochtends alleen maar commando's aan het uitdelen ben. Dat is geen fijne manier om de dag te starten, noch voor mij, noch voor de kinderen." - Jolien, mama van Emiel en Lowie
-
 In de eerste testen werd er getest hoe we informatie kunnen overbrengen naar de kinderen. Er werd onderzocht welke manieren het beste te begrijpen zijn voor hen, door zowel fysieke objecten als een scherm te gebruiken. 
 
 Uit de resultaten bleek dat het scherm het meest effectief was om de taakjes over te brengen. Daarnaast merkten we dat kinderen na de ochtendroutine de knuffel ook vrij willen gebruiken om mee te spelen. Dit betekent dat het scherm op de beer gemonteerd moet kunnen worden om de taakjes uit te voeren, maar dat het daarna eenvoudig verwijderd kan worden zodat de kinderen vrij kunnen spelen.
