@@ -41,15 +41,15 @@ Onderstaand schema toont de opstelling die later gebruikt zal worden om het proj
 
 ##### Gebruikte componenten
 
--Arduino Mega
--3.5" TFT-display
--DFPlayer Mini
--Speaker
--Weerstanden: 1000 Ω, 330 Ω, 220 Ω
--LED
--Drukknop
--POGO-pin connector
--Scherm en visuele feedback
+- Arduino Mega
+- 3.5" TFT-display
+- DFPlayer Mini
+- Speaker
+- Weerstanden: 1000 Ω, 330 Ω, 220 Ω
+- LED
+- Drukknop
+- POGO-pin connector
+- Scherm en visuele feedback
 
 Uit eerdere testen bleek dat visuele ondersteuning belangrijk is voor kinderen. Daarom wordt een relatief groot scherm gebruikt waarop duidelijke pictogrammen of afbeeldingen worden weergegeven. Er werd gekozen voor een TFT-display, omdat dit eenvoudig te implementeren is en in een latere fase ook touchscreenfunctionaliteit kan ondersteunen.
 
