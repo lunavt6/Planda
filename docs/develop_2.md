@@ -15,11 +15,11 @@ Deze analyse maakte het duidelijk wat er verder onderzocht moest worden in de ge
 #### Antropometrisch onderzoek
 Uit de antropometrische analyse is gebleken dat er toch een groot verschil is in de uitgeoefende krachten, afhankelijk van de manier van knijpen. Dit wordt weergegeven in onderstaande tabel, waarin telkens de minimale krachtwaarden zijn opgenomen. 
 
-|Soort kracht|Minimum kracht (in N)|
-|-------------|-------------|
-|Grip strength|75.62|
-|Palmar pinch strength|13.79
-|Lateral pinch strength|8.01
+|Soort kracht|Minimum kracht (in N)|Afbeelding|
+|-------------|-------------|-----------|
+|Grip strength|75.62||
+|Palmar pinch strength|13.79||
+|Lateral pinch strength|8.01||
 
 Uit deze tabel blijkt dat het belangrijk is om rekening te houden met de manier waarop kinderen de knoppen bedienen. De kracht die wordt uitgeoefend met de vingers verschilt namelijk sterk van de kracht die met de volledige hand wordt gebruikt. Het is daarom belangrijk om te weten te komen hoe kinderen de knoppen spontaan indrukken. 
 
