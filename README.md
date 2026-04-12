@@ -5,7 +5,7 @@ Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*8/03/2026 van de laatste update*   
+*12/04/2026*   
 
 ## Samenvatting
 Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Daarnaast toonde benchmarkingonderzoek aan dat er momenteel nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
