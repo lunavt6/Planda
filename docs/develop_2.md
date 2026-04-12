@@ -17,9 +17,9 @@ Uit de antropometrische analyse is gebleken dat er toch een groot verschil is in
 
 |Soort kracht|Minimum kracht (in N)|Afbeelding|
 |-------------|-------------|-----------|
-|Grip strength|75.62|![grip](<../img/Grip_strength.png>)|
-|Palmar pinch strength|13.79|![palmar](<../img/Palmar_pinch_strength.png>)|
-|Lateral pinch strength|8.01|![lateral](<../img/Lateral_pinch_strength.png>)|
+|Grip strength|75.62|<img src="../img/Grip_strength.png" width="200">|
+|Palmar pinch strength|13.79|<img src="../img/Palmar_pinch_strength.png" width="200">|
+|Lateral pinch strength|8.01|<img src="../img/Lateral_pinch_strength.png" width="200">|
 
 Uit deze tabel blijkt dat het belangrijk is om rekening te houden met de manier waarop kinderen de knoppen bedienen. De kracht die wordt uitgeoefend met de vingers verschilt namelijk sterk van de kracht die met de volledige hand wordt gebruikt. Het is daarom belangrijk om te weten te komen hoe kinderen de knoppen spontaan indrukken. 
 
