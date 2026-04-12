@@ -5,6 +5,8 @@ Het hoofddoel van de eerste develop-fase was het verkennen van de mogelijkheden 
 ### Materiaal & methoden
 Voordat de interviews en literatuuronderzoek konden starten, werd eerst een functionele analyse uitgevoerd. In dit proces werd een verbeterde en meer gedetailleerde versie van het storyboard gemaakt om te onderzoeken wat de verschillende stappen zijn die met en zonder het product doorlopen worden. 
 
+![schema](<../img/schema_storyboard.png>)
+
 Daarna werd er een literatuuronderzoek uitgevoerd om de ontwikkeling van een kind beter te begrijpen. Hierbij werd onderzoek gedaan naar de verschillende domeinen : motorische, cognitieve, sociaal-emotionele en taalontwikkeling. Informatie kwam uit openbare bronnen, zoals websites, blogs en academisch onderzoek. Vervolgens werd de informatie vergeleken, zodanig dat er een tijdlijn van kon gemaakt worden. 
 
 Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebruikt. Hierbij fungeerde een fysieke knuffelbeer als tastbare interface, terwijl een smartphone op de buik het Figma-prototype toonde. Via een Bluetooth-muis werden de schermen op afstand bestuurd, zodat de volledige interactiestroom getest kon worden zonder dat de echte hardware en software al ontwikkeld waren. De focus van de test lag vooral op het gedrag, begrip en de motivatie van kinderen tijdens dagelijkse zelfzorgtaken zoals handen wassen.
