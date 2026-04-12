@@ -3,7 +3,9 @@
 Het hoofddoel van de eerste develop-fase was het verkennen van de mogelijkheden voor het product, met de volgende deeldoelen: inzicht krijgen in de ontwikkeling van kinderen, onderzoeken hoe zij interageren met de interface van de beer, mogelijke ontwerpen van de bijbehorende app verkennen, en bepalen hoe het product gerealiseerd kan worden.
 
 ### Materiaal & methoden
-Voordat de interviews en literatuuronderzoek konden starten, werd eerst een functionele analyse uitgevoerd. In dit proces werd een verbeterde en meer gedetailleerde versie van het storyboard gemaakt om te onderzoeken wat de verschillende stappen zijn die met het product doorlopen worden. Daarnaast werd de productarchitectuur vastgesteld en de minimal viable productfuncties (MVP) gedefinieerd om de kernfunctionaliteiten te prioriteren. Tot slot werd een morfologische matrix opgesteld om mogelijke ontwerpvarianten systematisch te onderzoeken en evalueren.
+Voordat de interviews en literatuuronderzoek konden starten, werd eerst een functionele analyse uitgevoerd. In dit proces werd een verbeterde en meer gedetailleerde versie van het storyboard gemaakt om te onderzoeken wat de verschillende stappen zijn die met en zonder het product doorlopen worden. 
+
+![schema storyboard](<..img/schema storyboard witte achtergrond.png>)
 
 Daarna werd er een literatuuronderzoek uitgevoerd om de ontwikkeling van een kind beter te begrijpen. Hierbij werd onderzoek gedaan naar de verschillende domeinen : motorische, cognitieve, sociaal-emotionele en taalontwikkeling. Informatie kwam uit openbare bronnen, zoals websites, blogs en academisch onderzoek. Vervolgens werd de informatie vergeleken, zodanig dat er een tijdlijn van kon gemaakt worden. 
 
