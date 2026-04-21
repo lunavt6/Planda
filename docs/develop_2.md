@@ -30,11 +30,11 @@ Voor het bepalen van de grootte van de knoppen werd er geen bruikbare data gevon
 #### Vorm en materiaal van de oortjes (knoppen)
 Tijdens het iteratief ontwerpproces werd de vorm van de oortjes verder verfijnd op basis van ergonomische inzichten en praktische beperkingen. Het oorspronkelijke ontwerp bestond uit een langwerpig oortje, maar dit bleek minder geschikt. Enerzijds was deze vorm te lang voor de voorziene mal, en anderzijds zorgde dit voor een minder optimale interactie.
 
-![alt text](image.png) ![alt text](image-2.png)
+![alt text](image.png) 
 
 Een compacter en breder oortje bood een duidelijk betere ergonomische ervaring. Doordat de breedte meer in verhouding staat tot de grootte van de beer, ontstaat er een groter contactoppervlak. Dit verhoogt de kans dat kinderen effectief druk uitoefenen op de juiste plaats en dus succesvol de knop activeren. Bij het langwerpige ontwerp bestond namelijk het risico dat kinderen op de zijkant drukten zonder de interne knop in te drukken. Dit probleem wordt met de huidige vorm vermeden.
 
-![alt text](image-1.png)
+![alt text](image-1.png) ![alt text](image-3.png)
 
 Daarnaast werd gekozen voor een siliconen materiaal voor de oortjes. Dit materiaal zorgt ervoor dat de knoppen zacht en aangenaam aanvoelen, wat belangrijk is voor de knuffelbaarheid van het product, terwijl het tegelijk voldoende vervormbaar is om input te registreren.
 
