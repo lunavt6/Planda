@@ -48,7 +48,6 @@ Hieruit kan worden afgeleid dat de grootte van het oor invloed heeft op hoe het 
 
 Tijdens de evaluatie achteraf gaf het kindje aan dat het middelste oor het meest comfortabel en het gemakkelijkst in gebruik was. Dit komt overeen met de grotere variatie in handposities, wat erop kan wijzen dat deze grootte meer flexibiliteit biedt. 
 
-
 ### Opstelling
 In develop 1 werd de testopstelling uitgelegd. In deze opstelling werd een Arduino mega en 3.5 inch TFT display shield gebruikt. Echter werd vastgesteld dat er geen GIF’s afgespeeld kunnen worden via deze methode. Afbeeldingen kunnen wel afgespeeld worden, maar zeer traag. We hebben ervoor gekozen om toch over te schakelen naar een andere opstelling.
 
@@ -58,7 +57,7 @@ In deze opstelling wordt een ESP32-S3 en 2.8 inch TFT display gebruikt. Dit sche
 
 <img src="../img/gif1.jpg" width="100"> <img src="../img/gif2.jpg" width="100"> <img src="../img/gif3.jpg" width="100"> <img src="../img/gif4.jpg" width="100"> <img src="../img/gif5.jpg" width="100">
 
-Naast de GIF’s werd ook al een eerste model gemaakt van hoe het scherm er zal uit zien:
+Naast de GIF’s werd ook al een eerste model gemaakt van hoe het omhulsel van het scherm er zal uit zien:
 
 ![omhulsel](../img/omhulsel.png)
 
@@ -72,10 +71,11 @@ De middelste oorgrootte is het meest geschikt, omdat deze het comfortabelst en h
 
 De beste handzetting is het gebruik van de duim in combinatie met twee tot drie vingers, omdat deze het vaakst voorkomt en voldoende controle en stabiliteit biedt.
 
-Hieruit zijn volgende design requirements opgesteld:
-- Het  oor heeft een grootte die comfortabel en gemakkelijk te gebruiken is voor een kind.
-- Het oor ondersteunt een handpositie waarbij de duim samenwerkt met twee tot drie vingers.
-- Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.
+> [!IMPORTANT]
+> **Design Requirements**
+>- 2.8 Het  oor heeft een grootte die comfortabel en gemakkelijk te gebruiken is voor een kind.
+>- 2.9 Het oor ondersteunt een handpositie waarbij de duim samenwerkt met twee tot drie vingers.
+>- 2.10 Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.
 
 ##### Aanpassingen oortjes
 Tijdens het iteratief ontwerpproces werd de vorm van de oortjes verder verfijnd op basis van de design requirements. Het oorspronkelijke ontwerp bestond uit een langwerpig oortje, maar dit bleek minder geschikt. Enerzijds was deze vorm te lang voor de voorziene mal, en anderzijds zorgde dit voor een minder optimale interactie.

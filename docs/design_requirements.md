@@ -19,6 +19,9 @@
 |2.5|Lichtsignalen geven aan welke knop er moet ingeduwd worden.|[Definition: Wave 2](definition.md)||
 |2.6|De kleuren van de lichtsignalen zorgen voor een duidelijke interpretatie.|[Definition: Wave 2](definition.md)||
 |2.7|Het product gebruikt geluid om de aandacht van het kind te trekken.|[Definition: Wave 2](definition.md)||
+|2.8|Het  oor heeft een grootte die comfortabel en gemakkelijk te gebruiken is voor een kind.|[Develop 2](develop_2.md)||
+|2.9|Het oor ondersteunt een handpositie waarbij de duim samenwerkt met twee tot drie vingers.|[Develop 2](develop_2.md)||
+|2.10|Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.|[Develop 2](develop_2.md)||
 |**Vormgeving & Beleving**|
 |3.1|Het product heeft een speels karakter.|[Discovery](discovery.md)||
 |3.2|Het product behoudt het knuffelaspect.|[Definition: Wave 1](definition.md)||
