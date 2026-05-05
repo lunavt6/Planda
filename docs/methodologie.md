@@ -1,5 +1,5 @@
 ## Methodologie
-![Triple Diamond](../img/image.png)
+![Triple Diamond](../img/methodology.png)
 Het ontwikkelingsproces van Planda Beer volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Triple Diamond-model. In SEM1 lag de nadruk op de discover- en definitiefase, met als doel inzicht te verwerven in routines, opvoedstress en motivatie bij jonge kinderen, en deze inzichten te vertalen naar eerste functionele concepten van Planda Beer.
 
 ### Discovery-fase
