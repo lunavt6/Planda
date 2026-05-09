@@ -5,7 +5,7 @@ Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*12/04/2026*   
+*9/05/2026*   
 
 ## Samenvatting
 Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Daarnaast toonde benchmarkingonderzoek aan dat er momenteel nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
@@ -38,6 +38,7 @@ Boundary conditions voor Planda Beer zijn duidelijk: het product moet veilig, du
 6. [Development 3](./docs/develop_3.md)
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
+9. [Conclusie](./docs/conclusie.md)
 
 ## Kritische reflectie
 Het onderzoek naar Planda Beer heeft tot nu toe waardevolle inzichten opgeleverd over zowel het gebruik van knuffels door jonge kinderen als de optimale ontwerpkeuzes voor een interactieve knuffel. De iteratieve aanpak, opgesplitst in Wave 1 en Wave 2, heeft duidelijk gemaakt dat het ontwikkelen van een slim product voor de ochtendroutine sterk afhankelijk is van het nauwkeurig afstemmen van fysieke en digitale interacties op het natuurlijke gedrag van kinderen. Door gebruik te maken van storyboards, low-fidelity prototypes en de Wizard of Oz-methode, konden wij stapsgewijs inzicht krijgen in hoe kinderen zelfstandig taken uitvoeren en welke prikkels hun aandacht trekken. Deze methoden waren effectief om intuïtief gedrag en spontane interacties te observeren zonder dat kinderen expliciet instructies kregen, wat cruciaal is voor het testen van een autonoom ogende knuffelbeer.
@@ -88,6 +89,9 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
   * [Rapport](https://drive.google.com/file/d/10HXQ8sNEB7mYRsCe3yflU_DUqUeTnOM8/view?usp=sharing)
 
 ### Development 3
+* User testing (N = 3)
+  * [Protocol](...)
+  * [Rapport](...)
 
 ## Licentie  
 
