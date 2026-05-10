@@ -61,3 +61,5 @@ Dit CMF-onderzoek toont aan dat de uiteindelijke materiaalkeuze niet louter esth
 #### Textuurkeuze van het omhulsel
 
 ### Conclusies & implicaties
+
+### Opstelling 
