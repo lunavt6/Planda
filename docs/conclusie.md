@@ -1,0 +1,2 @@
+## Conclusie
+Voeg een conclusie header toe onder de inhoudstafel op deze GitHub pagina waarin je het finale concept beschrijft (verwijs gerust vb. via link naar de design requirements). Probeer hier op een geloofwaardige manier te argumenteren wat je product is en waarom je gelooft dat dit de best mogelijke oplossing is voor het eerder geschetste probleem (suggesties voor toekomstig onderzoek kunnen opgenomen worden in de kritische reflectie).
