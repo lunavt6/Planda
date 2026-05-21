@@ -13,21 +13,18 @@ Veel jonge ouders ervaren dagelijks stress tijdens het aanleren van routinetaken
 Om dit probleem te onderzoeken, doorliepen we een iteratief human-centered designproces met interviews, observaties, storyboards, benchmarking, ergonomische analyses en verschillende testwaves met prototypes. Tijdens het eerste semester lag de focus op een plannings- en routine-instrument voor de ochtendroutine. Uit feedback en gebruikerstesten bleek echter dat een puur planningsgericht systeem minder geschikt was binnen de hectiek van de ochtend. Daarom evolueerde het concept naar een interactieve begeleidende knuffelbeer die kinderen pedagogisch ondersteunt bij het aanleren van dagelijkse taakjes.
 
 De uiteindelijke oplossing bestaat uit een zachte interactieve knuffelbeer met een scherm op de buik waarop visuele stappenplannen worden weergegeven. Via knoppen in de oortjes navigeert het kind doorheen de taakjes, ondersteund door licht- en geluidsfeedback. De beer begeleidt kinderen stap voor stap op een speelse, intuïtieve en zelfstandige manier, waardoor ouders minder voortdurend moeten tussenkomen en opvoedingsstress vermindert.
-![planpanda foto](<img/AI_Sfeerfoto.png>) 
+
 ![alt text](<render planda.png>)
 
 
 ## Introductie
-Opvoeden kan een bron van vreugde zijn, maar ook van aanzienlijke stress. Veel ouders ervaren vooral in de ochtend- en avondroutine tijdsdruk, machtsstrijdjes over gedrag en frustraties bij het zelfstandig uitvoeren van dagelijkse taken door hun kinderen (Sofie, Ludovic & Kaat, 2025). Deze zogenaamde opvoedstress kan leiden tot gespannen interacties tussen ouder en kind, waarbij routines zoals aankleden, tandenpoetsen en eten escaleren tot stressvolle momenten voor beide partijen. Studies tonen aan dat stress bij ouders niet alleen hun welzijn beïnvloedt, maar ook het zelfvertrouwen en de zelfstandigheid van kinderen kan beperken. 
+Opvoeden brengt niet alleen plezier, maar ook veel stress met zich mee, zeker bij jonge ouders tijdens dagelijkse routines zoals tanden poetsen, handen wassen, aankleden of de boekentas voorbereiden. Veel kinderen hebben moeite om deze taken zelfstandig uit te voeren, waardoor ouders voortdurend moeten begeleiden, herhalen en controleren. Dit zorgt voor tijdsdruk, frustratie en gespannen interacties binnen het gezin (Sofie, Ludovic & Kaat, 2025). Onderzoek toont aan dat opvoedingsstress niet alleen een negatieve impact heeft op het welzijn van ouders, maar ook de zelfstandigheid en het zelfvertrouwen van kinderen kan beperken.
 
-Het Planda Beer-project richt zich op het verminderen van opvoedstress door kinderen te ondersteunen bij het plannen, uitvoeren en afronden van dagelijkse routines. Het project combineert fysieke en digitale elementen tot een “phygital” hulpmiddel: een interactieve knuffelbeer die kinderen begeleidt bij hun routines, positieve feedback geeft en tegelijkertijd ouders subtiel informeert over voortgang zonder druk uit te oefenen. Door een tastbaar, speels en visueel systeem te gebruiken, willen we autonomie en motivatie bij kinderen stimuleren, terwijl ouders worden ondersteund in het behouden van een rustige, gestructureerde dag (Sofie, Ludovic & Kaat, 2025).
+Het Planda Bear-project onderzoekt hoe een interactieve knuffelbeer kinderen pedagogisch kan begeleiden bij het aanleren van dagelijkse taakjes. In tegenstelling tot een klassiek planningsinstrument richt het concept zich op het stap voor stap ondersteunen van het kind via een speelse, fysieke en digitale interactie. De beer combineert een scherminterface met auditieve en visuele feedback, zoals geluid, LED-lichtjes en intuïtieve knopinteractie via de oortjes. Op deze manier wordt het kind zelfstandig begeleid zonder dat de ouder voortdurend actief moet tussenkomen.
 
-De doelstellingen van het project zijn drieledig:
-- Autonomie stimuleren – kinderen leren zelf taken uitvoeren en hun voortgang monitoren.
-- Stressreductie bij ouders – routines verlopen vloeiender zonder constante correcties of conflicten.
-- Integratie van phygital technologie – digitale feedback en fysieke interactie versterken elkaar in een kindvriendelijk ontwerp.
+Om tot deze oplossing te komen, werd een iteratief human-centered designproces doorlopen met interviews, observaties, storyboards, benchmarking, ergonomische analyses en meerdere prototypewaves. Hierbij werd onderzocht hoe kinderen reageren op licht, geluid, symbolen, feedback en fysieke interactie.
 
-Boundary conditions voor Planda Beer zijn duidelijk: het product moet veilig, duurzaam en hygiënisch zijn, geschikt voor kinderen, intuïtief in gebruik, en de digitale component mag geen stress of controlegevoel creëren. Dit project onderzoekt hoe een mensgerichte technologie opvoedstress kan verminderen en routines bij jonge kinderen kan ondersteunen.
+De boundary conditions van het project zijn duidelijk: het product moet veilig, zacht, robuust, intuïtief en kindvriendelijk zijn. Daarnaast mag de technologie geen extra stress creëren, maar net rust, autonomie en positieve interactie stimuleren.
 
 ## Inhoudstafel
 
