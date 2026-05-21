@@ -1,5 +1,5 @@
 # Planda
-Slimme knuffelbeer dat de kinderen begeleid tijdens de dagplanning.
+Een interactieve knuffelbeer die kinderen op een speelse en zelfstandige manier helpt bij het aanleren van dagelijkse taakjes.
 
 🛠️ Built by ``Doren Vermaut`` & ``Luna Van Tittelboom`` & ``Bram Eeckhout``    
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
