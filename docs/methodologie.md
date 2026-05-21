@@ -1,41 +1,42 @@
 ## Methodologie
 ![Triple Diamond](../img/methodology.png)
-Het ontwikkelingsproces van Planda Beer volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Triple Diamond-model. In SEM1 lag de nadruk op de discover- en definitiefase, met als doel inzicht te verwerven in routines, opvoedstress en motivatie bij jonge kinderen, en deze inzichten te vertalen naar eerste functionele concepten van Planda Beer.
 
-### Discovery-fase
 
-In de discover-fase werd de probleemruimte rond ochtend- en avondroutines bij jonge kinderen breed verkend. Het onderzoek richtte zich op het begrijpen van opvoedstress, autonomieontwikkeling en het potentieel van phygital producten om kinderen speels te begeleiden.
+Het ontwikkelingsproces van Planda Beer volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Triple Diamond‑model. In SEM1 lag de nadruk op de discover‑ en definitiefase, waarin we de context van opvoedstress, kinderroutines en motivatie onderzochten. Deze inzichten vormden de basis voor de eerste conceptuele richting van Planda Beer.
 
-De fase startte met user interviews (N=3) met ouders en zorgverleners, waarin knelpunten, motivaties en bestaande strategieën in kaart werden gebracht. Deze gesprekken werden aangevuld met een benchmarkingstudie (N=14) van bestaande hulpmiddelen en producten, gaande van educatieve apps tot fysieke routinehulpen, om zowel marktgaten als inspiratiebronnen te identificeren.
+### Discovery‑fase (SEM1)
+In de discover‑fase werd de probleemruimte rond ochtend‑ en avondroutines breed verkend. Via user interviews (N=3) met ouders en zorgverleners werden knelpunten, motivaties en strategieën in kaart gebracht. Een benchmarkingstudie (N=14) onderzocht bestaande hulpmiddelen, van educatieve apps tot fysieke routine‑tools, om marktgaten en inspiratiebronnen te identificeren.
 
-Parallel werd gewerkt aan het scherpstellen van de doelgroep, het uitwerken van eerste conceptideeën en het maken van vroege schetsen. De inzichten werden vertaald naar een persona, die als leidraad diende voor empathie en gebruiksgericht ontwerp. De discover-fase resulteerde in een duidelijk inzichtendocument met noden, frustraties en kansen voor een speelse, niet-digitale of schermvrije ondersteuning van kinderroutines.
+Daarnaast werden doelgroep, context en eerste conceptideeën verkend via schetsen en vroege scenario’s. De inzichten werden samengebracht in een persona en een overzicht van noden, frustraties en kansen. Deze fase toonde vooral de nood aan een speels, fysiek én laagdrempelig hulpmiddel dat kinderen ondersteunt zonder extra stress of schermtijd.
 
-### Definitiefase
+### Definitiefase (SEM1)
+In de definitiefase werd de probleemdefinitie aangescherpt en vertaald naar concrete conceptrichtingen. Een storyboard visualiseerde hoe Planda Beer een rol kan spelen in dagelijkse routines.
 
-In de definitiefase van het Planda-project werd de probleemdefinitie verder aangescherpt en vertaald naar concrete productconcepten en interacties. De gebruikerservaring werd gevisualiseerd via een storyboard, dat de rol van Planda Beer in de dagelijkse routines van kinderen duidelijk maakte.
+Vroege fysieke en visuele prototypes — van schetsmodellen tot mock‑ups — werden getest in meerdere feedbackrondes (N=3). In Wave 1 werden drie conceptuele prototypes onderzocht om interactievormen te evalueren. Kinderen bleken intuïtief te reageren op lichtsignalen, terwijl een vast scherm minder goed werd ontvangen. Dit leidde tot het ontwerpprincipe van verwisselbare T‑shirts met geprinte taakjes, gecombineerd met interne LED‑signalen. Parallel werd de eerste app‑interface ontwikkeld voor ouderlijke configuratie.
 
-Op basis van deze inzichten werden eerste fysieke en visuele prototypes ontwikkeld, variërend van schetsmodellen tot conceptuele mock-ups. Deze prototypes werden getest in meerdere rondes met gebruikersfeedback (N=3), waarbij zowel ouders als kinderen reageerden op de vorm, functionaliteit en speelsheid van het concept.
+#### Inzichten uit Wave 1
+Oren zijn de meest intuïtieve locatie voor knoppen.
 
-Vervolgens werden in Wave 1 drie conceptuele prototypes onderzocht om het effect van verschillende interacties te evalueren. Hierbij bleek onder meer dat jonge kinderen intuïtief reageren op lichtsignalen. Daarnaast werd getest hoe een geïntegreerd scherm versus een schermloos ontwerp de gebruikservaring beïnvloedde. De resultaten leidden tot een nieuw ontwerpprincipe: losse, verwisselbare T-shirts met geprinte taakjes, gecombineerd met interne LED-signalen in de beer. Zo blijft het product knuffelbaar, veilig en aanpasbaar aan leeftijd, routine of zelfstandigheidsniveau van het kind.
+Interactieve elementen mogen de knuffelervaring niet verstoren.
 
-Tegelijkertijd startte de ontwikkeling van de app-interface, waarmee ouders routines kunnen samenstellen, feedback ontvangen en de beer personaliseren.
+Licht + korte geluidjes trekken effectief aandacht.
 
-**Inzichten uit Wave 1**
+Geel werkt goed als startkleur; lichtgroen als voltooiingskleur.
 
-Knuffelgebruik: Kinderen gebruiken hun knuffel op verschillende manieren, afhankelijk van leeftijd en gehechtheid. Jonge kinderen dragen de knuffel overal mee, terwijl oudere kinderen deze vaker op een vaste plek laten. Interactieve elementen mogen de natuurlijke knuffelervaring niet verstoren.
+#### Wave 2 – Verdere verdieping
+Interactie mag niet op knuffelzones (nek, armen, romp).
 
-Fysieke componenten: De oren van de beer bleken de meest intuïtieve locatie voor knoppen. Het display op de beer werd minder goed ontvangen; een afneembaar scherm is praktischer. Materialen moeten zacht, veilig en wasbaar zijn.
+Kinderen koppelen rechts aan “verder” en links aan “terug”.
 
-Aandacht trekken en beloning: Een combinatie van lichtsignalen en korte geluidjes bleek effectief om kinderen zelfstandig naar de beer te leiden en acties uit te voeren. Visuele en auditieve feedback werkt beter dan enkel digitale of fysieke beloningen.
+Knoppen moeten zacht, vervormbaar en veilig zijn.
 
-Kleurgebruik: Geel werd gekozen voor de startknop (positieve associatie met blijheid), lichtgroen voor voltooiingsknoppen (rustige, positieve associatie).
+Deze inzichten vormden de basis voor SEM2.
 
-**Verdere verdieping in Wave 2**
+### Develop 1 (SEM2)
+In deze fase werd het concept functioneel ontleed. Via storyboards, I/O‑architectuur, user flows en een morfologische matrix onderzochten we mogelijke oplossingsrichtingen. Variety prototyping en testen (N = groepsgrootte + 2) valideerden hypotheses rond navigatie, feedback en taakopbouw.
 
-Observatie knuffelgedrag: Knuffelinteracties mogen niet op plekken komen die intensief vastgehouden of geknepen worden (nek, armen, romp, pootjes). De oren blijven geschikt voor bewuste interactie.
+### Develop 2 (SEM2)
+De focus verschoof naar usability en ergonomie. We voerden een antropometrische analyse uit voor de oortjes, pasten cognitieve ergonomie toe (7 stages of action, GESTALT, signifiers) en bouwden meerdere fysieke varianten. Usabilitytests bevestigden welke vorm, drukweerstand en interactie het meest intuïtief waren.
 
-Links-rechts interpretatie: Kinderen associëren spontaan rechts met doorgaan/bevestigen en links met terug/stop, wat vertaald werd naar een intuïtieve interface.
-
-Materialen en tactiliteit: Knoppen moeten zacht en licht vervormbaar zijn, met voldoende weerstand om accidentele activatie te voorkomen.
-
-Deze inzichten vormden de basis voor de volgende iteraties, waarbij prototypes verder worden getest en geoptimaliseerd op gebruiksvriendelijkheid, veiligheid en speelsheid.
+### Develop 3 (SEM2)
+Tot slot werd het product verfijnd op vlak van UX, CMF en emotionele beleving. Via CMF‑analyses, benchmarking en prototypevarianten onderzochten we tactiliteit, kleurpsychologie en lichtdoorlaatbaarheid van de oortjes. Een laatste testwave (N=3) valideerde de finale ontwerpkeuzes.
