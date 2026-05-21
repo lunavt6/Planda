@@ -8,11 +8,11 @@ Een interactieve knuffelbeer die kinderen op een speelse en zelfstandige manier 
 *9/05/2026*   
 
 ## Samenvatting
-Veel gezinnen ervaren stress tijdens de ochtendroutine, omdat kinderen zich moeilijk kunnen concentreren en ouders voortdurend moeten aanmanen om voort te maken. Dit leidt vaak tot frustratie, boze reacties en huilende kinderen. Uit interviews met drie ouders bleek dat de ochtendroutine het meest stresserende moment van de dag is. Daarnaast toonde benchmarkingonderzoek aan dat er momenteel nog weinig effectieve, kindvriendelijke oplossingen bestaan om dit probleem aan te pakken.
+Veel jonge ouders ervaren dagelijks stress tijdens het aanleren van routinetaken aan jonge kinderen. Taken zoals tanden poetsen, handen wassen, naar het toilet gaan of de boekentas voorbereiden vragen vaak voortdurende begeleiding, herhaling en controle. Dit zorgt voor frustratie bij zowel ouder als kind en vermindert de zelfstandigheid van het kind.
 
-De oplossing bestaat uit een interactieve knuffelbeer met een schermpje op zijn buik dat kinderen stap voor stap door hun ochtendroutine begeleidt. Het beertje toont en zegt welke taken moeten gebeuren, en herhaalt dit indien nodig. Ouders kunnen via een app de taken en volgorde zelf instellen, zodat de routine afgestemd is op hun gezin. De beer heeft twee knoppen: één om aan te geven dat een taak klaar is, en één om hulp te vragen.
+Om dit probleem te onderzoeken, doorliepen we een iteratief human-centered designproces met interviews, observaties, storyboards, benchmarking, ergonomische analyses en verschillende testwaves met prototypes. Tijdens het eerste semester lag de focus op een plannings- en routine-instrument voor de ochtendroutine. Uit feedback en gebruikerstesten bleek echter dat een puur planningsgericht systeem minder geschikt was binnen de hectiek van de ochtend. Daarom evolueerde het concept naar een interactieve begeleidende knuffelbeer die kinderen pedagogisch ondersteunt bij het aanleren van dagelijkse taakjes.
 
-Doordat het kind op een speelse en vertrouwde manier begeleid wordt, verloopt de ochtend vlotter en zelfstandiger. Ouders hoeven minder tussen te komen, wat zorgt voor minder stress en een rustiger begin van de dag.
+De uiteindelijke oplossing bestaat uit een zachte interactieve knuffelbeer met een scherm op de buik waarop visuele stappenplannen worden weergegeven. Via knoppen in de oortjes navigeert het kind doorheen de taakjes, ondersteund door licht- en geluidsfeedback. De beer begeleidt kinderen stap voor stap op een speelse, intuïtieve en zelfstandige manier, waardoor ouders minder voortdurend moeten tussenkomen en opvoedingsstress vermindert.
 ![planpanda foto](<img/AI_Sfeerfoto.png>) 
 
 
