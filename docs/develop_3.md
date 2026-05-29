@@ -20,46 +20,75 @@ Voor volgende zaken werden interviews gedaan:
 
 Voor de kleurkeuzes werden verschillende renders ontwikkeld voor de uiteenlopende ontwerpopties, die vervolgens werden samengebracht in een PowerPointpresentatie. Tijdens een interview werden deze varianten voorgelegd aan gebruikers, waarbij werd onderzocht welke ontwerpen als meest aantrekkelijk werden ervaren.
 
-
 Voor de keuze van de textuur werden verschillende varianten aan gebruikers gepresenteerd. Zij konden de materialen ook zelf voelen, zodat op basis van hun ervaring de meest geschikte optie kon worden geselecteerd.
+
+Het protocol van deze interviews is hier te vinden: [interviewprotocol](../reports%20and%20protocols/develop3%20-%20CMF%20-%20protocol.pdf)
 
 ### Resultaten
 
 #### Kleurkeuze van de oortjes
+Bij de keuze van de oren was er meteen een duidelijke favoriet. Zowel de kinderen als de ouders kozen unaniem voor de optie met een zwart randje. Deze versie werd als het mooist en meest afgewerkt ervaren. Volgens hen zorgde het zwarte randje ervoor dat de oren beter zichtbaar zijn en dat de panda meer karakter krijgt.
+
+Daarnaast sloot deze optie beter aan bij de rest van het ontwerp, waardoor de panda een meer herkenbare en samenhangende uitstraling kreeg. Het geheel oogde daardoor rustiger en aantrekkelijker dan de andere opties.
+
+![oren_zwart_randje](../img/oren_zwart_randje.png)
+
 
 #### Materiaalkeuze van de oortjes
-Binnen het concept van de interactieve beer functioneren de oortjes niet alleen als visueel element, maar ook als fysieke interface. Omdat de oortjes zowel indrukbaar moesten zijn als lichtfeedback moesten kunnen tonen, vormden ze een belangrijk onderdeel van het CMF-onderzoek (Color, Material, Finish). De vorm van het oor was reeds bepaald tijdens Develop 2, waar ergonomisch onderzocht werd welke vorm het best indrukbaar was en tegelijkertijd voldoende drukkracht kon overbrengen naar de interne knop. In Develop 3 verschoof de focus daarom naar materiaalkeuze, tactiliteit en afwerking.
+Binnen het concept van de interactieve beer zijn de oortjes niet alleen een visueel element, maar ook een fysieke interface. Omdat ze indrukbaar moesten zijn en LED-feedback moesten ondersteunen, vormden ze een belangrijk onderdeel van het CMF-onderzoek. De vorm werd al bepaald in Develop 2 op basis van ergonomie; in Develop 3 lag de focus op materiaal, tactiliteit en afwerking.
 
-Als eerste stap werd een volledig 3D-geprint prototype gemaakt. Dit hielp om de schaal, vorm en fysieke interactie beter te evalueren. Hoewel de vorm ergonomisch goed werkte, voelde het harde materiaal onvoldoende zacht aan voor een knuffelproduct. Hierdoor werd duidelijk dat het uiteindelijke materiaal niet alleen functioneel, maar ook emotioneel en tactiel moest aansluiten bij de rest van de beer. 
+Eerst werd een 3D-geprint prototype getest. Dit gaf een goed beeld van schaal en interactie, maar het harde materiaal voelde te weinig zacht voor een knuffelproduct.
 
 ![foto geprint](../img/oren_geprint.jpg)
 
-Vervolgens werd een mal ontworpen om een zachter gietmateriaal te testen. Dit materiaal had een aangename textuur en voelde duidelijk zachter en kindvriendelijker aan. Tijdens het productieproces bleek echter dat het materiaal moeilijk uit de mal verwijderd kon worden zonder te scheuren of vervormen. Daarnaast sloot de kleur en afwerking minder goed aan bij de visuele uitstraling van de beer, waardoor het materiaal minder geschikt bleek binnen het bredere CMF-verhaal van het product.
+Daarna werd een zachter gietmateriaal getest via een mal. Dit voelde aangenamer aan, maar bleek moeilijk uit de mal te halen en sloot visueel minder goed aan bij het ontwerp qua kleur en afwerking.
 
 ![foto gietmateriaal](../img/oren_gietmateriaal.jpg)
 
-Daarna werd een SLA-geprint oortje getest. Dit prototype had een zeer nauwkeurige vormgeving en was volledig transparant, waardoor het interne LED-licht zeer zichtbaar werd. Op vlak van visuele feedback werkte dit dus uitstekend. Het materiaal was echter te hard en nauwelijks indrukbaar, waardoor de knopfunctie verloren ging. Hoewel deze variant sterk scoorde op lichttransmissie en esthetiek, faalde ze op ergonomie en tactiele interactie.
+Vervolgens werd een SLA-prototype onderzocht. Dit gaf sterke LED-visibility door het transparante materiaal, maar was te hard en niet indrukbaar, waardoor de knopfunctie verloren ging.
 
 ![foto SLA](../img/oren_SLA.jpg) ![foto SLA onder](../img/oren_SLA_onder.jpg)
 
-Op basis van deze iteraties werd uiteindelijk gekozen voor silicone als finaal materiaal. Hiervoor werd een aparte gietmal ontworpen waarin silicone gegoten en uitgehard werd. Silicone combineerde verschillende belangrijke eigenschappen:
-- het materiaal neemt nauwkeurig de gewenste vorm aan
-- het is elastisch en goed indrukbaar
-- het voelt zacht en comfortabel aan
-- het biedt voldoende grip tijdens het knijpen
+Uiteindelijk werd gekozen voor silicone als eindmateriaal. Hiervoor werd een aparte gietmal ontworpen waarin silicone gegoten en uitgehard werd. 
 
-Deze tactiele eigenschappen sluiten sterk aan bij de gewenste user experience van de beer als zacht en veilig knuffelobject. Silicone ondersteunt bovendien de affordance van het oor: kinderen begrijpen intuïtief dat het oor indrukbaar is.
+Silicone combineert volgende belangrijke eigenschappen:
+- zachtheid
+- elasticiteit
+- goede indrukbaarheid 
+- voldoende grip
+
+Daardoor sluit het beter aan bij de gewenste gebruikerservaring. Silicone is bovendien zeer intuïtief omdat kinderen vanzelf aanvoelen dat het indrukbaar is.
 
 ![foto silicone](../img/oren_silicone.jpg) ![foto silicone mal](../img/oren_silicone_mal.jpg)
 
-Een aandachtspunt binnen deze materiaalkeuze was de beperkte lichtdoorlaatbaarheid van silicone. Hierdoor werd de zichtbaarheid van de LED-feedback verminderd. Om dit op te lossen werd een kleine opening voorzien in het oortje, waardoor het LED-licht toch duidelijk zichtbaar blijft tijdens interactie. Op deze manier bleef zowel de visuele feedback als de zachte tactiele ervaring behouden.
-
-Dit CMF-onderzoek toont aan dat de uiteindelijke materiaalkeuze niet louter esthetisch bepaald werd, maar het resultaat is van een iteratief proces waarin ergonomie, tactiliteit, emotionele ervaring, lichtfeedback en produceerbaarheid voortdurend tegen elkaar werden afgewogen.
+Een nadeel is de beperkte lichtdoorlaatbaarheid, waardoor de LED minder zichtbaar wordt. Dit werd opgelost door een kleine opening in het oortje te voorzien, zodat de feedback toch duidelijk blijft.
 
 #### Kleurkeuze van het omhulsel
+Wat betreft het kleurgebruik van het omhulsel gaven de kinderen duidelijk aan dat ze een voorkeur hebben voor felle en opvallende kleuren. Van de voorgestelde opties werd vooral felroze het vaakst gekozen. Dit verschilt van de voorkeur van de ouders. Zij kiezen liever voor kleuren die beter passen bij hun interieur en minder opvallen in de leefomgeving. Hun voorkeur gaat vooral uit naar neutrale, natuurlijke kleuren en zachte pastelkleuren.
+
+Uit de gesprekken bleek wel dat ouders bereid zijn om hierin een compromis te maken. Omdat het product in de eerste plaats bedoeld is voor kinderen, vinden zij het belangrijk dat het aantrekkelijk is voor hun kind en effectief gebruikt wordt. Als felle kleuren ervoor zorgen dat de panda vaker gebruikt wordt of meer interesse opwekt bij het kind, staan ouders ervoor open om af te wijken van hun eigen voorkeuren.
+
+![omhulsel_roze](../img/omhulsel_roze.png)
+
+Hoewel felroze het populairst was als kleur voor het omhulsel, moet er rekening mee gehouden worden dat enkel meisjes deelnamen aan de bevraging. Daardoor kunnen de resultaten beïnvloed zijn door persoonlijke of stereotype kleurvoorkeuren en zijn ze mogelijk niet representatief voor alle kinderen.
 
 #### Textuurkeuze van het omhulsel
+Bij de keuze van de textuur waren de meningen meer verdeeld. De antwoorden verschilden tussen de opties hout, glad en fijn ruw. Vooral de ouders gaven aan dat ze de houttextuur mooi vonden, omdat deze een warme en natuurlijke uitstraling heeft.
+
+Er werd wel rekening gehouden met het feit dat het uiteindelijke product geen houtkleur zal hebben. Daardoor zou een houttextuur minder realistisch of passend kunnen lijken in het definitieve ontwerp. Daarom werd opnieuw gekeken naar de voorkeuren van de kinderen, aangezien zij de belangrijkste gebruikers van het product zijn.
+
+Uit hun antwoorden bleek dat een gladdere textuur het meest in de smaak viel. Een glad oppervlak werd als aangenamer en zachter ervaren. Daarnaast zorgt een gladde afwerking voor een eenvoudiger ontwerp, waardoor het geheel minder druk oogt.
 
 ### Conclusies & implicaties
+Op basis van de resultaten kan geconcludeerd worden dat er een duidelijk verschil is tussen de voorkeuren van ouders en kinderen. Ouders kiezen voor een rustige, natuurlijke en interieurgerichte uitstraling, terwijl kinderen eerder voorkeur geven aan felle kleuren, zachte materialen en speelsheid. In de uiteindelijke ontwerpbeslissingen zal er eerder worden gekeken naar de voorkeuren van het kind, aangezien het de bedoeling is dat de beer het kind gaat stimuleren / helpen.
 
-### Opstelling 
+foto toevoegen met finale render
+
+> [!Important]
+> Design requirements
+> - Het product heeft een duidelijke zwarte rand rond de oren.
+> - De oortjes hebben een zachte en elastische interface.
+> - Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.
+> - Het omhulsel heeft felle en opvallende kleuren.
+> - Het omhulsel voelt glad aan.
+> - De kleur van het product kan verschillen per versie.
