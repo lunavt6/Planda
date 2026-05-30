@@ -79,10 +79,23 @@ Er werd wel rekening gehouden met het feit dat het uiteindelijke product geen ho
 
 Uit hun antwoorden bleek dat een gladdere textuur het meest in de smaak viel. Een glad oppervlak werd als aangenamer en zachter ervaren. Daarnaast zorgt een gladde afwerking voor een eenvoudiger ontwerp, waardoor het geheel minder druk oogt.
 
+![textuur_omhulsel]()
+
 ### Conclusies & implicaties
 Op basis van de resultaten kan geconcludeerd worden dat er een duidelijk verschil is tussen de voorkeuren van ouders en kinderen. Ouders kiezen voor een rustige, natuurlijke en interieurgerichte uitstraling, terwijl kinderen eerder voorkeur geven aan felle kleuren, zachte materialen en speelsheid. In de uiteindelijke ontwerpbeslissingen zal er eerder worden gekeken naar de voorkeuren van het kind, aangezien het de bedoeling is dat de beer het kind gaat stimuleren / helpen.
 
-foto toevoegen met finale render
+![finale_render](../img/dev3_finaal.png)
+
+Tijdens deze fase zijn onderstaande design requirements ontstaan, deze zijn te zien in onderstaande tabel samen met de reden.
+
+|Design Requirement|Reden|
+|---|---|
+|Het product heeft een duidelijke zwarte rand rond de oren.|Deze optie werd unaniem gekozen en werd als het mooist en meest afgewerkt ervaren.|
+|De oortjes hebben een zachte en elastische interface.|Silicone bood de beste combinatie van zachtheid, elasticiteit en indrukbaarheid.|
+|Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.|Kinderen moeten het LED-licht duidelijk kunnen zien tijdens interactie.|
+|Het omhulsel heeft felle en opvallende kleuren.|Kinderen gaven een duidelijke voorkeur aan felle en opvallende kleuren.|
+|Het omhulsel voelt glad aan.|Een glad oppervlak werd als het meest aangenaam ervaren en oogt minder druk.|
+|De kleur van het product kan verschillen per versie.|De kleurvoorkeuren werden enkel door meisjes beoordeeld.|
 
 > [!Important]
 > Design requirements
