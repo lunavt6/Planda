@@ -7,6 +7,18 @@ Voordat de interviews en literatuuronderzoek konden starten, werd eerst een func
 
 ![schema](<../img/schema_storyboard.png>)
 
+In onderstaand storyboard wordt er een ideale ochtendroutine voorgesteld.
+
+![storyboard_zonder_Planda](../img/storyboard_zonder_Planda.png)
+
+Aangezien de ochtend niet altijd soepel verloopt, wordt hier ook een worst-case variant van gemaakt.
+
+![storyboard_worst-case](../img/storyboard_worst-case.png)
+
+In onderstaand storyboard is dan te zien waar Planda kan worden ingezet.
+
+![storyboard_met_Planda](../img/storyboard_met_Planda.png)
+
 Daarna werd er een literatuuronderzoek uitgevoerd om de ontwikkeling van een kind beter te begrijpen. Hierbij werd onderzoek gedaan naar de verschillende domeinen : motorische, cognitieve, sociaal-emotionele en taalontwikkeling. Informatie kwam uit openbare bronnen, zoals websites, blogs en academisch onderzoek. Vervolgens werd de informatie vergeleken, zodanig dat er een tijdlijn van kon gemaakt worden. 
 
 Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebruikt. Hierbij fungeerde een fysieke knuffelbeer als tastbare interface, terwijl een smartphone op de buik het Figma-prototype toonde. Via een Bluetooth-muis werden de schermen op afstand bestuurd, zodat de volledige interactiestroom getest kon worden zonder dat de echte hardware en software al ontwikkeld waren. De focus van de test lag vooral op het gedrag, begrip en de motivatie van kinderen tijdens dagelijkse zelfzorgtaken zoals handen wassen.
