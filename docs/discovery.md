@@ -68,7 +68,7 @@ Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij d
 > [!IMPORTANT]
 > **Design Requirements**
 > - 1.1 Het product geeft taken duidelijk en motiverend weer.
-> - 1.2 Het product ondersteunt de gebruiker.
-> - 1.3 Het product is aanpasbaar.
+> - 1.2 Het product ondersteunt de gebruiker tijdens de activiteit.
+> - 1.3 Het product is personaliseerbaar.
 > - 2.1 Het product is intuïtief en eenvoudig te gebruiken.
 > - 3.1 Het product heeft een speels karakter.

@@ -69,13 +69,10 @@ Het model werd al eens geprint om te kijken of alle componenten erin passen.
 #### Ergonomie
 De middelste oorgrootte is het meest geschikt, omdat deze het comfortabelst en het gemakkelijkst in gebruik is. 
 
-De beste handzetting is het gebruik van de duim in combinatie met twee tot drie vingers, omdat deze het vaakst voorkomt en voldoende controle en stabiliteit biedt.
-
 > [!IMPORTANT]
 > **Design Requirements**
 >- 2.8 Het  oor heeft een grootte die comfortabel en gemakkelijk te gebruiken is voor een kind.
->- 2.9 Het oor ondersteunt een handpositie waarbij de duim samenwerkt met twee tot drie vingers.
->- 2.10 Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.
+>- 2.9 Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.
 
 ##### Aanpassingen oortjes
 Tijdens het iteratief ontwerpproces werd de vorm van de oortjes verder verfijnd op basis van de design requirements. Het oorspronkelijke ontwerp bestond uit een langwerpig oortje, maar dit bleek minder geschikt. Enerzijds was deze vorm te lang voor de voorziene mal, en anderzijds zorgde dit voor een minder optimale interactie.

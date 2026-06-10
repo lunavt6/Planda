@@ -57,7 +57,7 @@ Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete d
 
 > [!IMPORTANT]
 > **Design Requirements**
-> - 1.4 Het product geeft feedback aan de gebruiker.
+> - 1.4 Het product geeft visuele en auditive feedback aan de gebruiker.
 > - 1.5 Het scherm is losneembaar van het hoofdproduct.	
 > - 2.2	Het product beschikt over fysieke knoppen.
 > - 2.3	De knoppen zijn ergonomische en toegankelijke gepositioneerd voor de doelgroep.

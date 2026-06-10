@@ -22,7 +22,9 @@ Voor de kleurkeuzes werden verschillende renders ontwikkeld voor de uiteenlopend
 
 Voor de keuze van de textuur werden verschillende varianten aan gebruikers gepresenteerd. Zij konden de materialen ook zelf voelen, zodat op basis van hun ervaring de meest geschikte optie kon worden geselecteerd.
 
-Het protocol van deze interviews is hier te vinden: [interviewprotocol](../reports%20and%20protocols/develop3%20-%20CMF%20-%20protocol.pdf)
+Het protocol van deze interviews is hier te vinden: [interview protocol](../reports%20and%20protocols/develop3%20-%20CMF%20-%20protocol.pdf)
+
+Het report van deze interviews is hier te vinden: [interview report](../reports%20and%20protocols/develop3%20-%20CMF%20-%20report.pdf)
 
 ### Resultaten
 
@@ -86,22 +88,25 @@ Op basis van de resultaten kan geconcludeerd worden dat er een duidelijk verschi
 
 ![finale_render](../img/dev3_finaal.png)
 
-Tijdens deze fase zijn onderstaande design requirements ontstaan, deze zijn te zien in onderstaande tabel samen met de reden.
+Tijdens deze fase zijn volgende design requirements ontstaan, deze zijn te zien in onderstaande tabel samen met de reden.
 
 |Design Requirement|Reden|
 |---|---|
-|Het product heeft een duidelijke zwarte rand rond de oren.|Deze optie werd unaniem gekozen en werd als het mooist en meest afgewerkt ervaren.|
+|Het product heeft een duidelijke zwarte rand rond de oren.¹|Deze optie werd unaniem gekozen en werd als het mooist en meest afgewerkt ervaren.|
 |De oortjes hebben een zachte en elastische interface.|Silicone bood de beste combinatie van zachtheid, elasticiteit en indrukbaarheid.|
-|Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.|Kinderen moeten het LED-licht duidelijk kunnen zien tijdens interactie.|
-|Het omhulsel heeft felle en opvallende kleuren.|Kinderen gaven een duidelijke voorkeur aan felle en opvallende kleuren.|
+|Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.²|Kinderen moeten het LED-licht duidelijk kunnen zien tijdens interactie.|
+|Het omhulsel heeft felle en opvallende kleuren.¹|Kinderen gaven een duidelijke voorkeur aan felle en opvallende kleuren.|
 |Het omhulsel voelt glad aan.|Een glad oppervlak werd als het meest aangenaam ervaren en oogt minder druk.|
-|De kleur van het product kan verschillen per versie.|De kleurvoorkeuren werden enkel door meisjes beoordeeld.|
+|Het product is beschikbaar in verschillende kleurvarianten.|De kleurvoorkeuren werden enkel door meisjes beoordeeld.|
+
+¹ Aangezien beide design requirements gaan over het speelser maken van het product, worden beide gecombineerd met de reeds bestaande design requirement 3.1.
+
+² Deze design requirements wordt anders geformuleerd zodanig dat het aansluit bij design requirement 1.4.
 
 > [!Important]
 > Design requirements
-> - 3.5 Het product heeft een duidelijke zwarte rand rond de oren.
-> - 3.6 De oortjes hebben een zachte en elastische interface.
-> - 1.4 Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.
-> - 3.7 Het omhulsel heeft felle en opvallende kleuren.
-> - 3.8 Het omhulsel voelt glad aan.
-> - 3.9 De kleur van het product kan verschillen per versie.
+> - 3.1 Het product heeft een speels karakter door het gebruik van opvallende kleuren en herkenbare visuele kenmerken.
+> - 3.5 De oortjes hebben een zachte en elastische interface.
+> - 1.4 Het product geeft visuele feedback aan de gebruiker.
+> - 3.6 Het omhulsel voelt glad aan.
+> - 3.7 Het product is beschikbaar in verschillende kleurvarianten.
