@@ -99,9 +99,9 @@ Tijdens deze fase zijn onderstaande design requirements ontstaan, deze zijn te z
 
 > [!Important]
 > Design requirements
-> - Het product heeft een duidelijke zwarte rand rond de oren.
-> - De oortjes hebben een zachte en elastische interface.
-> - Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.
-> - Het omhulsel heeft felle en opvallende kleuren.
-> - Het omhulsel voelt glad aan.
-> - De kleur van het product kan verschillen per versie.
+> - 3.5 Het product heeft een duidelijke zwarte rand rond de oren.
+> - 3.6 De oortjes hebben een zachte en elastische interface.
+> - 1.4 Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.
+> - 3.7 Het omhulsel heeft felle en opvallende kleuren.
+> - 3.8 Het omhulsel voelt glad aan.
+> - 3.9 De kleur van het product kan verschillen per versie.

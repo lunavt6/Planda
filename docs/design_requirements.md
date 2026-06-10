@@ -6,7 +6,7 @@
 |1.1|Het product geeft taken duidelijk en motiverend weer.|[Discovery](discovery.md)||
 |1.2|Het product ondersteunt de gebruiker.|[Discovery](discovery.md)||
 |1.3|Het product is aanpasbaar.|[Discovery](discovery.md)||
-|1.4|Het product geeft feedback aan de gebruiker.|[Definition: Wave 2](definition.md)||
+|1.4|Het product geeft feedback aan de gebruiker.|[Definition: Wave 2](definition.md) & [Develop 3](develop_3.md)||
 |1.5|Het scherm is losneembaar van het hoofdproduct.|[Definition: Wave 1](definition.md)||
 |1.6|De beer biedt aangepaste begeleiding met minstens twee niveaus: een beginnersmodus met gedetailleerde stappen en een gevorderde modus met kortere instructies.|[Develop 1](develop_1.md)||
 |1.7|Elke stap communiceert één duidelijke actie en is visueel eenvoudig en herkenbaar voor jonge kinderen.|[Develop 1](develop_1.md)||
@@ -27,6 +27,11 @@
 |3.2|Het product behoudt het knuffelaspect.|[Definition: Wave 1](definition.md)||
 |3.3|Het product heeft een ergonomische vorm die makkelijk vast te houden is door de doelgroep.|[Definition: Wave 1](definition.md)||
 |3.4|Het product bevat onderdelen die gereinigd kunnen worden.|[Definition: Wave 1](definition.md)||
+|3.5|Het product heeft een duidelijke zwarte rand rond de oren.|[Develop 3](develop_3.md)||
+|3.6|De oortjes hebben een zachte en elastische interface.|[Develop 3](develop_3.md)||
+|3.7|Het omhulsel heeft felle en opvallende kleuren.|[Develop 3](develop_3.md)||
+|3.8|Het omhulsel voelt glad aan.|[Develop 3](develop_3.md)||
+|3.9|De kleur van het product kan verschillen per versie.|[Develop 3](develop_3.md)||
 |**Vormgeving app**|
 |4.1|De app is eenvoudig en overzichtelijk, zodat ouders snel taken kunnen instellen of aanpassen.|[Develop 1](develop_1.md)||
 |4.2|Ouders kunnen routines volledig aanpassen door taken toe te voegen, te verwijderen of de volgorde te wijzigen.|[Develop 1](develop_1.md)||
