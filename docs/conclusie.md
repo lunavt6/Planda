@@ -16,4 +16,6 @@ Om extra begeleiding te bieden, zijn beide oren voorzien van ledverlichting. Wan
 
 Naast de knuffelbeer werd ook een ondersteunende mobiele app ontworpen voor ouders. Via deze app kunnen takenreeksen worden samengesteld, aangepast en doorgestuurd naar de beer. Daarnaast biedt de app mogelijkheden om de voortgang van het kind op te volgen, meerdere profielen te beheren, herinneringen te krijgen voor oefenmomenten, … . Hierdoor kan Planda eenvoudig worden afgestemd op de specifieke behoeften van elk gezin.
 
+De app is hier te vinden: [Planda App](https://www.figma.com/make/hH7P8G2qhJlz6ltt2GSOgT/Morning-Routine-Planner-App?fullscreen=1&t=5xGemeAnBUFUFCQ1-1&code-node-id=0-9)
+
 Op basis van de vooropgestelde [design requirements](design_requirements.md) geloven wij dat Planda een geschikte oplossing biedt voor het ondersteunen van jonge kinderen bij dagelijkse routines en taken. Door duidelijke begeleiding, motiverende feedback en een speelse vormgeving te combineren, helpt Planda kinderen om taken zelfstandiger uit te voeren en vermindert het tegelijkertijd de nood aan voortdurende tussenkomst van ouders.
