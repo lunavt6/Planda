@@ -81,3 +81,8 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
     </tr>
   </tbody>
 </table>
+
+Alle componenten worden aan elkaar gesoldeerd volgens volgende opstelling:
+![alt text](<Opstelling Planda-beer.jpg>)
+
+Op de ESP32 wordt volgende code geintegreerd om alles werkende te krijgen van de animatie, geluidjes, knoppen en licht feedback.
