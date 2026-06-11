@@ -24,6 +24,10 @@ Op basis van het storyboard werd beslist om het onderzoek gefaseerd aan te pakke
 
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
+De protocollen voor de interviews van beide waves zijn hier te vinden:
+* [Protocol wave 1](https://drive.google.com/file/d/1tDht5WUX5s2kWT2_GBW46OIctpL1c5EN/view?usp=sharing)
+* [Protocol wave 2](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
+
 Het hoofddoel van het ontwerp is dat kinderen de routine kunnen doorlopen met minimale of geen assistentie van de ouders. Om deze hoge graad van intuïtiviteit te bereiken, hebben we ons ontwikkelproces gebaseerd op de 7 Stages of Action van Donald Norman.
 
 Bij elk prototype hebben we geanalyseerd hoe het kind de brug slaat tussen hun doel (bijv. "ik moet mijn tanden poetsen") en de fysieke handeling.
@@ -46,6 +50,8 @@ Naast het overdragen van informatie werden ook de interactieve elementen van de 
 
 Tot slot werd onderzocht hoe kinderen interacteren met hun eigen knuffels, om hieruit inzichten te halen voor het ontwerp van de interactieve beer.
 
+Het report van de interviews is [hier](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing) te vinden.
+
 **Wave 2: User feedback sessions (N=5)**
 
 In de tweede fase lag de focus op de verfijning van de signalen en de kleurassociaties. De cognitieve verwerking van prikkels verschilt per kind; waar de één direct reageert op licht, heeft de ander een auditieve trigger nodig om in actie te komen. 
@@ -58,10 +64,26 @@ Kinderen zien links vaak als “terug” en rechts als “doorgaan”. Daarom is
 
 De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer fungeert als een onafhankelijke gids, waardoor de ouderlijke rol verschuift van sturende "politieagent" naar toeschouwer, wat de opvoedstress aanzienlijk verlaagt.
 
+Het report van de interviews is [hier](https://drive.google.com/file/d/1M4MNhGCV2yEY8R1wfnuPgGviKFT1PNGz/view?usp=sharing) te vinden.
+
 ---
 
 ### Conclusies & implicaties
-Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete design requirements opgesteld. Deze vormen het fundament voor de verdere ontwikkeling van het product en vertalen de inzichten uit het ontwerpproces naar duidelijke functionele en ergonomische ontwerprichtlijnen.
+Op basis van het onderzoek en de gebruikerstesten zijn design requirements opgesteld. Deze zijn gebaseerd op de onderstaande tabel met conclusies en bijhorende redenen. Ze vormen de basis voor het verdere ontwerp en vertalen de inzichten naar duidelijke richtlijnen voor functie en gebruiksgemak, zodat het eindproduct aansluit bij de behoeften van de gebruikers.
+
+| Conclusie | Reden uit onderzoek |
+|-----------|--------------------|
+| Het product moet zowel licht- als geluidssignalen gebruiken. | In wave 2 bleek dat een enkelvoudige prikkel vaak gemist wordt. De combinatie van geluid en licht trok de aandacht van kinderen het meest effectief. |
+| Het scherm moet eenvoudig verwijderd kunnen worden van de knuffel. | Kinderen gaven aan dat ze na de routine verder willen spelen met de knuffel. Een losneembaar scherm zorgt ervoor dat de beer ook als gewone knuffel gebruikt kan worden. |
+| Interactie gebeurt via fysieke knoppen op de beer. | Tijdens de testen bleek dat jonge kinderen spontaan fysieke onderdelen van de knuffel aanraken en indrukken. Dit sluit beter aan bij hun motorische vaardigheden dan abstracte digitale bediening. |
+| De knoppen worden geplaatst op locaties die gemakkelijk bereikbaar zijn voor kinderen. | Uit observaties bleek dat kinderen de oren spontaan aanraken, terwijl handen en voeten vaak worden vastgehouden tijdens het spelen. |
+| De functies van de knoppen moeten overeenkomen met de verwachtingen van kinderen. | Kinderen associëren rechts spontaan met verdergaan en links met teruggaan of stoppen. |
+| De actieve knop wordt verlicht. | Tijdens wave 2 bleek dat lichtsignalen kinderen helpen begrijpen waar een actie verwacht wordt. |
+| De gekozen kleuren moeten aansluiten bij de betekenis die kinderen eraan geven. | Onderzoek naar kleur-emotieassociaties toonde aan dat kinderen kleuren koppelen aan bepaalde gevoelens en acties, waardoor kleuren betekenisvol kunnen worden ingezet. |
+| Geluid wordt gebruikt als aandachtstrekker tijdens de routine. | Uit de testen bleek dat licht alleen niet altijd wordt opgemerkt. Geluid helpt om de aandacht opnieuw naar de taak te brengen. |
+| Het product moet herkenbaar blijven als knuffel en uitnodigen tot spelen. | Kinderen hechtten veel belang aan het knuffelkarakter en wilden de beer ook buiten de ochtendroutine gebruiken. |
+| De vorm moet afgestemd zijn op het gebruik door jonge kinderen. | Observaties toonden aan dat kinderen de knuffel op verschillende manieren vasthouden tijdens het spelen en gebruiken. |
+| Het ontwerp moet onderhoudsvriendelijk zijn, bijvoorbeeld via een afneembare en wasbare hoes of onesie. | Omdat het product dagelijks gebruikt wordt door jonge kinderen, is hygiëne belangrijk. Een verwijderbare buitenlaag maakt reiniging mogelijk zonder de elektronica te beschadigen. |
 
 > [!IMPORTANT]
 > **Design Requirements**
