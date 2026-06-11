@@ -26,6 +26,8 @@ Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijp
 
 Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
 
+[benchmarking protocol](//reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
+
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
 ---
@@ -36,14 +38,21 @@ Door beide methoden te gebruiken konden zowel de ervaringen van ouders als infor
 
 Uit de interviews blijkt dat opvoedstress bij jonge ouders vooral voorkomt tijdens dagelijkse routines waarbij tijdsdruk een grote rol speelt. Vooral de ochtend wordt als het meest stressvolle moment ervaren, omdat ouders in korte tijd veel taken moeten uitvoeren, zoals zichzelf klaarmaken, het kind aankleden, ontbijten, tanden poetsen en op tijd vertrekken naar school of werk. Stress ontstaat daarbij niet alleen door het gedrag van het kind, maar ook door externe factoren zoals werkdruk, deadlines of onverwachte taken, zoals iets meegeven voor school of opvang regelen bij ziekte.
 De belangrijkste momenten van stress zijn de ochtend- en avondroutine, en taken zoals eten en aankleden waarbij kinderen traag of afgeleid zijn. Het gedrag van kinderen, zoals tegenwerken, afleiding zoeken of afhankelijkheid van de ouder, heeft een directe invloed op hoe ouders zich voelen. Sommige kinderen reageren emotioneel op gehaaste of boze ouders, wat de stress verder verhoogt. Hoewel veel kinderen al een deel van de taken zelfstandig kunnen uitvoeren, blijft begeleiding vaak nodig, omdat afleiding en motivatie soms ontbreken.
-Ouders zien verschillende manieren om deze stress te verminderen. Structuur en voorspelbaarheid, bijvoorbeeld door duidelijke schema’s of visuele hulpmiddelen, helpen kinderen beter te begrijpen wat er van hen verwacht wordt. Beloningssystemen kunnen de motivatie van het kind vergroten, terwijl gebruiksvriendelijke en duurzame hulpmiddelen ervoor zorgen dat de routines soepel verlopen.
+
+> *“Als ze iets in haar hoofd heeft, wilt ze dat direct doen.”*
+
+>*“Als de mama boos wordt, zal Claire verdrietig worden.”*
+
+>*“Maar ik moet het zo blijven herhalen wel, want als ik haar gewoon laat doen, dan loopt ze hier weer als een kip zonder kop door het huis.”*
+
+Ouders zien verschillende manieren om deze stress te verminderen. Structuur en voorspelbaarheid, bijvoorbeeld door duidelijke schema’s of visuele hulpmiddelen, helpen kinderen beter te begrijpen wat er van hen verwacht wordt. Uit de interviews bleek echter dat structuur alleen niet altijd voldoende is. Een ouder gaf aan dat een klassieke routineplanner weinig motiverend werkt omdat kinderen deze na verloop van tijd negeren.
+
+>*“Een ochtendroutineplanner heeft weinig motivatie, dan kijkt ze daarna. En dan denkt ze waarschijnlijk: Maar ik weet dat al hè.”* 
+
+Beloningssystemen kunnen de motivatie van het kind vergroten, terwijl gebruiksvriendelijke en duurzame hulpmiddelen ervoor zorgen dat de routines soepel verlopen.
 Het gewenste eindresultaat van de ouders is dat de dagelijkse routines rustig en gestructureerd verlopen, zonder geschreeuw of haast. Het kind voert taken zelfstandig uit, zonder voortdurende herhaling of aansporing, en er ontstaat meer tijdsbesef en minder spanning voor zowel ouder als kind. Op deze manier kan een slim hulpmiddel bijdragen aan stressvermindering bij ouders, meer zelfstandigheid bij kinderen en een positieve, plezierige sfeer in het gezin.
 
-Een aantal belangrijke quotes:
-- *“Als ze iets in haar hoofd heeft, wilt ze dat direct doen.”*
-- *“Als de mama boos wordt, zal Claire verdrietig worden.”*
-- *“Maar ik moet het zo blijven herhalen wel, want als ik haar gewoon laat doen, dan loopt ze hier weer als een kip zonder kop door het huis.”*
-- *“Een ochtendroutineplanner heeft weinig motivatie, dan kijkt ze daarna. En dan denkt ze waarschijnlijk: Maar ik weet dat al hè.”* 
+Het report van de interviews is [hier](//reports%20and%20protocols/discovery%20-%20interview%20-%20report.pdf) te vinden.
 
 **Benchmarking**
 
@@ -51,11 +60,13 @@ Uit de analyse is gebleken dat er al veel mogelijke oplossingen bestaan voor het
 Voor aankleden, opruimen en de ochtendroutine liggen er echter nog kansen om originelere en soms effectievere producten te ontwerpen. Bij aankleden en de ochtendroutine wordt momenteel meestal gewerkt met pictogrammen of checklists. Voor sommige kinderen blijkt dit niet motiverend genoeg te zijn om consequent te gebruiken. Bij opruimen geld iets soortgelijks, maar dan met behulp van labels. 
 Wat slapen en opstaan betreft, bestaat er al een breed aanbod aan slaaptrainers, met verschillende opties en ontwerpen. Omdat dit product effectief en goed ontwikkeld is, vormt deze taak geen probleem meer.
 
+Het report van de benchmarking is [hier](//reports%20and%20protocols/discovery%20-%20benchmarking%20-%20report.pdf) te vinden.
+
 ---
 
 ### **Conclusies & implicaties**
 
-Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. Bij het verdere proces zal er rekening gehouden worden met designrequirements die gebasseerd zijn op onderstaande conclusies:
+Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. Bij het verdere proces zal er rekening gehouden worden met design requirements die gebasseerd zijn op onderstaande conclusies:
 | Conclusie | Reden |
 |-----------------|-------|
 | Het hulpmiddel moet op een duidelijke en motiverende manier taken visueel weergeven. | Ouders geven aan dat chaos en tijdsdruk de grootste stress veroorzaken, vooral in de ochtendroutine. |
