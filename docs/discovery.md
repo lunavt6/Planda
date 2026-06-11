@@ -28,7 +28,7 @@ Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](htt
 
 [benchmarking protocol](https://github.com/lunavt6/Planda/blob/main/reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
 
-[test](reports and protocols/discovery - benchmarking - protocol.pdf)
+[test](../reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
 
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
