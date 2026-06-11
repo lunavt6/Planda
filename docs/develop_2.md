@@ -82,8 +82,8 @@ Uit het ergonomisch onderzoek en de gebruikerstesten blijkt dat de grootte en vo
 
 In onderstaande tabel worden de conclusies weergegeven met de bijhorende reden of onderbouwing waarop de design requirements gebaseerd zijn. 
 
-| Conclusie (Development 2) | Reden / onderbouwing uit onderzoek |
-|---------------------------|-------------------------------------|
+| Conclusie | Reden |
+|-----------|-------|
 | Het oor moet een grootte hebben die comfortabel en gemakkelijk te gebruiken is voor kinderen. | Tijdens de gebruikerstesten gaf het kind aan dat het middelste oor het meest comfortabel en het gemakkelijkst in gebruik was. De variatie in handposities wijst erop dat deze grootte voldoende flexibiliteit biedt voor verschillende manieren van vasthouden. |
 | Het oor moet een voldoende groot contactoppervlak hebben voor een stabiele grip. | Observaties tonen aan dat kinderen de knop voornamelijk bedienen met de duim en één of meerdere vingers. Een compacter en breder oor biedt een groter contactoppervlak, waardoor kinderen gemakkelijker druk uitoefenen op de juiste plaats en de knop betrouwbaarder activeren. |
 
@@ -92,7 +92,7 @@ In onderstaande tabel worden de conclusies weergegeven met de bijhorende reden o
 >- 2.8 Het  oor heeft een grootte die comfortabel en gemakkelijk te gebruiken is voor een kind.
 >- 2.9 Het oor heeft een voldoende grote contactoppervlak voor een stabiele grip.
 
-##### Aanpassingen oortjes
+#### Aanpassingen oortjes
 Tijdens het iteratief ontwerpproces werd de vorm van de oortjes verder verfijnd op basis van de design requirements. Het oorspronkelijke ontwerp bestond uit een langwerpig oortje, maar dit bleek minder geschikt. Enerzijds was deze vorm te lang voor de voorziene mal, en anderzijds zorgde dit voor een minder optimale interactie.
 
 ![langwerpig](../img/oor_langwerpig.png) 
