@@ -1,4 +1,5 @@
 ## Definition
+
 ### Doestellingen
 Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de ochtendroutine voor gezinnen met jonge kinderen (2-6 jaar) verlicht. Het ontwerpproces is opgedeeld in verschillende waves om iteratief te testen en te verbeteren.
 
@@ -9,6 +10,8 @@ Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de 
 > **Wave 2**
 >
 > Het optimaliseren van de fysieke materialen en de interactievormen. Specifiek werd onderzocht hoe impulsen (licht/geluid) en beloningen de motivatie van het kind beïnvloeden en welke kleuren/materialen het gebruiksgemak verhogen.
+
+---
 
 ### Materiaal & methoden
 Het storyboard werd in een vroege fase opgesteld om de context en het gebruik van Planda tijdens de ochtendroutine te verduidelijken. Door de interactie tussen kind, ouder en knuffelbeer stap voor stap te visualiseren, werd duidelijk wanneer en hoe het product gebruikt wordt en welke acties, feedback en begeleiding daarbij nodig zijn.
@@ -27,7 +30,10 @@ Bij elk prototype hebben we geanalyseerd hoe het kind de brug slaat tussen hun d
 
 Om de interactie tussen kind en de Planda-beer te optimaliseren, gebruikten we de Wizard of Oz-methode waarbij we o.a. handmatig licht en geluid aanstuurden. Hierdoor leek de beer autonoom te reageren, wat essentieel was om de intuïtiviteit te testen volgens de 7 Stages of Action van Norman.
 
+---
+
 ### Resultaten
+
 **Wave 1: User feedback sessions (N=5)**
 
 De meeste kinderen ervaren de ochtendroutine als een moment van afleiding, waarbij de focus op taken zoals tanden poetsen of aankleden snel verloren gaat. Ouders beschouwen hun constante sturing als een noodzaak om de tijdslimiet te halen, wat leidt tot een sfeer van stress.
@@ -51,6 +57,8 @@ Er werd een test uitgevoerd om te onderzoeken hoe kinderen van verschillende lee
 Kinderen zien links vaak als “terug” en rechts als “doorgaan”. Daarom is het logisch om rechts te gebruiken voor het starten en links voor beëindigen, zo wordt het makkelijker en duidelijker voor hen.
 
 De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer fungeert als een onafhankelijke gids, waardoor de ouderlijke rol verschuift van sturende "politieagent" naar toeschouwer, wat de opvoedstress aanzienlijk verlaagt.
+
+---
 
 ### Conclusies & implicaties
 Op basis van de onderzoeksresultaten en gebruikerstesten werd een set concrete design requirements opgesteld. Deze vormen het fundament voor de verdere ontwikkeling van het product en vertalen de inzichten uit het ontwerpproces naar duidelijke functionele en ergonomische ontwerprichtlijnen.

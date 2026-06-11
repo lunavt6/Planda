@@ -3,6 +3,8 @@
 ### Doelstellingen
 Het hoofddoel van deze fase is het analyseren van de CMF van de verschillende componenten.
 
+---
+
 ### Materiaal & methoden
 
 Vooraleer een CMF-analyse kon worden uitgevoerd, werden de verschillende componenten van het product eerst geëvalueerd en werd bepaald op welke onderdelen de analyse van toepassing zou zijn.
@@ -25,6 +27,8 @@ Voor de keuze van de textuur werden verschillende varianten aan gebruikers gepre
 Het protocol van deze interviews is hier te vinden: [interview protocol](../reports%20and%20protocols/develop3%20-%20CMF%20-%20protocol.pdf)
 
 Het report van deze interviews is hier te vinden: [interview report](../reports%20and%20protocols/develop3%20-%20CMF%20-%20report.pdf)
+
+---
 
 ### Resultaten
 
@@ -82,6 +86,8 @@ Er werd wel rekening gehouden met het feit dat het uiteindelijke product geen ho
 Uit hun antwoorden bleek dat een gladdere textuur het meest in de smaak viel. Een glad oppervlak werd als aangenamer en zachter ervaren. Daarnaast zorgt een gladde afwerking voor een eenvoudiger ontwerp, waardoor het geheel minder druk oogt.
 
 ![textuur_omhulsel]()
+
+---
 
 ### Conclusies & implicaties
 Op basis van de resultaten kan geconcludeerd worden dat er een duidelijk verschil is tussen de voorkeuren van ouders en kinderen. Ouders kiezen voor een rustige, natuurlijke en interieurgerichte uitstraling, terwijl kinderen eerder voorkeur geven aan felle kleuren, zachte materialen en speelsheid. In de uiteindelijke ontwerpbeslissingen zal er eerder worden gekeken naar de voorkeuren van het kind, aangezien het de bedoeling is dat de beer het kind gaat stimuleren / helpen.

@@ -14,7 +14,7 @@ Om dit probleem te onderzoeken, doorliepen we een iteratief human-centered desig
 
 De uiteindelijke oplossing bestaat uit een zachte interactieve knuffelbeer met een scherm op de buik waarop visuele stappenplannen worden weergegeven. Via knoppen in de oortjes navigeert het kind doorheen de taakjes, ondersteund door licht- en geluidsfeedback. De beer begeleidt kinderen stap voor stap op een speelse, intuïtieve en zelfstandige manier, waardoor ouders minder voortdurend moeten tussenkomen en opvoedingsstress vermindert.
 
-![alt text](//img/render_Planda.png)
+![alt text](./img/render_Planda.png)
 
 
 ## Introductie

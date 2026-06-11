@@ -1,9 +1,6 @@
+## Discovery 
 
-
-
-## **Discovery – Planda Beer**
-
-### **Doelstellingen**
+### Doelstellingen
 
 Het hoofddoel van de discovery-fase was om beter te begrijpen waar opvoedstress bij jonge ouders vandaan komt en hoe een slim product kan helpen om die stress te verminderen, het kind zelfstandiger te maken en positieve ontwikkeling te stimuleren. 
 Hierbij zijn de deelvragen:
@@ -15,7 +12,7 @@ Hierbij zijn de deelvragen:
 
 ---
 
-### **Materiaal & methoden**
+### Materiaal & methoden
 
 Dit onderzoek werd uitgevoerd met twee onderzoeksmethoden: interviews en een benchmarkingonderzoek.
 Voor de interviews werden personen gekozen die direct betrokken zijn bij opvoedstress. Dit waren ouders met een kind tussen 2 en 6 jaar. Met hen werden semigestructureerde interviews gehouden. Dat betekent dat er vooraf hoofdvragen waren opgesteld, maar dat er tijdens het gesprek ruimte was om door te vragen. De interviews duurden gemiddeld 40 minuten en vonden plaats online en face-to-face. Met toestemming zijn de gesprekken opgenomen en later uitgewerkt. De antwoorden werden daarna geanalyseerd en vergeleken met elkaar.
@@ -30,7 +27,7 @@ Door beide methoden te gebruiken konden zowel de ervaringen van ouders als infor
 
 ---
 
-### **Resultaten**
+### Resultaten
 
 **Interviews** 
 
@@ -64,7 +61,7 @@ Het report van de benchmarking is [hier](https://drive.google.com/file/d/1ek-WHo
 
 ---
 
-### **Conclusies & implicaties**
+### Conclusies & implicaties
 
 Uit de analyse van de interviews en het benchmarkingonderzoek volgt dat er bij de ochtendroutine nog wat problemen liggen. Op dit onderwerp zal er dus verder gewerkt worden. Bij het verdere proces zal er rekening gehouden worden met design requirements die gebasseerd zijn op onderstaande conclusies:
 | Conclusie | Reden |

@@ -3,6 +3,8 @@
 ### Doelstellingen
 Het hoofddoel van deze fase is het ergonomisch maken van het product en wordt de opstelling verbeterd.
 
+---
+
 ### Ergonomie
 
 #### Materiaal & methoden
@@ -48,6 +50,8 @@ Hieruit kan worden afgeleid dat de grootte van het oor invloed heeft op hoe het 
 
 Tijdens de evaluatie achteraf gaf het kindje aan dat het middelste oor het meest comfortabel en het gemakkelijkst in gebruik was. Dit komt overeen met de grotere variatie in handposities, wat erop kan wijzen dat deze grootte meer flexibiliteit biedt. 
 
+---
+
 ### Opstelling
 In develop 1 werd de testopstelling uitgelegd. In deze opstelling werd een Arduino mega en 3.5 inch TFT display shield gebruikt. Echter werd vastgesteld dat er geen GIF’s afgespeeld kunnen worden via deze methode. Afbeeldingen kunnen wel afgespeeld worden, maar zeer traag. We hebben ervoor gekozen om toch over te schakelen naar een andere opstelling.
 
@@ -63,6 +67,7 @@ Naast de GIF’s werd ook al een eerste model gemaakt van hoe het omhulsel van h
 
 Het model werd al eens geprint om te kijken of alle componenten erin passen. 
 
+---
 
 ### Conclusies & implicaties
 

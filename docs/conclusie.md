@@ -4,13 +4,14 @@ Planda is een interactieve knuffelbeer die kinderen tussen twee en zes jaar onde
 Wij geloven dat Planda een sterke oplossing vormt voor het geschetste probleem omdat het inspeelt op zowel de behoeften van het kind als die van de ouder. Kinderen krijgen ondersteuning via duidelijke stap-voor-stap begeleiding, terwijl ouders minder voortdurend moeten aansturen. Hierdoor wordt niet alleen de kans vergroot dat taken succesvol worden uitgevoerd, maar wordt ook de zelfstandigheid van het kind gestimuleerd.
 
 In onderstaande afbeelding worden de verschillende componenten van Planda weergegeven.
+
 ![Planda met annotaties]()
 
 Om de taken duidelijk te maken aan het kind, maakt Planda gebruik van een scherm waarop de verschillende stappen worden weergegeven aan de hand van GIF's. Hierdoor kunnen ook kinderen die nog niet kunnen lezen de instructies begrijpen. Het scherm en de elektronica worden beschermd door een stevige case. Deze zorgt ervoor dat het product bestand is tegen het dagelijkse gebruik door jonge kinderen en voorkomt dat zij rechtstreeks aan de elektronische componenten kunnen komen. Daarnaast kreeg de case een opvallende kleur, zodat het scherm beter opvalt en het product een speelse uitstraling krijgt die aansluit bij de doelgroep.
 
 Hoewel dit niet werd gerealiseerd in het uiteindelijke prototype, werd binnen het concept ook voorzien dat de beer een afneembare onesie zou dragen. Deze onesie kan eenvoudig verwijderd en gewassen worden, waardoor het product hygiënisch blijft tijdens dagelijks gebruik door jonge kinderen. De case met het scherm en de elektronica zou daarbij met een sterke magneet aan de beer bevestigd worden. Hierdoor kan de case eenvoudig verwijderd worden wanneer de onesie gewassen moet worden, terwijl ze tijdens normaal gebruik stevig op haar plaats blijft zitten. Dit verhoogt zowel het onderhoudsgemak als de praktische bruikbaarheid van het product.
 
-![Planda met onesie](//img/Planda%20met%20onesie.png)
+![Planda met onesie](../img/Planda%20met%20onesie.png)
 
 Naast visuele begeleiding wordt ook gebruikgemaakt van geluidseffecten en liedjes. Deze elementen zorgen ervoor dat het uitvoeren van een taak minder aanvoelt als een verplichting en eerder als een leuke activiteit. Op die manier wordt de motivatie van het kind verhoogd en blijft de aandacht langer behouden.
 

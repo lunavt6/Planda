@@ -1,6 +1,9 @@
 ## Development 1
+
 ### Doelstellingen
 Het hoofddoel van de eerste develop-fase was het verkennen van de mogelijkheden voor het product, met de volgende deeldoelen: inzicht krijgen in de ontwikkeling van kinderen, onderzoeken hoe zij interageren met de interface van de beer, mogelijke ontwerpen van de bijbehorende app verkennen, en bepalen hoe het product gerealiseerd kan worden.
+
+---
 
 ### Materiaal & methoden
 Voordat de interviews en literatuuronderzoek konden starten, werd eerst een functionele analyse uitgevoerd. In dit proces werd een verbeterde en meer gedetailleerde versie van het storyboard gemaakt om te onderzoeken wat de verschillende stappen zijn die met en zonder het product doorlopen worden. 
@@ -26,6 +29,8 @@ Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebr
 Daarna werden de noden voor de app onderzocht. Eerst werd aan de geïnterviewden gevraagd wat zij van de app verwachtten. Vervolgens werd een eerste versie van de app getoond en werd gevraagd welke functies of aanpassingen volgens hen nog ontbraken. 
 De eerste versie van de app is hier te vinden: [Planda App](https://www.figma.com/make/4M9PoDPEkh4jKd4S3BSqR9/Planda-App-V1?fullscreen=1&t=7Io5MF27VStgSLxI-1&code-node-id=0-9)
 
+---
+
 ### Resultaten
 #### Literatuuronderzoek 
 Uit het literatuuronderzoek zijn volgende tijdlijnen ontstaan waarbij telkens één domein wordt bekeken.
@@ -48,6 +53,8 @@ Uit de evaluatie blijkt dat ouders vooral belang hechten aan een eenvoudige, dui
 Voor gezinnen met meerdere kinderen is het belangrijk dat meerdere accounts mogelijk zijn, zodat de gegevens en voortgang per kind overzichtelijk blijven. Ook moet de app toegankelijk zijn op meerdere smartphones, zodat beide ouders de verbinding met de knuffelbeer kunnen maken en de vooruitgang kunnen opvolgen. Ouders willen daarnaast de voortgang van hun kind kunnen volgen, bijvoorbeeld via visuele feedback zoals sterretjes, badges of een voortgangsbalk, en via een overzicht op langere termijn.
 
 Verder kan het motiverend zijn wanneer kinderen zelf betrokken worden, bijvoorbeeld door de volgorde van taken te kiezen of hun voortgang op de beer te zien. Ook meldingen en tips worden als nuttig beschouwd, omdat ze ouders helpen om oefenmomenten niet te vergeten en ondersteuning bieden bij het oefenen. Tot slot moet de app duidelijk tonen of de knuffelbeer correct verbonden is en of de ingestelde routine goed is doorgestuurd, zodat ouders zeker zijn dat het systeem correct werkt. 
+
+---
 
 ### Hardware en opstelling
 Onderstaand schema toont de opstelling die later gebruikt zal worden om het project te realiseren. Op basis daarvan werden de benodigde componenten aangekocht. In de volgende fase (Develop 2) wordt de opstelling opgebouwd en wordt de code geschreven om het systeem te testen.
@@ -88,6 +95,8 @@ Er werd gekozen voor een Arduino Mega in plaats van een Arduino Uno omdat:
 #### Connectie met de beer
 
 Tussen het scherm en de teddybeer wordt een magnetische POGO-pin connector gebruikt. Hierdoor kunnen de drukknoppen en LED’s in de beer blijven, terwijl het scherm eenvoudig kan worden losgekoppeld. In een latere fase wordt nog een oplossing uitgewerkt om deze poort beter te verbergen zodat kinderen er niet gemakkelijk aan kunnen komen.
+
+---
 
 ### Conclusies & implicaties
 Uit de testen blijkt dat het concept goed werkt, maar dat enkele onderdelen nog verder verbeterd moeten worden. Zo is adaptieve begeleiding nodig afhankelijk van het niveau van het kind, zijn waterbestendige knoppen belangrijk in natte situaties en speelt audio een grote rol omdat jonge kinderen vaak nog niet kunnen lezen. Speelse geluidjes en positieve feedback helpen bovendien om kinderen gemotiveerd te houden.
