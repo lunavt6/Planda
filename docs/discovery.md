@@ -26,7 +26,7 @@ Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijp
 
 Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
 
-[benchmarking protocol](//reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
+[benchmarking protocol](https://github.com/lunavt6/Planda/blob/main/reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
 
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
