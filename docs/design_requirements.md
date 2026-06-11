@@ -1,5 +1,5 @@
 ## Overzicht van Design Requirements
-|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan || 💭 theoretisch voldaan||
+|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan || 💭 theoretisch voldaan ||
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**Functionaliteit & Ondersteuning**|

@@ -5,7 +5,7 @@ Een interactieve knuffelbeer die kinderen op een speelse en zelfstandige manier 
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*9/05/2026*   
+*11/06/2026*   
 
 ## Samenvatting
 Veel jonge ouders ervaren dagelijks stress tijdens het aanleren van routinetaken aan jonge kinderen. Taken zoals tanden poetsen, handen wassen, naar het toilet gaan of de boekentas voorbereiden vragen vaak voortdurende begeleiding, herhaling en controle. Dit zorgt voor frustratie bij zowel ouder als kind en vermindert de zelfstandigheid van het kind.
