@@ -83,7 +83,7 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
 </table>
 
 Alle componenten worden aan elkaar gesoldeerd volgens volgende opstelling:
-![alt text](<Opstelling Planda-beer.jpg>)
+![alt text](//img/Opstelling%20Planda%20finaal.jpg)
 
 De volledige coderingsfase van onze beer is terug te vinden op de volgende GitHub‑pagina. Dit materiaal werd uitgewerkt in het kader van het vak Opkomende Technologie.
 https://github.com/BramEeckhoutUGent/Opdracht-Opkomende-Tech.git
