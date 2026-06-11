@@ -5,7 +5,7 @@ Wij geloven dat Planda een sterke oplossing vormt voor het geschetste probleem o
 
 In onderstaande afbeelding worden de verschillende componenten van Planda weergegeven.
 
-![Planda met annotaties]()
+![Planda met annotaties](../img/Planda%20met%20annotaties.png)
 
 Om de taken duidelijk te maken aan het kind, maakt Planda gebruik van een scherm waarop de verschillende stappen worden weergegeven aan de hand van GIF's. Hierdoor kunnen ook kinderen die nog niet kunnen lezen de instructies begrijpen. Het scherm en de elektronica worden beschermd door een stevige case. Deze zorgt ervoor dat het product bestand is tegen het dagelijkse gebruik door jonge kinderen en voorkomt dat zij rechtstreeks aan de elektronische componenten kunnen komen. Daarnaast kreeg de case een opvallende kleur, zodat het scherm beter opvalt en het product een speelse uitstraling krijgt die aansluit bij de doelgroep.
 
@@ -17,7 +17,7 @@ Naast visuele begeleiding wordt ook gebruikgemaakt van geluidseffecten en liedje
 
 De oren van de beer dienen als knoppen waarmee het kind met Planda kan communiceren. Deze zijn gemaakt uit doorzichtige silicone. Dit materiaal beschermt de onderliggende elektronica, voelt zacht aan en laat het licht van de ingebouwde ledjes door. Hierdoor blijven de knoppen duidelijk zichtbaar en gemakkelijk bruikbaar voor jonge kinderen. Eén oor dient om verder te gaan naar de volgende stap, terwijl het andere oor extra uitleg of motivatie biedt wanneer het kind hier nood aan heeft. Door deze eenvoudige bediening kan het kind zelfstandig gebruikmaken van het systeem.
 
-Om extra begeleiding te bieden, zijn beide oren voorzien van ledverlichting. Wanneer een nieuwe taak start, licht eerst de knop voor extra uitleg op. Nadien wordt de knop voor het afronden van de taak aangeduid. Hierdoor krijgt het kind duidelijke aanwijzingen over welke actie verwacht wordt. Daarnaast bevat de neus van de beer een groen ledlicht dat oplicht wanneer een taak succesvol werd afgerond. Deze onmiddellijke positieve feedback geeft het kind een gevoel van succes en stimuleert om verder te gaan met de volgende taak.
+Om extra begeleiding te bieden, zijn beide oren voorzien van ledverlichting. Wanneer een knop wordt ingedrukt, knippert deze kort als visuele bevestiging dat de knop is ingedrukt. Daarnaast bevat de neus van de beer een groen ledlicht dat oplicht wanneer een taak succesvol werd afgerond. Deze onmiddellijke positieve feedback geeft het kind een gevoel van succes en stimuleert om verder te gaan met de volgende taak.
 
 Naast de knuffelbeer werd ook een ondersteunende mobiele app ontworpen voor ouders. Via deze app kunnen takenreeksen worden samengesteld, aangepast en doorgestuurd naar de beer. Daarnaast biedt de app mogelijkheden om de voortgang van het kind op te volgen, meerdere profielen te beheren, herinneringen te krijgen voor oefenmomenten, … . Hierdoor kan Planda eenvoudig worden afgestemd op de specifieke behoeften van elk gezin.
 
