@@ -22,11 +22,13 @@ Voor volgende zaken werden interviews gedaan:
 
 Voor de kleurkeuzes werden verschillende renders ontwikkeld voor de uiteenlopende ontwerpopties, die vervolgens werden samengebracht in een PowerPointpresentatie. Tijdens een interview werden deze varianten voorgelegd aan gebruikers, waarbij werd onderzocht welke ontwerpen als meest aantrekkelijk werden ervaren.
 
+De PowerPointpresentaties zijn hier te vinden: [omhulsel](https://drive.google.com/file/d/1jtBIYcoHiLNUWgVYdP9SYzcHUyG76-D9/view?usp=sharing) en [oortjes](https://drive.google.com/file/d/1XNqXtDPErmhQJFLdnw9bNmKRSQDc-u7y/view?usp=sharing).
+
 Voor de keuze van de textuur werden verschillende varianten aan gebruikers gepresenteerd. Zij konden de materialen ook zelf voelen, zodat op basis van hun ervaring de meest geschikte optie kon worden geselecteerd.
 
-Het protocol van deze interviews is hier te vinden: [interview protocol](../reports%20and%20protocols/develop3%20-%20CMF%20-%20protocol.pdf)
+Het protocol van deze interviews is hier te vinden: [interview protocol](https://drive.google.com/file/d/1nMEvOunnXXP05v1LXsKzn6qRlS9hDP_Y/view?usp=sharing)
 
-Het report van deze interviews is hier te vinden: [interview report](../reports%20and%20protocols/develop3%20-%20CMF%20-%20report.pdf)
+Het report van deze interviews is hier te vinden: [interview report](https://drive.google.com/file/d/1Gyd1z_1kM8eNMYuMG_D5NSGw8vEMbcCc/view?usp=sharing)
 
 ---
 
@@ -94,20 +96,16 @@ Op basis van de resultaten kan geconcludeerd worden dat er een duidelijk verschi
 
 ![finale_render](../img/dev3_finaal.png)
 
-Tijdens deze fase zijn volgende design requirements ontstaan, deze zijn te zien in onderstaande tabel samen met de reden.
+Tijdens deze fase zijn op basis van de conclusies uit het onderzoek verschillende design requirements opgesteld. In onderstaande tabel worden deze conclusies weergegeven, samen met de bijhorende onderbouwing.
 
-|Design Requirement|Reden|
-|---|---|
-|Het product heeft een duidelijke zwarte rand rond de oren.¹|Deze optie werd unaniem gekozen en werd als het mooist en meest afgewerkt ervaren.|
-|De oortjes hebben een zachte en elastische interface.|Silicone bood de beste combinatie van zachtheid, elasticiteit en indrukbaarheid.|
-|Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.²|Kinderen moeten het LED-licht duidelijk kunnen zien tijdens interactie.|
-|Het omhulsel heeft felle en opvallende kleuren.¹|Kinderen gaven een duidelijke voorkeur aan felle en opvallende kleuren.|
-|Het omhulsel voelt glad aan.|Een glad oppervlak werd als het meest aangenaam ervaren en oogt minder druk.|
-|Het product is beschikbaar in verschillende kleurvarianten.|De kleurvoorkeuren werden enkel door meisjes beoordeeld.|
+| Conclusie | Reden |
+|-----------|-------|
+| Kinderen worden sterker aangetrokken door opvallende en herkenbare visuele elementen. | Kinderen gaven duidelijk de voorkeur aan felle kleuren. Daarnaast kozen zowel kinderen als ouders unaniem voor de oortjes met een zwart randje omdat deze beter zichtbaar waren en de panda meer karakter gaven. |
+| Een zachte en indrukbare interactie wordt als het meest natuurlijk ervaren voor de bediening van de oortjes. | Uit de materiaalvergelijking bleek dat silicone de beste combinatie biedt van zachtheid, elasticiteit, indrukbaarheid en grip. Kinderen voelen bovendien intuïtief aan dat het materiaal kan worden ingedrukt. |
+|Het product zorgt voor duidelijke visuele lichtfeedback tijdens de interactie.|Kinderen moeten het LED-licht duidelijk kunnen zien tijdens interactie.|
+| Kinderen ervaren een glad oppervlak als aangenamer dan een oppervlak met structuur. | Tijdens de interviews werd de gladde textuur het vaakst gekozen omdat deze zachter aanvoelt en het ontwerp eenvoudiger en rustiger maakt. |
+| Het product is beschikbaar in verschillende kleurvarianten. | De kleurvoorkeuren werden enkel door meisjes beoordeeld. |
 
-¹ Aangezien beide design requirements gaan over het speelser maken van het product, worden beide gecombineerd met de reeds bestaande design requirement 3.1.
-
-² Deze design requirements wordt anders geformuleerd zodanig dat het aansluit bij design requirement 1.4.
 
 > [!Important]
 > Design requirements
