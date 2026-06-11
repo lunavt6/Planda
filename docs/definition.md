@@ -25,8 +25,8 @@ Op basis van het storyboard werd beslist om het onderzoek gefaseerd aan te pakke
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
 De protocollen voor de interviews van beide waves zijn hier te vinden:
-* [Protocol wave 1](https://drive.google.com/file/d/1tDht5WUX5s2kWT2_GBW46OIctpL1c5EN/view?usp=sharing)
-* [Protocol wave 2](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
+* [Protocol wave 1](https://drive.google.com/file/d/130vRvOUCvCWISH5MEXmbPGNB_Uw2ju9m/view?usp=drive_link)
+* [Protocol wave 2](https://drive.google.com/file/d/1jO9U5P_zEwsMB1liQGqoZsyC6XyTrukl/view?usp=drive_link)
 
 Het hoofddoel van het ontwerp is dat kinderen de routine kunnen doorlopen met minimale of geen assistentie van de ouders. Om deze hoge graad van intuïtiviteit te bereiken, hebben we ons ontwikkelproces gebaseerd op de 7 Stages of Action van Donald Norman.
 
@@ -50,7 +50,7 @@ Naast het overdragen van informatie werden ook de interactieve elementen van de 
 
 Tot slot werd onderzocht hoe kinderen interacteren met hun eigen knuffels, om hieruit inzichten te halen voor het ontwerp van de interactieve beer.
 
-Het report van de interviews is [hier](https://drive.google.com/file/d/1DavIdwPK2MuseUFas5s0LzEAjd2tnw3C/view?usp=sharing) te vinden.
+Het report van de interviews is [hier](https://drive.google.com/file/d/1wbh-eud349pPwJQK2OwwAVadwWI7WrDZ/view?usp=sharing) te vinden.
 
 **Wave 2: User feedback sessions (N=5)**
 
@@ -64,7 +64,7 @@ Kinderen zien links vaak als “terug” en rechts als “doorgaan”. Daarom is
 
 De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer fungeert als een onafhankelijke gids, waardoor de ouderlijke rol verschuift van sturende "politieagent" naar toeschouwer, wat de opvoedstress aanzienlijk verlaagt.
 
-Het report van de interviews is [hier](https://drive.google.com/file/d/1M4MNhGCV2yEY8R1wfnuPgGviKFT1PNGz/view?usp=sharing) te vinden.
+Het report van de interviews is [hier](https://drive.google.com/file/d/1y09vUGmh9ruJW8-vAtFctbpJqeW_Oqac/view?usp=sharing) te vinden.
 
 ---
 

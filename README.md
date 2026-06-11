@@ -65,11 +65,11 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
     
 ### Definition
 * User testing wave 1 (N=4)
-  * [Protocol](https://drive.google.com/file/d/1tDht5WUX5s2kWT2_GBW46OIctpL1c5EN/view?usp=sharing)
-  * [Rapport](https://drive.google.com/file/d/1DavIdwPK2MuseUFas5s0LzEAjd2tnw3C/view?usp=sharing)
+  * [Protocol](https://drive.google.com/file/d/130vRvOUCvCWISH5MEXmbPGNB_Uw2ju9m/view?usp=drive_link)
+  * [Rapport](https://drive.google.com/file/d/1wbh-eud349pPwJQK2OwwAVadwWI7WrDZ/view?usp=drive_link)
 * User testing wave 2 (N=6)
-  * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
-  * [Rapport](https://drive.google.com/file/d/1M4MNhGCV2yEY8R1wfnuPgGviKFT1PNGz/view?usp=sharing)
+  * [Protocol](https://drive.google.com/file/d/1jO9U5P_zEwsMB1liQGqoZsyC6XyTrukl/view?usp=drive_link)
+  * [Rapport](https://drive.google.com/file/d/1y09vUGmh9ruJW8-vAtFctbpJqeW_Oqac/view?usp=drive_link)
 
 ### Development 1
 * Literatuuronderzoek (N=11)
