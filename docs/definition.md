@@ -1,6 +1,6 @@
 ## Definition
 
-### Doestellingen
+### Doelstellingen
 Het hoofddoel van dit project is het ontwikkelen van een slim hulpmiddel dat de ochtendroutine voor gezinnen met jonge kinderen (2-6 jaar) verlicht. Het ontwerpproces is opgedeeld in verschillende waves om iteratief te testen en te verbeteren.
 
 > **Wave 1**
@@ -50,7 +50,7 @@ Naast het overdragen van informatie werden ook de interactieve elementen van de 
 
 Tot slot werd onderzocht hoe kinderen interacteren met hun eigen knuffels, om hieruit inzichten te halen voor het ontwerp van de interactieve beer.
 
-Het report van de interviews is [hier](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing) te vinden.
+Het report van de interviews is [hier](https://drive.google.com/file/d/1DavIdwPK2MuseUFas5s0LzEAjd2tnw3C/view?usp=sharing) te vinden.
 
 **Wave 2: User feedback sessions (N=5)**
 

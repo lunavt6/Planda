@@ -66,7 +66,7 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
 ### Definition
 * User testing wave 1 (N=4)
   * [Protocol](https://drive.google.com/file/d/1tDht5WUX5s2kWT2_GBW46OIctpL1c5EN/view?usp=sharing)
-  * [Rapport](https://drive.google.com/file/d/134zaCPHTTjAc22BnhnAUFYa-Lybrjyap/view?usp=sharing)
+  * [Rapport](https://drive.google.com/file/d/1DavIdwPK2MuseUFas5s0LzEAjd2tnw3C/view?usp=sharing)
 * User testing wave 2 (N=6)
   * [Protocol](https://drive.google.com/file/d/18EHC1LxPO81a4ykPYPtLKHIeuyLHpXhP/view?usp=sharing)
   * [Rapport](https://drive.google.com/file/d/1M4MNhGCV2yEY8R1wfnuPgGviKFT1PNGz/view?usp=sharing)
