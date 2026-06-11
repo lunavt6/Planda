@@ -20,15 +20,11 @@ Hierbij zijn de deelvragen:
 Dit onderzoek werd uitgevoerd met twee onderzoeksmethoden: interviews en een benchmarkingonderzoek.
 Voor de interviews werden personen gekozen die direct betrokken zijn bij opvoedstress. Dit waren ouders met een kind tussen 2 en 6 jaar. Met hen werden semigestructureerde interviews gehouden. Dat betekent dat er vooraf hoofdvragen waren opgesteld, maar dat er tijdens het gesprek ruimte was om door te vragen. De interviews duurden gemiddeld 40 minuten en vonden plaats online en face-to-face. Met toestemming zijn de gesprekken opgenomen en later uitgewerkt. De antwoorden werden daarna geanalyseerd en vergeleken met elkaar.
 
-Het volledige interviewprotocol is hier te vinden: [interviewprotocol](https://drive.google.com/file/d/1N_GjyhnOHkRdai5fe6EW2gFWemPGeeNa/view?usp=sharing).
+Het volledige interviewprotocol is hier te vinden: [interview protocol](../reports%20and%20protocols/discovery%20-%20interview%20-%20protocol.pdf).
 
 Naast de interviews werd er een benchmarkingonderzoek gedaan om beter te begrijpen welke bestaande oplossingen er al zijn en op welke taken nog weinig ondersteuning wordt geboden. Hierbij werd naar bestaande producten gekeken die de opvoedstress zouden kunnen verminderen. Informatie kwam uit openbare bronnen, zoals websites en blogs. Vervolgens werden de oplossingen vergeleken op basis van hun sterke en zwakke punten. 
 
-Het protocol van deze benchmarking is hier te vinden: [benchmarkingprotocol](https://drive.google.com/file/d/1VPV1awJDa64VDqinm8LVtdigFpOs-lXI/view?usp=sharing).
-
-[benchmarking protocol](https://github.com/lunavt6/Planda/blob/main/reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
-
-[test](../reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
+Het protocol van deze benchmarking is hier te vinden: [benchmarking protocol](../reports%20and%20protocols/discovery%20-%20benchmarking%20-%20protocol.pdf)
 
 Door beide methoden te gebruiken konden zowel de ervaringen van ouders als informatie over bestaande oplossingen worden meegenomen. Hierdoor werd het onderwerp van verschillende kanten onderzocht.
 
@@ -54,7 +50,7 @@ Ouders zien verschillende manieren om deze stress te verminderen. Structuur en v
 Beloningssystemen kunnen de motivatie van het kind vergroten, terwijl gebruiksvriendelijke en duurzame hulpmiddelen ervoor zorgen dat de routines soepel verlopen.
 Het gewenste eindresultaat van de ouders is dat de dagelijkse routines rustig en gestructureerd verlopen, zonder geschreeuw of haast. Het kind voert taken zelfstandig uit, zonder voortdurende herhaling of aansporing, en er ontstaat meer tijdsbesef en minder spanning voor zowel ouder als kind. Op deze manier kan een slim hulpmiddel bijdragen aan stressvermindering bij ouders, meer zelfstandigheid bij kinderen en een positieve, plezierige sfeer in het gezin.
 
-Het report van de interviews is [hier](//reports%20and%20protocols/discovery%20-%20interview%20-%20report.pdf) te vinden.
+Het report van de interviews is [hier](../reports%20and%20protocols/discovery%20-%20interview%20-%20report.pdf) te vinden.
 
 **Benchmarking**
 
@@ -62,7 +58,7 @@ Uit de analyse is gebleken dat er al veel mogelijke oplossingen bestaan voor het
 Voor aankleden, opruimen en de ochtendroutine liggen er echter nog kansen om originelere en soms effectievere producten te ontwerpen. Bij aankleden en de ochtendroutine wordt momenteel meestal gewerkt met pictogrammen of checklists. Voor sommige kinderen blijkt dit niet motiverend genoeg te zijn om consequent te gebruiken. Bij opruimen geld iets soortgelijks, maar dan met behulp van labels. 
 Wat slapen en opstaan betreft, bestaat er al een breed aanbod aan slaaptrainers, met verschillende opties en ontwerpen. Omdat dit product effectief en goed ontwikkeld is, vormt deze taak geen probleem meer.
 
-Het report van de benchmarking is [hier](//reports%20and%20protocols/discovery%20-%20benchmarking%20-%20report.pdf) te vinden.
+Het report van de benchmarking is [hier](../reports%20and%20protocols/discovery%20-%20benchmarking%20-%20report.pdf) te vinden.
 
 ---
 
