@@ -13,10 +13,10 @@ CAD-bestand: [bevestigingsboog.prt](./bevestegingsboog.prt)
 
 ![alt text](../img/CAD_bovenkant_mal.png)
 ![alt text](../img/CAD_onderkant_mal.png)
-CAD-bestand: [mal.prt](<../../../../OneDrive - UGent/Bestanden van Bram Eeckhout - Project GO - Team 4/Cad files/planda oortje/mal.prt>)
+CAD-bestand: [mal.prt](./mal.prt)
 
 **Oortje**
 
 ![alt text](../img/CAD_oor_voor.png)
 ![alt text](../img/CAD_oor_onder.png)
-CAD-bestand: [oortjes.prt](<../../../../OneDrive - UGent/Bestanden van Bram Eeckhout - Project GO - Team 4/Cad files/planda oortje/oortjes eerste versie - kopie - kopie.prt>)
+CAD-bestand: [oortjes.prt](./oortjes%20eerste%20versie%20-%20kopie%20-%20kopie.prt)
