@@ -7,7 +7,7 @@ Om de oortjes stevig aan de beer te bevestigen, hebben we daarnaast een bevestig
 **Bevestegingsboog**
 
 ![alt text](../img/CAD_bevestigingsboog.png)
-CAD-bestand: [bevestigingsboog.prt](<../../../../OneDrive - UGent/Bestanden van Bram Eeckhout - Project GO - Team 4/Cad files/planda oortje/bevestegingsboog.prt>)
+CAD-bestand: [bevestigingsboog.prt](./bevestegingsboog.prt)
 
 **Mal oortje**
 
