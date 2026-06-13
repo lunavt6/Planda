@@ -1,9 +1,3 @@
-// De code voor het tonen van GIF's werd deels gebaseerd op de Youtube Tutorial: https://youtu.be/omUWkUqFYrQ
-// De code voor het afspelen van audio bestanden via de DFPlayer mini werd deels gebaseerd op de Youtube Tutorial: https://www.youtube.com/watch?v=P42ICrgAtS4 
-// De code voor dit project werd zo veel mogelijk zelf geschreven, AI werd gebruikt om de code te verbeteren.
-// Code die door AI geschreven werd, wordt aangegeven in de lijn.
-
-
 // ------ Installeren van libraries ------
 #include "esp_flash.h"
 #include "esp_partition.h"
