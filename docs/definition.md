@@ -62,7 +62,7 @@ De resultaten tonen aan dat een enkelvoudige prikkel (alleen licht) vaak wordt g
 
 Er werd een test uitgevoerd om te onderzoeken hoe kinderen van verschillende leeftijden kleuren associëren met emoties. Kinderen moesten emoties koppelen aan kleuren.
 
-![kleuren test](../img/kleuren.jpg)
+<img src="../img/kleuren.jpg" width="300">
 
 Kinderen zien links vaak als “terug” en rechts als “doorgaan”. Daarom is het logisch om rechts te gebruiken voor het starten en links voor beëindigen, zo wordt het makkelijker en duidelijker voor hen.
 
