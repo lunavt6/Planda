@@ -40,7 +40,9 @@ Het protocol voor de interview-testen is [hier](https://drive.google.com/file/d/
 
 ### Resultaten
 #### Literatuuronderzoek 
-Uit het literatuuronderzoek zijn volgende tijdlijnen ontstaan waarbij telkens één domein wordt bekeken.
+Uit dit onderzoek wordt duidelijk waarom gekozen werd voor de doelgroep van 2 tot 6 jaar. In deze periode maken kinderen een sterke ontwikkeling door. Ze zijn nieuwsgierig naar de wereld om zich heen, leren steeds zelfstandiger te worden en bouwen hun sociale vaardigheden verder uit. Tegelijk zetten ze hun eerste stappen in het kleuteronderwijs. Omdat in deze jaren de basis wordt gelegd voor hun verdere ontwikkeling, is het belangrijk om deze leeftijdsgroep goed in kaart te brengen.
+
+Bijgevolg zijn volgende tijdlijnen ontstaan waarbij telkens één domein wordt bekeken.
 ![Motorische](<../img/motorische ontwikkeling.png>)
 ![Cognitieve](<../img/cognitieve ontwikkeling.png>)
 ![Taal](<../img/taal- en spraakontwikkeling.png>)
