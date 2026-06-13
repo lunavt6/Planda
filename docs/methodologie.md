@@ -13,31 +13,31 @@ Daarnaast werden doelgroep, context en eerste conceptideeën verkend via schetse
 ### Definitiefase (SEM1)
 In de definitiefase werd de probleemdefinitie aangescherpt en vertaald naar concrete conceptrichtingen. Een storyboard visualiseerde hoe Planda Beer een rol kan spelen in dagelijkse routines.
 
-Vroege fysieke en visuele prototypes — van schetsmodellen tot mock‑ups — werden getest in meerdere feedbackrondes (N=3). In Wave 1 werden drie conceptuele prototypes onderzocht om interactievormen te evalueren. Kinderen bleken intuïtief te reageren op lichtsignalen, terwijl een vast scherm minder goed werd ontvangen. Dit leidde tot het ontwerpprincipe van verwisselbare T‑shirts met geprinte taakjes, gecombineerd met interne LED‑signalen. Parallel werd de eerste app‑interface ontwikkeld voor ouderlijke configuratie.
+Vroege fysieke en visuele prototypes, van schetsmodellen tot mock-ups, werden getest in meerdere feedbackrondes (N=3). In Wave 1 werden drie conceptuele prototypes onderzocht: een beer met een scherm, een beer met fysieke voorwerpen en een beer met een oplichtend T-shirt. Het prototype met scherm kreeg de voorkeur en werd verder uitgewerkt. Parallel werd de eerste app‑interface ontwikkeld voor ouderlijke configuratie. In Wave 2 werd het geselecteerde schermprototype verder verfijnd. Hierbij werden de signalen (licht en geluid), kleurassociaties en de plaatsing van interactie-elementen geëvalueerd. Op basis van de feedback werd gekozen voor een combinatie van licht en geluid, werden kleuren afgestemd op de emotieherkenning van kinderen en werd de interactie aangepast aan hun intuïtieve links-rechtsassociaties.
 
 #### Inzichten uit Wave 1
-Oren zijn de meest intuïtieve locatie voor knoppen.
+- Oren zijn de meest intuïtieve locatie voor knoppen.
 
-Interactieve elementen mogen de knuffelervaring niet verstoren.
+- Interactieve elementen mogen de knuffelervaring niet verstoren.
 
-Licht + korte geluidjes trekken effectief aandacht.
+- Licht + korte geluidjes trekken effectief aandacht.
 
-Geel werkt goed als startkleur; lichtgroen als voltooiingskleur.
+- Geel werkt goed als startkleur; lichtgroen als voltooiingskleur.
 
 #### Wave 2 – Verdere verdieping
-Interactie mag niet op knuffelzones (nek, armen, romp).
+- Interactie mag niet op knuffelzones (nek, armen, romp).
 
-Kinderen koppelen rechts aan “verder” en links aan “terug”.
+- Kinderen koppelen rechts aan “verder” en links aan “terug”.
 
-Knoppen moeten zacht, vervormbaar en veilig zijn.
+- Knoppen moeten zacht, vervormbaar en veilig zijn.
 
 Deze inzichten vormden de basis voor SEM2.
 
 ### Develop 1 (SEM2)
-In deze fase werd het concept functioneel ontleed. Via storyboards, I/O‑architectuur, user flows en een morfologische matrix onderzochten we mogelijke oplossingsrichtingen. Variety prototyping en testen (N = groepsgrootte + 2) valideerden hypotheses rond navigatie, feedback en taakopbouw.
+In deze fase werd het concept functioneel ontleed. Via storyboards, I/O‑architectuur, user flows en een morfologische matrix onderzochten we mogelijke oplossingsrichtingen. Variety prototyping en testen valideerden hypotheses rond navigatie, feedback en taakopbouw.
 
 ### Develop 2 (SEM2)
-De focus verschoof naar usability en ergonomie. We voerden een antropometrische analyse uit voor de oortjes, pasten cognitieve ergonomie toe (7 stages of action, GESTALT, signifiers) en bouwden meerdere fysieke varianten. Usabilitytests bevestigden welke vorm, drukweerstand en interactie het meest intuïtief waren.
+De focus verschoof naar usability en ergonomie. We voerden een antropometrische analyse uit voor de oortjes en bouwden meerdere fysieke varianten. Usabilitytests bevestigden welke vorm, drukweerstand en interactie het meest intuïtief waren.
 
 ### Develop 3 (SEM2)
 Tot slot werd het product verfijnd op vlak van UX, CMF en emotionele beleving. Via CMF‑analyses, benchmarking en prototypevarianten onderzochten we tactiliteit, kleurpsychologie en lichtdoorlaatbaarheid van de oortjes. Een laatste testwave (N=3) valideerde de finale ontwerpkeuzes. Ook werd er via [vizcom](https://app.vizcom.com/workbench/ae31f0d2-f4ac-4227-a162-1b8fc1ff2d59?srcRoute=%2F#sharing_secret=0c9c43d0-6527-4e3c-9b01-cbb4639b0d07) naar verschillende soorten materiaal gezocht. 

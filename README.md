@@ -77,14 +77,14 @@ In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI
 * Literatuuronderzoek (N=11)
   * [Protocol](https://drive.google.com/file/d/1JkM7xMZF1cOWVq1P75I5-xc_WWrdSNv_/view?usp=sharing)
   * [Rapport](https://drive.google.com/file/d/1lqU_Gb7P2KewI6b2YRbHUHMy500uVC_5/view?usp=sharing)
-* User testing
+* User testing (N=3)
   * [Protocol](https://drive.google.com/file/d/15MI33pND1JuIGdH_J8u2If2VXpHv9gB-/view?usp=sharing)
   * [Rapport](https://drive.google.com/file/d/1iAICvbYoYDdQVMLRW9RndhLdhfBj4c1h/view?usp=sharing)
 
 ### Development 2
 * Antropometrie onderzoek
   * [Rapport](https://drive.google.com/file/d/1W2tFgDZaNar4k2NG-botPuARzz3v3zZD/view?usp=sharing)
-* User testing
+* User testing (N=1)
   * [Protocol](https://drive.google.com/file/d/18UV0sOgIwRFaU0k2yumadGYeaR9zQ-xK/view?usp=sharing)
   * [Rapport](https://drive.google.com/file/d/10HXQ8sNEB7mYRsCe3yflU_DUqUeTnOM8/view?usp=sharing)
 

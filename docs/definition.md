@@ -72,7 +72,7 @@ Het report van de interviews is [hier](https://drive.google.com/file/d/1y09vUGmh
 
 ---
 
-### Aanvullende tekst voor de Definition-fase
+### Reflectie
 
 In tegenstelling tot de 7 Stages of Action, die eerder te algemeen bleken voor deze doelgroep, waren signifiers en constraints veel relevanter voor het ontwerp van een knuffel voor kinderen van 2 tot 6 jaar. Kinderen in deze leeftijdsgroep handelen voornamelijk op basis van directe visuele en fysieke aanwijzingen, waardoor het ontwerp sterk hierop werd afgestemd.
 
