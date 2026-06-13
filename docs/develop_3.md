@@ -87,7 +87,7 @@ Er werd wel rekening gehouden met het feit dat het uiteindelijke product geen ho
 
 Uit hun antwoorden bleek dat een gladdere textuur het meest in de smaak viel. Een glad oppervlak werd als aangenamer en zachter ervaren. Daarnaast zorgt een gladde afwerking voor een eenvoudiger ontwerp, waardoor het geheel minder druk oogt.
 
-![textuur_omhulsel]()
+![textuur_omhulsel](../img/Gladde%20textuur.jpg)
 
 ---
 
