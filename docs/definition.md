@@ -66,6 +66,26 @@ De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer
 
 Het report van de interviews is [hier](https://drive.google.com/file/d/1y09vUGmh9ruJW8-vAtFctbpJqeW_Oqac/view?usp=sharing) te vinden.
 
+### Aanvullende tekst voor de Definition‑fase
+
+Signifiers, constraints en mentale modellen als basis voor intuïtief ontwerp
+In tegenstelling tot de 7 Stages of Action, die eerder hoog-over bleken voor deze doelgroep, bleken signifiers en constraints veel relevanter voor het ontwerp van een knuffel voor kinderen van 2 tot 6 jaar. Kinderen in deze leeftijdsgroep handelen vooral op basis van directe visuele en fysieke aanwijzingen. Daarom werd sterk ingezet op:
+
+Signifiers: licht in het oor dat aangeeft waar actie verwacht wordt, kleurgebruik dat betekenis communiceert (geel = start, groen = voltooid), en duidelijke iconen op het scherm.
+
+Physical constraints: knoppen enkel op de oren, omdat andere zones (armen, voeten, romp) vaak worden vastgehouden tijdens het spelen en dus onbedoelde input veroorzaken.
+
+Logical constraints: rechts = verder, links = terug, gebaseerd op natuurlijke links‑rechtsassociaties die in Wave 2 bevestigd werden.
+
+Daarnaast werd in deze fase ook expliciet rekening gehouden met mentale modellen van jonge kinderen. Kinderen begrijpen technologie niet zoals volwassenen; ze redeneren vanuit herkenbare patronen zoals:
+
+“Als iets licht geeft, moet ik daar iets doen.”
+
+“Als ik op een oor druk, gebeurt er iets met de beer.”
+
+“Rechts is vooruit, links is terug.”
+
+Door deze mentale modellen te analyseren en te vertalen naar concrete interacties, werd de beer voorspelbaar en begrijpelijk — een cruciale voorwaarde voor autonomie.
 ---
 
 ### Conclusies & implicaties
