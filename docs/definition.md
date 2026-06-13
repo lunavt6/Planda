@@ -66,26 +66,23 @@ De autonomie van het kind wordt versterkt door deze directe feedbacklus. De beer
 
 Het report van de interviews is [hier](https://drive.google.com/file/d/1y09vUGmh9ruJW8-vAtFctbpJqeW_Oqac/view?usp=sharing) te vinden.
 
-### Aanvullende tekst voor de Definition‑fase
+---
 
-Signifiers, constraints en mentale modellen als basis voor intuïtief ontwerp
-In tegenstelling tot de 7 Stages of Action, die eerder hoog-over bleken voor deze doelgroep, bleken signifiers en constraints veel relevanter voor het ontwerp van een knuffel voor kinderen van 2 tot 6 jaar. Kinderen in deze leeftijdsgroep handelen vooral op basis van directe visuele en fysieke aanwijzingen. Daarom werd sterk ingezet op:
+### Aanvullende tekst voor de Definition-fase
 
-Signifiers: licht in het oor dat aangeeft waar actie verwacht wordt, kleurgebruik dat betekenis communiceert (geel = start, groen = voltooid), en duidelijke iconen op het scherm.
+In tegenstelling tot de 7 Stages of Action, die eerder te algemeen bleken voor deze doelgroep, waren signifiers en constraints veel relevanter voor het ontwerp van een knuffel voor kinderen van 2 tot 6 jaar. Kinderen in deze leeftijdsgroep handelen voornamelijk op basis van directe visuele en fysieke aanwijzingen, waardoor het ontwerp sterk hierop werd afgestemd.
 
-Physical constraints: knoppen enkel op de oren, omdat andere zones (armen, voeten, romp) vaak worden vastgehouden tijdens het spelen en dus onbedoelde input veroorzaken.
+Er werd daarbij ingezet op drie kernprincipes. Ten eerste signifiers, waarbij licht in het oor aangeeft waar actie verwacht wordt, kleurgebruik betekenis communiceert (geel = start, groen = voltooid) en duidelijke iconen op het scherm de interactie ondersteunen. Ten tweede physical constraints, waarbij knoppen uitsluitend op de oren werden geplaatst omdat andere lichaamsdelen (armen, voeten en romp) tijdens het spelen vaak worden vastgehouden, wat onbedoelde input zou veroorzaken. Ten derde logical constraints, waarbij rechts staat voor verder en links voor terug, gebaseerd op natuurlijke links-rechtsassociaties die in Wave 2 werden bevestigd.
 
-Logical constraints: rechts = verder, links = terug, gebaseerd op natuurlijke links‑rechtsassociaties die in Wave 2 bevestigd werden.
+Daarnaast werd in deze fase expliciet rekening gehouden met de mentale modellen van jonge kinderen. Kinderen begrijpen technologie niet zoals volwassenen, maar redeneren vanuit herkenbare patronen zoals: 
+> *“Als iets licht geeft, moet ik daar iets doen.”*
 
-Daarnaast werd in deze fase ook expliciet rekening gehouden met mentale modellen van jonge kinderen. Kinderen begrijpen technologie niet zoals volwassenen; ze redeneren vanuit herkenbare patronen zoals:
+> *“Als ik op een oor druk, gebeurt er iets met de beer.”* 
 
-“Als iets licht geeft, moet ik daar iets doen.”
+> *“Rechts is vooruit, links is terug.”*
 
-“Als ik op een oor druk, gebeurt er iets met de beer.”
+Door deze mentale modellen te analyseren en te vertalen naar concrete interacties, werd de beer voorspelbaar en begrijpelijk gemaakt, wat een cruciale voorwaarde vormt voor autonomie bij jonge gebruikers.
 
-“Rechts is vooruit, links is terug.”
-
-Door deze mentale modellen te analyseren en te vertalen naar concrete interacties, werd de beer voorspelbaar en begrijpelijk — een cruciale voorwaarde voor autonomie.
 ---
 
 ### Conclusies & implicaties
