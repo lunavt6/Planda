@@ -23,4 +23,9 @@ Naast de knuffelbeer werd ook een ondersteunende mobiele app ontworpen voor oude
 
 De app is hier te vinden: [Planda App](https://www.figma.com/make/hH7P8G2qhJlz6ltt2GSOgT/Morning-Routine-Planner-App?fullscreen=1&t=5xGemeAnBUFUFCQ1-1&code-node-id=0-9)
 
+<video width="640" height="360" controls>
+    <source src="../img/20260611_205357000_iOS.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 Op basis van de vooropgestelde [design requirements](design_requirements.md) geloven wij dat Planda een geschikte oplossing biedt voor het ondersteunen van jonge kinderen bij dagelijkse routines en taken. Door duidelijke begeleiding, motiverende feedback en een speelse vormgeving te combineren, helpt Planda kinderen om taken zelfstandiger uit te voeren en vermindert het tegelijkertijd de nood aan voortdurende tussenkomst van ouders.

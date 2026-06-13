@@ -6,7 +6,7 @@
 Het ontwikkelingsproces van Planda Beer volgde een iteratieve, gebruiksgerichte aanpak, gebaseerd op een aangepast Triple Diamond‑model. In SEM1 lag de nadruk op de discover‑ en definitiefase, waarin we de context van opvoedstress, kinderroutines en motivatie onderzochten. Deze inzichten vormden de basis voor de eerste conceptuele richting van Planda Beer.
 
 ### Discovery‑fase (SEM1)
-In de discover‑fase werd de probleemruimte rond ochtend‑ en avondroutines breed verkend. Via user interviews (N=3) met ouders en zorgverleners werden knelpunten, motivaties en strategieën in kaart gebracht. Een benchmarkingstudie (N=14) onderzocht bestaande hulpmiddelen, van educatieve apps tot fysieke routine‑tools, om marktgaten en inspiratiebronnen te identificeren.
+In de discovery‑fase werd de probleemruimte rond ochtend‑ en avondroutines breed verkend. Via user interviews (N=3) met ouders en zorgverleners werden knelpunten, motivaties en strategieën in kaart gebracht. Een benchmarkingstudie (N=14) onderzocht bestaande hulpmiddelen, van educatieve apps tot fysieke routine‑tools, om marktgaten en inspiratiebronnen te identificeren.
 
 Daarnaast werden doelgroep, context en eerste conceptideeën verkend via schetsen en vroege scenario’s. De inzichten werden samengebracht in een persona en een overzicht van noden, frustraties en kansen. Deze fase toonde vooral de nood aan een speels, fysiek én laagdrempelig hulpmiddel dat kinderen ondersteunt zonder extra stress of schermtijd.
 
