@@ -1,2 +1,5 @@
-Use this folder to share code on small tests: making a led burn, detecting a signal, ... this allows you to find this back easily later and share it with others.
-Use this readme file to describe these tests.
+**Test voor inputs**
+Dit is code om te controleren of de ESP32 werkt.
+
+**Test voor ouptuts**
+Dit is code om te controleren of het 2.8 inch TFT display en zijn SD kaart, DFPlayer mini, knoppen en LED's werken.
