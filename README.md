@@ -18,7 +18,7 @@ De uiteindelijke oplossing bestaat uit een zachte interactieve knuffelbeer met e
 
 
 ## Introductie
-Opvoeden brengt niet alleen plezier, maar ook veel stress met zich mee, zeker bij jonge ouders tijdens dagelijkse routines zoals tanden poetsen, handen wassen, aankleden of de boekentas voorbereiden. Veel kinderen hebben moeite om deze taken zelfstandig uit te voeren, waardoor ouders voortdurend moeten begeleiden, herhalen en controleren. Dit zorgt voor tijdsdruk, frustratie en gespannen interacties binnen het gezin [^1]. Onderzoek toont aan dat opvoedingsstress niet alleen een negatieve impact heeft op het welzijn van ouders, maar ook de zelfstandigheid en het zelfvertrouwen van kinderen kan beperken.
+Opvoeden brengt niet alleen plezier, maar ook veel stress met zich mee, zeker bij jonge ouders tijdens dagelijkse routines zoals tanden poetsen, handen wassen, aankleden of de boekentas voorbereiden. Veel kinderen hebben moeite om deze taken zelfstandig uit te voeren, waardoor ouders voortdurend moeten begeleiden, herhalen en controleren. Dit zorgt voor tijdsdruk, frustratie en gespannen interacties binnen het gezin.[^1] Onderzoek toont aan dat opvoedingsstress niet alleen een negatieve impact heeft op het welzijn van ouders, maar ook de zelfstandigheid en het zelfvertrouwen van kinderen kan beperken.
 
 Het Planda Beer-project onderzoekt hoe een interactieve knuffelbeer kinderen pedagogisch kan begeleiden bij het aanleren van dagelijkse taakjes. In tegenstelling tot een klassiek planningsinstrument richt het concept zich op het stap voor stap ondersteunen van het kind via een speelse, fysieke en digitale interactie. De beer combineert een scherminterface met auditieve en visuele feedback, zoals geluid, LED-lichtjes en intuïtieve knopinteractie via de oortjes. Op deze manier wordt het kind zelfstandig begeleid zonder dat de ouder voortdurend actief moet tussenkomen.
 
@@ -105,4 +105,4 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
-[^1] Persoonlijk interview met Sofie, 18 oktober 2025; persoonlijk interview met Ludovic, 19 oktober 2025; persoonlijk interview met Kaat, 19 oktober 2025.
+[^1]: Persoonlijk interview met Sofie, 18 oktober 2025; persoonlijk interview met Ludovic, 19 oktober 2025; persoonlijk interview met Kaat, 19 oktober 2025.
