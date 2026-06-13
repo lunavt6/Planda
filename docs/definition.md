@@ -24,7 +24,7 @@ Op basis van het storyboard werd beslist om het onderzoek gefaseerd aan te pakke
 
 Het onderzoek werd uitgevoerd via interviews, observaties en praktijktesten bij gezinnen thuis. Er namen ouders en kinderen tussen 2 en 6 jaar deel. In beide waves werden prototypes getest tijdens gesimuleerde ochtendroutines.
 
-<img src="../img/prototype_scherm.jpg" height="300"> <img src="../img/prototype_voorwerpen.jpg" height="300"> <img src="../img/prototype_shirt.jpg" height="300">
+<img src="../img/prototype_scherm.jpg" width="300"> <img src="../img/prototype_voorwerpen.jpg" width="300"> <img src="../img/prototype_shirt.jpg" width="300">
 
 De protocollen voor de interviews van beide waves zijn hier te vinden:
 * [Protocol wave 1](https://drive.google.com/file/d/130vRvOUCvCWISH5MEXmbPGNB_Uw2ju9m/view?usp=drive_link)
