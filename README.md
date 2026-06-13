@@ -54,7 +54,7 @@ Daarnaast toont het project aan dat elke ontwerpkeuze een spanningsveld creëert
 Ondanks deze beperkingen heeft het project een sterke methodologische basis gelegd. De combinatie van kwalitatieve observaties, iteratieve prototyping en empirische validatie heeft geleid tot een onderbouwd ontwerp dat rekening houdt met zowel kind als ouder. De kritische reflectie toont vooral dat Planda Beer potentieel heeft, maar dat verdere testen, grotere steekproeven en langdurige evaluaties noodzakelijk zijn om een product te creëren dat écht werkt in diverse gezinsomgevingen.
 
 ## Noot inzake het gebruik van AI
-In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI in om enkele eigen schetsen netter te visualiseren, teksten vlotter te formuleren, en tabellen of schema’s overzichtelijk op te maken zodat ze makkelijk in Visual Studio Code konden worden geïmporteerd. Alle concepten, ontwerpen, analyses en beslissingen zijn volledig door het projectteam zelf ontwikkeld; AI werd uitsluitend ingezet voor vormgeving en taalondersteuning.
+In dit project werd AI enkel als ondersteunend hulpmiddel gebruikt. We zetten AI in om enkele eigen schetsen netter te visualiseren, renders te maken, teksten vlotter te formuleren, en tabellen of schema’s overzichtelijk op te maken zodat ze makkelijk in Visual Studio Code konden worden geïmporteerd. Alle concepten, ontwerpen, analyses en beslissingen zijn volledig door het projectteam zelf ontwikkeld; AI werd uitsluitend ingezet voor vormgeving en taalondersteuning.
 
 ## Bijlagen
 ### Discovery
