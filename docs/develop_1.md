@@ -28,7 +28,7 @@ Het protocol voor het literatuuronderzoek is [hier](https://drive.google.com/fil
 
 Tijdens de testen van de interactieve beer werd een Wizard of Oz-opstelling gebruikt. Hierbij fungeerde een fysieke knuffelbeer als tastbare interface, terwijl een smartphone op de buik het Figma-prototype toonde. Via een Bluetooth-muis werden de schermen op afstand bestuurd, zodat de volledige interactiestroom getest kon worden zonder dat de echte hardware en software al ontwikkeld waren. De focus van de test lag vooral op het gedrag, begrip en de motivatie van kinderen tijdens dagelijkse zelfzorgtaken zoals handen wassen.
 
-![prototype dev 1](../img/Develop1_prototype.jpg)
+<img src="../img/Develop1_prototype.jpg" width="300">
 
 Daarna werden de noden voor de app onderzocht. Eerst werd aan de geïnterviewden gevraagd wat zij van de app verwachtten. Vervolgens werd een eerste versie van de app getoond en werd gevraagd welke functies of aanpassingen volgens hen nog ontbraken. 
 
