@@ -43,7 +43,7 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">/</td>
     </tr>
     <tr>
-      <td rowspan="5" style="text-align: center; font-weight: bold; vertical-align: middle;">Panda beer</td>
+      <td rowspan="6" style="text-align: center; font-weight: bold; vertical-align: middle;">Panda beer</td>
       <td style="padding: 8px; text-align: center;">Zittende Panda 33cm</td>
       <td style="padding: 8px; text-align: center;">Nicotoy via <a href="https://www.bol.com/be/nl/p/nicotoy-zittende-panda-33cm/9300000052332543/">bol.com</a></td>
       <td style="padding: 8px; text-align: center;">14,49</td>
@@ -58,8 +58,8 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">TIN-IN via <a href="https://www.bol.com/be/nl/p/elektronica-starter-kit/9300000072599119/">bol.com</a></td>
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">/</td>
     </tr>
-    <tr>
-    <td style="padding: 8px; text-align: center; background-color: #aeedc0;">Drukknoppen (x2)</td>
+    <tr style="background-color: #aeedc0;">
+      <td style="padding: 8px; text-align: center; background-color: #aeedc0;">Drukknoppen (x2)</td>
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">TIN-IN via <a href="https://www.bol.com/be/nl/p/elektronica-starter-kit/9300000072599119/">bol.com</a></td>
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">/</td>
     </tr>
