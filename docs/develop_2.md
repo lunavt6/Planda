@@ -60,11 +60,22 @@ Het report van de gebruikerstesten is [hier](https://drive.google.com/file/d/10H
 
 ---
 
-### GIF's
-Er werden verschillende GIF’s gemaakt rond dezelfde taak, maar elk in een verschillende stijl.
+### Feedback
+#### Visueel
+Het is belangrijk dat het kind duidelijk begrijpt welke taak uitgevoerd moet worden en op welke manier deze uitgevoerd kan worden. Om de taakjes visueel weer te geven, worden GIF-animaties gebruikt die afgespeeld worden op het TFT-display.
+
+Binnen het systeem wordt een onderscheid gemaakt tussen taakjes en hints. De taakjes tonen enkel de actie die uitgevoerd moet worden. Op deze manier krijgt het kind informatie over wat er moet gebeuren, zonder extra uitleg over de uitvoering. De hints leggen daarentegen meer nadruk op hoe de taak uitgevoerd moet worden en tonen daarom een meer gedetailleerde weergave van de actie.
 
 <img src="../img/gif1.jpg" width="100"> <img src="../img/gif2.jpg" width="100"> <img src="../img/gif3.jpg" width="100"> <img src="../img/gif4.jpg" width="100"> <img src="../img/gif5.jpg" width="100">
 
+Omdat de GIF-bestanden momenteel opgeslagen worden in het interne geheugen van de ESP32, is de beschikbare opslagruimte beperkt. Hierdoor moeten de animaties relatief eenvoudig blijven en kunnen ze minder gedetailleerde beelden bevatten. Vooral de GIF-animaties die de uitvoering van een taak uitleggen, zullen hierdoor beperkt zijn in lengte en detail.
+
+Wanneer in een toekomstige versie gebruikgemaakt wordt van de SD-kaartlezer die geïntegreerd is in het TFT-display, kan de opslagcapaciteit aanzienlijk uitgebreid worden. Hierdoor wordt het mogelijk om langere en meer gedetailleerde GIF-animaties te gebruiken.
+
+#### Audio
+Naast visuele feedback wordt ook audiofeedback voorzien. Elk taakje wordt eerst door een stem uitgesproken, zodat het kind de opdracht correct begrijpt en de GIF-animatie niet verkeerd interpreteert. Voor de hints wordt eveneens een gesproken uitleg voorzien die beschrijft hoe de taak uitgevoerd moet worden, gevolgd door een ondersteunend muziekje.
+
+Wanneer een taak succesvol voltooid is, krijgt het kind positieve bevestiging via een applausgeluid. Op deze manier wordt de interactie niet enkel informatief, maar ook motiverend gemaakt.
 
 ---
 
