@@ -1,3 +1,9 @@
+// De code voor het tonen van GIF's werd deels gebaseerd op de Youtube Tutorial: https://youtu.be/omUWkUqFYrQ
+// De code voor het afspelen van audio bestanden via de DFPlayer mini werd deels gebaseerd op de Youtube Tutorial: https://www.youtube.com/watch?v=P42ICrgAtS4 
+// De code voor dit project werd zo veel mogelijk zelf geschreven, AI werd gebruikt om de code te verbeteren.
+// Code die door AI geschreven werd, wordt aangegeven in de lijn.
+
+
 // ------ Installeren van libraries ------
 #include "esp_flash.h"
 #include "esp_partition.h"
@@ -59,6 +65,11 @@ AnimatedGIF gif;
 int Huidige_taak = 0;
 bool Wordt_actie_getoond = false; // Zijn we momenteel de actie-afbeelding aan het tonen?
 bool Taak_gedaan = false;
+unsigned long Audio_Timer_Start = 0;
+bool Wacht_Op_Muziek = false;
+unsigned long Taak_Audio_Timer_Start = 0;
+bool Wacht_Op_Taak_Audio = false;
+int Geplande_Taak_Index = 0;
 
 // --- GIF data voor de taakjes ---
 #define GIF_COUNT 3
@@ -97,7 +108,7 @@ void setup() {
   } else {
     Serial.println("DFPlayer online!");
   }
-  myDFPlayer.volume(30); // volume gaat van 0 t.e.m. 30
+  myDFPlayer.volume(25); // volume gaat van 0 t.e.m. 30
 
   if (psramInit()) { // we werken niet met de SD kaartlezer op het TFT scherm. We werken met het PSRAM (8Mb) van de ESP32. Dit is een kleine statuscontrole.
     Serial.println("PSRAM succesvol geïnitialiseerd!");
@@ -123,6 +134,10 @@ void setup() {
   tft.fillScreen(TFT_BLACK);
 
   loadtaakGif(Huidige_taak); // Dit toont de eerste taak op het scherm
+  delay(200);
+  yield();
+  myDFPlayer.play(Huidige_taak + 5);
+  Wacht_Op_Taak_Audio = false;
 }
 
 void loop() {
@@ -141,6 +156,7 @@ void loop() {
       Huidige_taak = 0;
       Wordt_actie_getoond = false;
       Taak_gedaan = false;
+      Wacht_Op_Muziek = false;
 
       // 2. Reset alle LED timers en zet LEDs in beginstand
       Knipper_Blauw_On = false;
@@ -169,9 +185,10 @@ void loop() {
   if (isButtonPressed(Blauwe_knop, nextState, lastNextState, lastNextDebounce)) { // [!] Deze code werd gegenereerd door AI (gemini)
     Huidige_taak++;                                                               // |||||||||||||||||||||||||||||||||||||||||||||||
     Wordt_actie_getoond = false;                                                  // |||||||||||||||||||||||||||||||||||||||||||||||
+    Wacht_Op_Muziek = false;
     
     myDFPlayer.play(1); // speelt geluidje dat taak gedaan is
-
+    
     Knipper_Blauw_On = true;
     Knipper_Blauw_Start = nu;
     Groen_On = true;
@@ -182,6 +199,9 @@ void loop() {
       Serial.printf("Naar taak %d\n", Huidige_taak + 1); // [!] Deze code werd gegenereerd door AI (gemini)
       tft.fillScreen(TFT_BLACK);
       loadtaakGif(Huidige_taak);
+      Geplande_Taak_Index = Huidige_taak;
+      Taak_Audio_Timer_Start = nu;
+      Wacht_Op_Taak_Audio = true;
     } else {
       Serial.println("Taak is gedaan");
       tft.fillScreen(TFT_BLACK);
@@ -198,14 +218,30 @@ void loop() {
       
       Knipper_Orange_On = true;
       Knipper_Orange_Start = nu;
-
-      myDFPlayer.play(Huidige_taak + 2); // speelt het geluidsbestand dat overeenkomt met de taak
-      delay(100); // kleine pauze toegevoegd omdat signaal van gif en audio tegelijk verzonden wordt. Volgens AI heeft dat te maken met te veel informatie in de SPI-bus?
-      yield();
       
+      myDFPlayer.play(Huidige_taak + 8);
+      Audio_Timer_Start = nu;
+      Wacht_Op_Muziek = true;
+
       tft.fillScreen(TFT_BLACK); // altijd bij het switchen van gifs eerst kort een zwart scherm toevoegen, dat helpt bij het renderen.
       loadhintGif(Huidige_taak);
       return;
+    }
+  }
+
+// Audio-sync
+if (Wacht_Op_Muziek) {
+    if (nu - Audio_Timer_Start >= 9000) {
+      myDFPlayer.play(Huidige_taak + 2);
+      Wacht_Op_Muziek = false;
+      Serial.println("AI-stem klaar, muziek gestart.");
+    }
+  }
+if (Wacht_Op_Taak_Audio) {
+    if (nu - Taak_Audio_Timer_Start >= 9000) {
+      myDFPlayer.play(Geplande_Taak_Index + 5);
+      Wacht_Op_Taak_Audio = false;
+      Serial.println("Succes-geluid klaar, nieuwe taak-audio gestart.");
     }
   }
 
@@ -270,7 +306,6 @@ void loadhintGif(int index) {                                                   
   Serial.println("Vrijmaken geheugen...");
   gif.close();
   gif.freeFrameBuf(GIFFree);
-  myDFPlayer.play(index + 10);
   delay(100); 
   yield();
   Serial.printf("PSRAM vrij voor start: %d bytes\n", ESP.getFreePsram());       // [!] Deze code werd gegenereerd door AI (gemini)
