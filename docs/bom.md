@@ -86,6 +86,3 @@ De componenten die in het groen aangeduid zijn, werden aangekocht als onderdeel 
 
 Alle componenten worden aan elkaar gesoldeerd volgens volgende opstelling:
 ![alt text](../img/Opstelling%20Planda%20finaal.jpg)
-
-De volledige coderingsfase van onze beer is terug te vinden op de volgende GitHub‑pagina. Dit materiaal werd uitgewerkt in het kader van het vak Opkomende Technologie.
-https://github.com/BramEeckhoutUGent/Opdracht-Opkomende-Tech.git
