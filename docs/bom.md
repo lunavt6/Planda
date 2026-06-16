@@ -77,7 +77,7 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
   </tbody>
 </table>
 
-De componenten die in het groen aangeduid zijn, werden aangekocht als onderdeel van een samengestelde set (€29,95). Dit bleek voordeliger te zijn dan de componenten afzonderlijk aan te kopen.
+De componenten die in het groen aangeduid zijn, werden aangekocht als onderdeel van een samengestelde set (€29,95). Dit bleek voordeliger te zijn dan de componenten afzonderlijk aan te kopen. Daarnaast wordt ervoor gekozen om een powerbank te gebruiken als voedingsbron voor het project. Deze keuze zorgt voor een eenvoudige en draagbare stroomvoorziening. Indien gewenst kan deze voedingsbron echter aangepast worden naar een andere oplossing.
 
 Alle componenten worden aan elkaar gesoldeerd volgens volgende opstelling:
 ![alt text](../img/Opstelling%20Planda%20finaal.jpg)
