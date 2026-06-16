@@ -70,49 +70,20 @@ Het report van de testinterviews is [hier](https://drive.google.com/file/d/1iAIC
 ---
 
 ### Hardware en opstelling
-Onderstaand schema toont de opstelling die later gebruikt zal worden om het project te realiseren. Op basis daarvan werden de benodigde componenten aangekocht. In de volgende fase (Develop 2) wordt de opstelling opgebouwd en wordt de code geschreven om het systeem te testen.
+Onderstaand schema geeft de uiteindelijke hardware-opstelling weer die gebruikt zal worden voor de realisatie van dit project. Op basis van deze opstelling werden de nodige componenten geselecteerd en aangekocht. In de volgende fase wordt de hardware opgebouwd en wordt de software ontwikkeld om het volledige systeem te testen.
 
-![Opstelling Planda](<../img/Opstelling Planda.jpg>)
+![Opstelling Planda](<../img/opstelling_dev2.jpg>)
 
-#### Gebruikte componenten
+Binnen dit project worden de taakjes en bijhorende hints opgeslagen in het interne geheugen van de ESP32. Hierdoor blijft het aantal beschikbare taakjes voorlopig beperkt door de opslagcapaciteit van de microcontroller. Het gebruikte TFT-display beschikt echter over een ingebouwde SD-kaartinterface. In een toekomstige uitbreiding kan deze opslagmogelijkheid gebruikt worden om de taakjes en hints extern op te slaan, waardoor een groter aantal taakjes mogelijk wordt.
 
-- Arduino Mega
-- 3.5" TFT-display
-- DFPlayer Mini
-- Speaker
-- Weerstanden: 1000 Ω, 330 Ω, 220 Ω
-- LED
-- Drukknop
-- POGO-pin connector
-- Scherm en visuele feedback
+In de huidige opstelling wordt een pogo-pin connector gebruikt om de verbinding tussen de ESP32 en de componenten in de beer tot stand te brengen. Dankzij de sterke magneten in deze connector kan de aansluiting niet verkeerd gepositioneerd worden, waardoor het omwisselen van de polariteit wordt voorkomen. Daarnaast maakt de magnetische verbinding het mogelijk om de aansluiting snel te koppelen en los te maken.
 
-Uit eerdere testen bleek dat visuele ondersteuning belangrijk is voor kinderen. Daarom wordt een relatief groot scherm gebruikt waarop duidelijke pictogrammen of afbeeldingen worden weergegeven. Er werd gekozen voor een TFT-display, omdat dit eenvoudig te implementeren is en in een latere fase ook touchscreenfunctionaliteit kan ondersteunen.
-
-#### Audiofeedback
-
-Naast visuele feedback krijgt het kind ook audio-impulsen:
-
-- Voor de taak: een gesproken uitleg van de opdracht
-- Tijdens de taak: muziek of geluiden om motivatie te stimuleren
-- Na de taak: een belonend geluid
-
-Deze audio wordt afgespeeld via een DFPlayer Mini met een SD-kaart en speaker. Tussen de RX-pin van de DFPlayer en de Arduino wordt een 1000 Ω weerstand geplaatst, omdat de DFPlayer op 3.3 V logica werkt en de Arduino Mega 5 V gebruikt.
-
-#### Arduino keuze
-
-Er werd gekozen voor een Arduino Mega in plaats van een Arduino Uno omdat:
-
-- De SRAM van een Uno (2 kB) te klein is voor dit project.
-- De Mega meer poorten heeft, wat nodig is omdat het display-shield veel pinnen gebruikt.
-
-#### Connectie met de beer
-
-Tussen het scherm en de teddybeer wordt een magnetische POGO-pin connector gebruikt. Hierdoor kunnen de drukknoppen en LED’s in de beer blijven, terwijl het scherm eenvoudig kan worden losgekoppeld. In een latere fase wordt nog een oplossing uitgewerkt om deze poort beter te verbergen zodat kinderen er niet gemakkelijk aan kunnen komen.
+Omdat het solderen van dergelijke verbindingen extra nauwkeurigheid vereist en mijn ervaring hierin beperkt is, wordt in deze projectfase een eenvoudige zelfgemaakte connector gebruikt op basis van Dupont-kabels. Deze oplossing maakt het mogelijk om de hardware flexibel aan te sluiten en eenvoudig aanpassingen uit te voeren tijdens het ontwikkelproces.
 
 ---
 
 ### Conclusies & implicaties
-Uit de testen blijkt dat het concept goed werkt, maar dat enkele onderdelen nog verder verbeterd moeten worden. Zo is adaptieve begeleiding nodig afhankelijk van het niveau van het kind, zijn waterbestendige knoppen belangrijk in natte situaties en speelt audio een grote rol omdat jonge kinderen vaak nog niet kunnen lezen. Speelse geluidjes en positieve feedback helpen bovendien om kinderen gemotiveerd te houden.
+Uit de testen blijkt dat het concept goed werkt, maar dat enkele onderdelen nog verder verbeterd moeten worden. Zo is adaptieve begeleiding nodig afhankelijk van het niveau van het kind, zijn waterbestendige knoppen belangrijk in natte situaties en speelt audio een grote rol omdat jonge kinderen vaak nog niet kunnen lezen. 
 
 Daarnaast blijkt dat ouders een eenvoudige en overzichtelijke app willen. Ze willen routines makkelijk kunnen instellen en aanpassen en de voortgang van hun kind kunnen volgen via visuele feedback. 
 

@@ -60,20 +60,11 @@ Het report van de gebruikerstesten is [hier](https://drive.google.com/file/d/10H
 
 ---
 
-### Opstelling
-In develop 1 werd de testopstelling uitgelegd. In deze opstelling werd een Arduino mega en 3.5 inch TFT display shield gebruikt. Echter werd vastgesteld dat er geen GIF’s afgespeeld kunnen worden via deze methode. Afbeeldingen kunnen wel afgespeeld worden, maar zeer traag. We hebben ervoor gekozen om toch over te schakelen naar een andere opstelling.
-
-![opstelling](../img/opstelling_dev2.jpg)
-
-In deze opstelling wordt een ESP32-S3 en 2.8 inch TFT display gebruikt. Dit scherm gebruikt de ILI9341 SPI driver i.p.v. ili9486 library. Daarnaast is de ESP32 meer geschikt om GIF’s te laten afspelen. Er werden verschillende GIF’s gemaakt rond dezelfde taak, maar elk in een verschillende stijl. Er zal later gekeken worden welke stijl de kinderen liever hebben:
+### GIF's
+Er werden verschillende GIF’s gemaakt rond dezelfde taak, maar elk in een verschillende stijl.
 
 <img src="../img/gif1.jpg" width="100"> <img src="../img/gif2.jpg" width="100"> <img src="../img/gif3.jpg" width="100"> <img src="../img/gif4.jpg" width="100"> <img src="../img/gif5.jpg" width="100">
 
-Naast de GIF’s werd ook al een eerste model gemaakt van hoe het omhulsel van het scherm er zal uit zien:
-
-![omhulsel](../img/omhulsel.png)
-
-Het model werd al eens geprint om te kijken of alle componenten erin passen. 
 
 ---
 
