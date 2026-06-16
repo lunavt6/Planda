@@ -48,6 +48,11 @@ Hieronder wordt een overzicht gegeven van alle onderdelen die in dit project zij
       <td style="padding: 8px; text-align: center;">Nicotoy via <a href="https://www.bol.com/be/nl/p/nicotoy-zittende-panda-33cm/9300000052332543/">bol.com</a></td>
       <td style="padding: 8px; text-align: center;">14,49</td>
     </tr>
+    <tr>
+      <td style="padding: 8px; text-align: center;">Magneten</td>
+      <td style="padding: 8px; text-align: center;">Brute Force via <a href="https://www.bol.com/be/nl/p/brute-force-sterke-schijfmagneten-ronde-magneten-whiteboard-n35-20mm-x-2mm-5-stuks/9300000132181296/">bol.com</a></td>
+      <td style="padding: 8px; text-align: center;">12,95</td>
+    </tr>
     <tr style="background-color: #aeedc0;">
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">Blauwe LED (x1)<br>Groene LED (x1)<br>Orange LED (x1)</td>
       <td style="padding: 8px; text-align: center; background-color: #aeedc0;">TIN-IN via <a href="https://www.bol.com/be/nl/p/elektronica-starter-kit/9300000072599119/">bol.com</a></td>
